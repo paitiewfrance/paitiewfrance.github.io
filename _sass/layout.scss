@@ -338,8 +338,6 @@ footer {
   }
 }
 
-
-
 #tour-page  {
   header {
        text-align: center;
@@ -351,12 +349,9 @@ footer {
   }
 
   h1 {
-    // color:#9E2121;
    font-weight: 600;
     line-height: 1.5em;
     padding: 1em 1.5em 0  1.75em;
-
-    
 }
 
 h2 {
@@ -505,16 +500,16 @@ a.test {
 
 
 .cd-top {
-  width: 3.5em;
-  height:3.5em;
+  width: 2.5em;
+  height:2.5em;
   background:rgba(black, .95);
   position: fixed;
   bottom:3em;
-  right:3em;
+  right:1em;
   visibility: hidden;
   opacity:0;
   display: block;
-  line-height: 3.5em;
+  line-height: 2.5em;
   text-align: center;
 
   span {
