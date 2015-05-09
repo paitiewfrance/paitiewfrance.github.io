@@ -7,9 +7,9 @@ duration: 11 Days / 10 Nights
 img: /burgundy/chambertain.jpg
 intro: Disover the Burgundy in depth with us. From Dijon to Beaune, experience great wine throught the legendary Route des Grands Crus, admire the countless   medieval villages and endless vineyards. On the northern part, wander the UNESCO World Heritage Sites of Vezelay and the Fontenay abbey.  And much more with this 11 days tour.  Welcome to Burgundy. 
 prices: 
-     - expensive for 7-10 persons
-     - very expensive for 4-7 persons
-     - out of budget for 2-4 persons
+     - Contact us for 7-10 persons
+     - Contact us for 4-7 persons
+     - Contact us for 2-4 persons
 ---
 
 ### Day 1: Dijon
