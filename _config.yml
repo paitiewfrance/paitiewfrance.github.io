@@ -1,8 +1,9 @@
 markdown: kramdown
-url: "http://localhost:4000"
+url: "https://paitiewfrance.github.io"
 email: redsunbluesky19@hotmail.com
 author: Sudhida Kanoksinsombat
 permalink: pretty
+base_url: "http://localhost:4000"
 
 
 
