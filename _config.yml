@@ -1,9 +1,9 @@
-markdown: kramdown
 url: "https://paitiewfrance.github.io"
-email: redsunbluesky19@hotmail.com
-author: Sudhida Kanoksinsombat
+markdown: kramdown
+author: paitiewfrance
+
 permalink: pretty
-base_url: "http://localhost:4000"
+
 
 
 
