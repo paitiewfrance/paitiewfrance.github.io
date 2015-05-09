@@ -1,8 +1,8 @@
 ---
 layout: default
 title: PaitiewFrance
-meta: France Bourgogne Semur en Auxois Wine Red Wine Tour Chablis 
-keywords: Bourgogne Tour  around Medieval vllages vinery france
+meta: paitiewfrance france travel in provence  bourgogne burgundy paris  avignon grasse  baux de provence luberon
+keywords:  paitiewfrance  france travel travel in provence bourogone burgundy paris avignon grasse  baux de provence luberon
 class: home
 ---
 
