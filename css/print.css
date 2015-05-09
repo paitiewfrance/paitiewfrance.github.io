@@ -1,0 +1,28 @@
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+	font-size: 1em;
+	margin-top: 2cm;
+	margin-right: 2cm;
+	color:#333 !important;
+	margin-bottom: 1.5cm;
+	margin-left: 2cm;
+	background: white !important;
+}
+
+
+p, ul li, h1, h2, h3, h4, h5, h6 {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+}
+
+
+img, nav, footer, a, .fb-container  {
+	display: none !important;
+}
+
+
+
+
+
+.extra-info  {
+	margin-bottom: 1.75em !important;
+}

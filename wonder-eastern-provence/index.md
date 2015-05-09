@@ -1,0 +1,91 @@
+---
+layout: tour
+title: Wonder of Eastern Provence
+duration: 11 Days / 9 Nights
+keywords:  France Bourgogne Semur en Auxois Wine Red Wine Tour Chablis 
+meta: Bourgogne Tour  around Medieval vllages vinery france
+img: lavande.jpg
+intro: Join The Wonder Eastern Provence tour and discover with us some of the most beautifull hilltop village in south of France, the Verdon with it's amazing canyon
+          the Lavender field at Valensole..And much more.
+prices:
+  - 96.000THB for 7-10 persons
+  - 109.000THB for 4-7 persons
+  - 134.000THB for 2-4 persons
+---
+
+### Day 1: Antibes - Biot - Saint-Paul-de-Vence
+After breakfast, let's explore the old city of Antibes, numerous fortification, provencal market,  the well preserved ramparts and it's Picasso museum houses at Grimadli castle. Numerous cafes and restaurants are around the corner.
+The port of Antibes is also a place to visit, get familiar with the fisherman lifestyle of Southern France, with their product ready for sell on the pier.
+
+For luxury boat lovers, wander the Quai des milliardaires and get a closer look of the majestics Yatch dock.
+
+Head on to La Garoupe to admire the spectacular view over the bay cannes's islands view and the French Riviera. 
+
+We will take a visit to Biot,medieval village reputed worldwide for it's glass blowers art work. We will first go to upper village,  take a walk and stroll around the streets before having a lunch in the village. 
+Then, we will got visit  the workshop of "La Verrerie de Biot" ( glassware of Biot), which was the first to introduce the frosted bubble glass technique (1991-Éloi Monod).
+
+The glassware still innovated with luminescent glass that shines neons colors in the dark.
+It's a chance for us to discover and folllow the work of the glass blowers,   
+
+in front of you.
+We will have a look at the opposite building witch contains art gallery of unique pieces like lamps, vases, bottles for perfums, cups and much more.
+
+We will continue our day and drive to one of the most beautifull and charming town in france, Saint-Paul-de-Vence.  Wander the numerous art galleries, stroll inside the picturesque narrows backstreets that made the worldwide reputation of this medieval village.
+
+Dinner and night it Opio.
+
+### Day 2: Grasse - Parfumerie Galimard - Gourdon
+After breakfast, take a walk inside the old city visiting some monuments before heading to the famous ancient  perfum factory: Galimard.
+You will discover the impressive collection of antique copper production equipment,  learn with a hostess the origins of perfums, the methods of extractions of flowers, plants and scented woods. 
+
+Head on the organ perfum called "The Nose",  the place where perfums are composed.
+The visit will end to the factory shop where products can be purchase at preferencial rates.
+
+After lunch, we head at Gourdon, a superb hiltop medieval village, classified as one of the most beautifull village in France. The spendid scenary and the view offers over the Mediterranean sea and low Alps the village will blow your mind.  Along with plenty  photo opportunities, stroll through the narrow streets,  visit the small boutiques with perfume product,  the local producer of spice bread (Pain d'epices ) , a glass blower who creates intricate masterpieces ..
+
+Drive to Castellane.
+
+Dinner and night at Castellane.
+
+### Day 3:  Castellane - Entrevaux
+
+After breakfast, we leave the verdon to an hour drive to Entrevaux, a picturesque medieval village surrounded by lower Provencal mountains. Start your exploration by entering the village using it's drawbridge accross the Var river,  stroll to the winding back streets, explore the old houses along the way get a feel of this picturesque village. 
+For lunch, we will enjoy the famous Secca d'Entrevaux, a local delicacy made of  dry seasonned meat of beef.
+
+After lunch, we will  continue our visit by  taking on the zig zag walkway through 20 fortified doorways to the Citadalle ,fortified by Vauban in the  XVII century. Visit the Citadelle interior's rooms , donjon, courtyards and cacth up some photo with  the scenary offers over the village and the surrounding area.
+
+### Day 4: Gorges du Verdon - Moustiers Sainte-Marie
+After breakfast, head on to Verdon Regional Park, one of the most beautifull natural site of Provence. 
+Our drive will start from the city Castellane,  taking on the sublime corniche road, and overtlooking the dramastic scenary of Europe's biggest canyon.
+Admire the amazing views along the way, the canyon offer dizzling views downwards as the valley can plunge 700 meters! 
+
+Spectacular landscape, breath-taking views and amazing turquoise colors, this day you offers you some fine photos opportunites. And a memorable day
+inside the  Verdon Regional Park.
+
+We will head on to  the postcard-worthy Provencal  perched village Moustiers-Sainte-Marie, classified as one of the most beautifull village in France and famous all over the world for its faience earthenware.
+Take free time to go to lunch. Then, stroll through the medieval streets and archways and visit the ceramics shops that have made the town's reputation.
+
+### Day 5: Valensole - Ganagobie Monastery - Les Mees -- Peyruis 
+
+### Day 6:  La Chartreuse de la Verne - St Grimaud - St-Tropez 
+
+Head on to Collobrieres to beautifull
+
+### Day 7: Cannes -- Iles Sainte Honorat -- Croisette
+
+Head to Cannes, take a walk to La Croisette, beautiful avenue where leads to the famous International Movie Festival each year.
+
+After breakfast, head on to the pier for a 30 minutes boat cruise to reach the most preserved island of Cannes, Sainte-Honorat. 
+We will have a last great lunch together and will give a visit to the superb Abbey surrounding by a large vineyards where the small community of monks spend life between prayers and elaborating their own red and white wine ( which you can purchase of course ). 
+The scenary of this small island, under pine trees, vineyards, blue sky and ocean,  will offer you fine photo opportunities.
+
+After a peacefull walk around the island, we will reach back to Cannes, then drive to Eze village for our last evening in Provence.
+
+Dinner and night in Eze.
+
+### Day 8:  Eze village - Airport
+After breakfast,  head on to Eze. Take some photos and enjoy the dizzling view over Mediterranean sea, Monaco and the French Riviera.
+And our driver will drop us back to Nice-Cote d'Azur Airport. Time to say "Au revoir" to Provence. <br><br>
+End of the tour.
+
+

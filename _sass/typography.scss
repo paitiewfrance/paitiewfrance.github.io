@@ -1,0 +1,230 @@
+/*- Typography -*/
+
+//
+// Based on the typographic scale: 12, 14, 16, 18, 21, 24, 36, 48, 60, 72.
+//
+body {
+    font-family: $sans;
+    background: white;
+    letter-spacing: 0.01em;
+}
+
+.home h2,
+.home h3,
+.home p {
+    text-align: center;
+    text-transform: none;
+}
+
+.home h2 {
+    padding: 0;
+    line-height: 1.5;
+}
+
+.home #container p {
+    text-transform: capitalize;
+    font-size: 1.25em;
+    font-family: $serif-bis;
+}
+/*- Typography for medium and small screen, based on 16px font-size -*/
+
+p,
+ul li {
+    font-size: 1em;
+    /* 16px */
+    
+    font-family: 'Raleway', sans;
+    font-weight: 400;
+    color: lighten(black, 45);
+    line-height: 1.7em;
+    /* 24px/16px */
+    
+    margin-bottom: 1.5em;
+    /* 24px/16px */
+}
+
+.price ul li {
+    font-family: $serif;
+    font-size: .875em;
+}
+
+ul li strong {
+    color: $text-color;
+    font-weight: normal;
+}
+
+#container ul li {
+    margin-bottom: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $sans-heading;
+    font-weight: 100;
+    color: #header;
+}
+
+h1 {
+    font-size: 2.25em;
+    /* 36px/16px */
+    
+    font-weight: normal;
+    font-family: $serif;
+    text-transform: uppercase;
+    line-height: 1.3333em;
+    /* 48px/36px */
+    
+    padding: 0.33335em 0;
+    /* 12px/36px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+}
+
+h2 {
+    font-size: 2em;
+    /* 24px/16px */
+    
+    text-transform: capitalize;
+    font-family: $serif;
+    line-height: 1em;
+    /* 24px/24px */
+    
+    padding: 1em 0 0 0;
+    /* 12px/24px * 2, only top (Use padding instead of margin to maintain proximity with paragwithph) */
+    
+   
+}
+
+h3 {
+    font-size: 1.25em;
+    /* 18px/16px */
+    
+    color: #8A5454;
+    font-family: $serif;
+    font-weight: bold;
+    line-height: 1.3334em;
+    /* 24px/18px */
+    
+    padding: 0.66667em 0;
+    /* 12px/18px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+}
+
+h4 {
+    font-weight: normal;
+    font-size: 1.05em;
+    padding: 0.5em 0;
+    line-height: 1.5em;
+}
+
+h6 {
+    font-weight: normal;
+    font-size: 1.25em;
+}
+
+.tour-intro h4 {
+    font-size: 1.5em;
+}
+/*- Typography for big screen, based on 18px font-size -*/
+
+@media (min-width: 940px) {
+    //Breakpoint set to 940px
+    p,
+    .include-exclude ul li {
+        line-height: 1.85em;
+        /* 24px/18px */
+    }
+    .include-exclude ul li {
+        margin-bottom: 0;
+    }
+    h1 {
+        font-size: 2.25em;
+        /* 48px/18px */
+        
+        line-height: 1em;
+        /* 48px/48px */
+        
+        padding: 0.25em 0;
+        /* 12px/48px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+    }
+    h2 {
+        // font-size: 1.25em; /* 36px/18px */
+        line-height: 1.5em;
+        /* 48px/36px */
+        
+        padding: .75em 0 .25em 0;
+        /* 12px/36px * 2, pnly top (Use padding instead of margin to maintain proximity with paragraph) */
+        
+        a {
+            color: lighten(black, 26);
+            font-weight: normal;
+        }
+    }
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-weight: normal;
+        font-size: 1.75em;
+        /* 24px/18px */
+        
+        line-height: 1em;
+        /* 24px/24px */
+        
+        padding: 0.5em 0;
+        /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+    }
+    h3 {
+        font-size: 1.5em;
+        font-weight: 400;
+        line-height: 1.55em;
+    }
+    h4 {
+        font-size: 1em;
+        line-height: 1.25em;
+    }
+    .tour-intro h4 {
+        line-height: 1.5em;
+        font-size: 1.75em;
+    }
+    h5,
+    h6 {
+        font-size: 1.25em;
+        line-height: 1.25em;
+    }
+    h6 {
+        font-style: italic;
+    }
+}
+
+.share-post {
+    h5 {
+        font-size: .75em;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+    ul {
+        margin-top: 1.5em;
+        text-align: center;
+        li {
+            display: inline-block;
+            margin: 0 16px 0 0;
+            width: 2.5em;
+            text-align: center;
+            height: 2.5em;
+            border-radius:50%;
+            background:$main-color;
+            &:last-child {
+            	   margin: 0;
+            }
+
+            a {
+            	  line-height: 1.75em;
+            	  display: block;
+                  font-size: 1.5em;
+            	  color: white
+            }
+        }
+    }
+}

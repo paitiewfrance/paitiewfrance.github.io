@@ -1,0 +1,37 @@
+---
+layout: default
+title: Pai Tiaw France blog
+---
+
+<!-- Posts -->
+<ul id="posts">
+
+                {% if page.category %}
+
+                 {% for post in site.categories.[page.category]  %}
+
+	  <li class="post">
+	  	<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+	  	<span class="by-line">{{ post.date | date_to_string }}</span>
+	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+	  </li>
+
+                
+              {% endfor %}
+
+
+             {% else %}
+           
+           {% for post in site.posts  %}
+                 <li class="post">
+	  	<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+	  	<span class="by-line">{{ post.date | date_to_string }}</span>
+	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+	  </li>
+           {% endfor %}
+           
+           
+    {% endif %}
+
+</ul>
+

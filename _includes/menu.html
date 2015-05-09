@@ -1,0 +1,10 @@
+<nav id="nav">
+	<ul id="nav-list">
+	{% for link in site.navigation %}
+		<li>
+			<a href="{{site.url}}{{ link.url }}" title ="{{link.title}}">{{link.label | capitalize }}</a>
+		</li>
+	{% endfor %}
+	</ul>
+	<a href="https://www.facebook.com/paitiewfrance" title ="Join us of facebook" target ="_blank"><span class ="fa fa-facebook"></span></a>
+</nav>

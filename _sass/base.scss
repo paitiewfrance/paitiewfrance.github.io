@@ -1,0 +1,141 @@
+/*
+ * Emerald is a simple blog theme built for Jekyll.
+ */
+
+@import url(http://fonts.googleapis.com/css?family=Niconne);
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700|Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Merriweather);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500,600,700,300,800);
+/*- Base reset -*/
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+img,
+figure {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+img {
+    -webkit-filter: sepia(80%) ;
+    -moz-filter: sepia(80%) ;
+    transition: all .15s linear;
+    width: 100%;
+    -ms-filter: sepia(80%) ; 
+    -o-filter: sepia(80%) ;
+    filter: sepia(80%) ;
+    &:hover {
+    -webkit-filter: sepia(0%);
+    -moz-filter: sepia(0%);
+    -ms-filter: sepia(0%); 
+    -o-filter: sepia(0%);
+    filter: sepia(0%);
+    }
+}
+
+
+ul,
+li {
+    list-style-type: none;
+}
+/*- Base settings -*/
+
+$main-color: #282828;
+$header:#282828;
+$background-color: #F7F7F7;
+$text-color: #222222;
+
+$footer: lighten(black, 15);
+
+$header-bg: #242220;
+$olive-dark: #403D1A;
+$olive2: #87812F;
+$light-olive: #A69F68;
+$lavender: #756886;
+
+$ocre:#AF4140;
+
+$sans-heading: 'Montserrat', sans-serif;
+$sans-heading: 'Raleway', sans-serif;
+$sans: 'Lato', sans-serif;
+
+$serif:  'Merriweather', serif; 
+$serif-bis: 'Niconne', cursive;
+
+
+
+
+html {
+    // background: $background-color url(../img/bg.jpg) repeat fixed;
+    font-size: 16px;
+    @media (min-width: 940px) {
+        font-size: 18px;
+    }
+    line-height: 1.5;
+    color: $text-color;
+}
+/*- Link -*/
+
+a {
+    color: $main-color;
+    transition: all .15s linear;
+    text-decoration: none;
+    &:hover, &:focus {
+        color: darken($main-color, 5%);
+    }
+}
+
+
+
+img[title="Pooki"] {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    transition: all .15s linear;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    max-width: 12em;
+    &:hover {
+        -webkit-filter: grayscale(0);
+        filter: grayscale(0);
+    }
+}
+
+
+.image-header {
+    margin-bottom: 2em;
+   img {
+        -webkit-filter: grayscale(100%);
+        border-radius:0 !important;
+       filter: grayscale(100%);
+       display: block;
+       transition: all .15s linear;
+       margin: 0;
+       &:hover {
+        -webkit-filter: grayscale(0);
+        filter: grayscale(0);
+    }
+   }
+
+}
+
+

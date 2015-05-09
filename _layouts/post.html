@@ -1,0 +1,29 @@
+---
+layout: default
+sharefb: http://www.facebook.com/sharer.php?u=
+sharegplus: https://plus.google.com/share?url=
+---
+<div id="post-page">
+	<h2>{{ page.title }}</h2>		
+	<span class="by-line">{{ page.date | date_to_string }}</span>
+	<div class="content">
+
+		{{ content }}
+
+		{% if page.ytv %}
+		   <div class="video">
+                                           <!-- <iframe  src="http://www.youtube.com/embed/j6cxZp4ii6c?autoplay=true"  width="640" height="480"  frameborder="0"  allowfullscreen>< /iframe> -->		   	
+		   </div>
+		{% endif %}
+	</div>
+
+	<div class="share-post center">
+	     <h5>share this  article</h5>
+
+	     <ul class="share">
+	     	<li><a href="{{ page.sharefb}}{{ site.url }}{{page.url}}" title ="Share on Facebook" class ="fa fa-facebook"></a></li>
+	     	<li><a href="{{ page.sharegplus}}{{ site.url }}{{page.url}}" title ="Share on Google+" class ="fa fa-google-plus "></a></li>
+	     </ul>
+	</div>
+</div>
+

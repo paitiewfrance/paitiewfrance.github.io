@@ -1,0 +1,24 @@
+<head>
+	<!-- Meta -->
+	<title>{{ page.title}}</title>
+	<meta charset="UTF-8"/>
+	<meta http-equiv="content-language" content="en">
+	<meta name="revisit-after" content="10 days">
+	<meta name="robots" content="index, follow">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	{% if page.meta %}
+                 <meta name="description" content="{{ page.meta }}">
+                 {% else %}
+                 <meta name="description" content="{{ site.meta }}">
+                 {% endif %}
+                 <meta name="keywords" content=" {% if page.keywords %} {{page.keywords }} {% endif %} ">
+	<!-- CSS & fonts -->
+	<link rel="canonical" href="{{site.url}}" />
+	<link rel="stylesheet" type="text/css" href="{{site.url}}/css/main.css">
+	<link rel="stylesheet" type="text/css" href="{{site.url}}/css/print.css" media="print">
+	<link rel="shortcut icon" href="{{site.url}}/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+
+	
+
+</head>

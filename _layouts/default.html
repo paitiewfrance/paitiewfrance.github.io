@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body class="{{page.class}}">
+   <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    <div id="wrap">
+        <!-- Navigation -->
+        {% include menu.html %}
+        <!-- Icon menu -->
+        <a href="#" id="nav-menu">
+            <div id="menu">
+                <span>menu</span>
+            </div>
+        </a>
+        <!-- Header -->
+        {% include header.html %}
+        <!-- Main content -->
+        <div id="container">
+            {{ content }}
+        </div>
+        <a href="#header" title="Go back up" class="cd-top">
+            <span class="fa fa-long-arrow-up"></span>
+        </a>
+        <!-- Footer -->
+        {% include footer.html %}
+    </div>
+    <!-- Script -->
+    {% include script.html %}
+</body>
+
+</html>

@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div id="tour-page">
+    <header>
+        <h1 {% if page.class %} class="{{ page.class }}" {% endif %}>
+	{{ page.title }}</h1>
+        <h2>{{ page.duration }}</h2>
+    </header>
+    {% if page.img %}
+         <figure class="image-header">
+             <img src="{{site.url}}/img/{{ page.img }}" alt="{{ page.img }}">
+        </figure>
+    {% endif %}
+   
+    {% if  page.intro %}
+      <div class="tour-intro">
+          <h4>{{ page.intro }}</h4>
+     </div>    
+    {% endif %}
+        
+    
+    <div class="content">
+        {{ content }}
+    </div>
+
+    <div class="price extra-info">
+             <h2>Price</h2>
+        <ul class ="list">
+            {% for price in page.prices %}
+                <li>{{ price }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="extra-info">
+                <h2>Include</h2>
+            <ul class="list">
+                <li>Entrance fees of the scenic spots as listed in the itinerary.</li>
+                <li>Meals as specified in the itinerary.</li>
+                <li>Transportation:  Flights or train as listed in the itinerary.Flights: , airport tax and fuel fee included, economy class, 20kg checked baggage weight per ticket, no checked baggage weight to infant ticket.</li>
+                <li>Sightseeing: As outlined in the Itinerary will be escorted with English-speaking guide; Service of local guide and van is for a maximum of 8 hours during the full day individual tour packages.</li>
+                <li>Service Charge</strong> (the planning, handling, operational and communication charges) & Government Taxes.</li>
+                <li>Luggage Transfers between airports, trains and hotels.</li>
+            </ul>
+    </div>
+    <div class ="extra-info">
+            <h2>Exclude </h2>
+            <ul class="list">
+                <li>Flight not listed in the Price Includes</li>
+                <li>Accommodation not as listed in the itinerary</li>
+                <li> Visa Fees :Please make sure that you have got your valid passport and visa before your entry to China. We can send you a free official invitation letter to assist you in obtaining your visa after the reservation deposit is received</li>
+                <li>Sightseeing not listed in the itinerary.</li>
+                <li>Personal expenses such as room service, internet charge, laundry, drink, fax, telephone call, optional activities, etc.</li>
+                <li>Gratuities,  tips to guides, drivers, bellboys,</li>
+                <li>Excess Baggage Charges</li>
+                <li>Optional activities</li>
+            </ul>
+    </div>
+</div>
+
+
+<div class="center">
+    <a href="#" onclick="window.print(); return false;" class="print">Print the program</a>
+</div>

@@ -1,0 +1,35 @@
+markdown: kramdown
+url: "http://localhost:4000"
+email: redsunbluesky19@hotmail.com
+author: Sudhida Kanoksinsombat
+permalink: pretty
+
+
+
+navigation:
+  - label: home
+    title: home
+    url: /
+  - label: Wonder of Eastern Provence
+    title: Wonder of Eastern Provence
+    url: /wonder-eastern-provence
+  - label: Wonder and Lavender in Provence
+    title: Wonder and Lavender in Provence
+    url: /wonder-and-lavender-provence
+  - label: Wonderfull Burgundy 
+    title:  Wonderfull Burgundy 
+    url: /wonderfull-burgundy
+  - label: Southern Burgundy 
+    title:  Southern Burgundy 
+    url: /southern-burgundy
+  - label: about
+    title: about
+    url: /about
+  - label: contact
+    title: contact
+    url: /contact
+  - label: blog
+    title: blog
+    url: /blog
+
+
