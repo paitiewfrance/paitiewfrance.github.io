@@ -36,6 +36,9 @@ Aveyron
   Le prieuré de Comberoumal
   Entraygues-sur-Truyère
   Najac
+  Peyreleau
+  Nant
+  capdenac
   Estaing
   Le site médiéval de Peyrusse-le-Roc
   Brousse-le-Château
