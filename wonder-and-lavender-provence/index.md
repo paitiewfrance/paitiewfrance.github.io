@@ -2,8 +2,8 @@
 layout: tour
 title: Wonder and Lavender in Provence
 duration: 16 Days / 14 Nights
-keywords:  France Bourgogne Semur en Auxois Wine Red Wine Tour Chablis 
-meta: Bourgogne Tour  around Medieval vllages vinery france
+keywords:  paitiewfrance france travel to provence lavender olive oil lavender blooming grasse luberon baux de provence avignon arles palace popes sault valensole 
+meta: paitiewfrance france travel to provence lavender olive oil lavender blooming grasse luberon baux de provence avignon arles palace popes sault valensole 
 img: lavande.jpg
 class: lavender
 prices: 

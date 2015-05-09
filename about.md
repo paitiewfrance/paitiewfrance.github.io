@@ -1,8 +1,8 @@
 ---
 layout: default
 title: About PaiTiewFrance 
-keywords:  France Bourgogne Semur en Auxois Wine Red Wine Tour Chablis 
-meta: Bourgogne Tour  around Medieval vllages vinery france
+keywords:  about paitiewfrance trip to france travel to france farangset provence burgundy averyron bourgogne 
+meta: about paitiewfrance trip to france travel to france farangset provence burgundy averyron bourgogne 
 ---
 ## About PaiTiewFrance 
 

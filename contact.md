@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Contact PaiTiewFrance
-keywords:  France Bourgogne Semur en Auxois Wine Red Wine Tour Chablis 
-meta: Bourgogne Tour  around Medieval vllages vinery france
+keywords:  contact paitiewfrance france travel to france contact paitiewfrance trip to france trip to burgundy trip to provence trip to aveyron email paitiewfrance
+meta: contact paitiewfrance france travel to france contact paitiewfrance trip to france trip to burgundy trip to provence trip to aveyron email paitiewfrance
 ---
 
 ## Contact
