@@ -2,9 +2,9 @@ url: "https://paitiewfrance.github.io"
 markdown: kramdown
 author: paitiewfrance
 
-permalink: none
+permalink: pretty
 
-
+url: "http://localhost:4000"
 
 
 navigation:
