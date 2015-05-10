@@ -8,9 +8,9 @@ img: lavande.jpg
 intro: Join The Wonder Eastern Provence tour and discover with us some of the most beautifull hilltop village in south of France, the Verdon with it's amazing canyon
           the Lavender field at Valensole..And much more.
 prices:
-  - 96.000THB for 7-10 persons
-  - 109.000THB for 4-7 persons
-  - 134.000THB for 2-4 persons
+  - Aske us for  7-10 persons
+  - Aske us for r 4-7 persons
+  - Aske us for  2-4 persons
 ---
 
 ### Day 1: Antibes - Biot - Saint-Paul-de-Vence
@@ -67,15 +67,28 @@ Take free time to go to lunch. Then, stroll through the medieval streets and arc
 
 ### Day 5: Valensole - Ganagobie Monastery - Les Mees -- Peyruis 
 
-### Day 6:  La Chartreuse de la Verne - St Grimaud - St-Tropez 
+After breakfast, head to Valensole, the France's most important Lavender growing area. Drive along picturesque roads lined with golden wheat and lavender prairie. We will stop along the way for some photo souvenir in this impresssive golden/purple landscape. Next, we will find out more about the cultivation in Valensole village - the distillation and making of  Lavender essential oil , Olive oils and Lavender Honey with locals farmers/producers.
 
-Head on to Collobrieres to beautifull
+Then, we will head on to Notre-Dame de Ganagobie Benedictine monastery. Overlooking the Durance valley from its high wooded plateau, the abbey was founded in the 10th century. It is famous for its medieval mosaics.
 
-### Day 7: Cannes -- Iles Sainte Honorat -- Croisette
+Proceed to Les Mees, the city having the largest numbers of Olive trees in Provence. The village houses also one of the most spectacular geological features in the region call Les Penitents des Mees which consist of a serried rank of columnar rocks more than 100 meters high.
 
-Head to Cannes, take a walk to La Croisette, beautiful avenue where leads to the famous International Movie Festival each year.
 
-After breakfast, head on to the pier for a 30 minutes boat cruise to reach the most preserved island of Cannes, Sainte-Honorat. 
+### Day 6: The Thoronet Abbey
+
+We will head to east side of  Var visiting  the Thoronet Abbey, founded in 1146. The entire Cisterian monastery features an architecture of the finest Provencal Romanesque art, creating a feeling of unity and serenity.  It's a peacefull and medidative place.
+
+
+### Day 7:  La Chartreuse de la Verne - St Grimaud - St-Tropez 
+
+Head on to Collobrieres to visit the beautifull Chartreuse de la Verne, 
+
+### Day 8: Cannes -- Iles Sainte Honorat -- Croisette
+
+After breakfast, head to Cannes, take a walk to La Croisette, beautiful avenue where leads to the famous International Movie Festival each year.
+We will take a walk and climb to the Suquet district,  a picturesque hill seatings representing the original fishing village, and admire a spendid view over the port of Cannes.
+
+Next, proceed to the pier for a 30 minutes boat cruise to reach the most preserved island of Cannes, Sainte-Honorat. 
 We will have a last great lunch together and will give a visit to the superb Abbey surrounding by a large vineyards where the small community of monks spend life between prayers and elaborating their own red and white wine ( which you can purchase of course ). 
 The scenary of this small island, under pine trees, vineyards, blue sky and ocean,  will offer you fine photo opportunities.
 
@@ -83,7 +96,7 @@ After a peacefull walk around the island, we will reach back to Cannes, then dri
 
 Dinner and night in Eze.
 
-### Day 8:  Eze village - Airport
+### Day 9:  Eze village - Airport
 After breakfast,  head on to Eze. Take some photos and enjoy the dizzling view over Mediterranean sea, Monaco and the French Riviera.
 And our driver will drop us back to Nice-Cote d'Azur Airport. Time to say "Au revoir" to Provence. <br><br>
 End of the tour.
