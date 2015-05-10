@@ -73,8 +73,12 @@ Then, we will head on to Notre-Dame de Ganagobie Benedictine monastery. Overlook
 
 Proceed to Les Mees, the city having the largest numbers of Olive trees in Provence. The village houses also one of the most spectacular geological features in the region call Les Penitents des Mees which consist of a serried rank of columnar rocks more than 100 meters high.
 
+For chocolate lovers, we will stop at the famous chocolate manufacturer Manon at Peyruis, visit their factory and probably buy some of the finest chocolate maker in France.
 
-### Day 6: The Thoronet Abbey
+We will then drive south to Les Arcs, a nice vineyards plateau located in Var.
+
+
+### Day 6: Les Arcs - The Thoronet Abbey
 
 We will head to east side of  Var visiting  the Thoronet Abbey, founded in 1146. The entire Cisterian monastery features an architecture of the finest Provencal Romanesque art, creating a feeling of unity and serenity.  It's a peacefull and medidative place.
 
@@ -82,6 +86,11 @@ We will head to east side of  Var visiting  the Thoronet Abbey, founded in 1146.
 ### Day 7:  La Chartreuse de la Verne - St Grimaud - St-Tropez 
 
 Head on to Collobrieres to visit the beautifull Chartreuse de la Verne, 
+
+Then drive to Grimaud, 
+
+We will drive to Cannes by taking the superb road of Esterel,  red rocky moutains chain along the coastline and enjoy Meditterarnean sea view for 1 hour and half.
+Dinner and night in Cannes.
 
 ### Day 8: Cannes -- Iles Sainte Honorat -- Croisette
 
