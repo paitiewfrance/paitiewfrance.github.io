@@ -1,9 +1,10 @@
-url: "https://paitiewfrance.github.io"
+# url: "https://paitiewfrance.github.io"
 markdown: kramdown
 author: paitiewfrance
 
-permalink: pretty
+permalink: none
 
+url: "http://localhost:4000"
 
 
 

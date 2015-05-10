@@ -1,7 +1,5 @@
 ---
 layout: default
-sharefb: http://www.facebook.com/sharer.php?u=
-sharegplus: https://plus.google.com/share?url=
 ---
 <div id="post-page">
 	<h2>{{ page.title }}</h2>		
@@ -9,14 +7,15 @@ sharegplus: https://plus.google.com/share?url=
 	<div class="content">
 
 		{{ content }}
+                
 
                 
                 <div class="share-post center">
 	     <h5>share this  article</h5>
 
 	     <ul class="share">
-	     	<li><a href="{{ page.sharefb}}{{ site.url }}{{page.url}}" title ="Share on Facebook" class ="fa fa-facebook"></a></li>
-	     	<li><a href="{{ page.sharegplus}}{{ site.url }}{{page.url}}" title ="Share on Google+" class ="fa fa-google-plus "></a></li>
+	     	<li><a href="http://www.facebook.com/sharer.php?u={{ site.url }}{{page.url}}" rel="nofollow"  title ="Share on Facebook" class ="fa fa-facebook"></a></li>
+	     	<li><a href="https://plus.google.com/share?url={{ site.url }}{{page.url}}" rel="nofollow" title ="Share on Google+" class ="fa fa-google-plus "></a></li>
 	     </ul>
 	</div>
 
