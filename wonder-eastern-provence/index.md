@@ -2,15 +2,15 @@
 layout: tour
 title: Wonder of Eastern Provence
 duration: 11 Days / 9 Nights
-keywords:  France Bourgogne Semur en Auxois Wine Red Wine Tour Chablis 
-meta: Bourgogne Tour  around Medieval vllages vinery france
+keywords:  paitiewfrance france travel to provence  antibes biot verrerie saint-paul de vence eze grasse gourdon trip to provence verdon travel to france saint tropez cannes croisette esterel  
+meta: paitiewfrance france travel to provence antibes biot verrerie saint-paul de vence eze grasse gourdon trip to provence verdon travel to france saint tropez cannes croisette esterel  
 img: lavande.jpg
 intro: Join The Wonder Eastern Provence tour and discover with us some of the most beautifull hilltop village in south of France, the Verdon with it's amazing canyon
           the Lavender field at Valensole..And much more.
 prices:
-  - Aske us for  7-10 persons
-  - Aske us for r 4-7 persons
-  - Aske us for  2-4 persons
+  - Ask us for  7-10 persons
+  - Ask us for r 4-7 persons
+  - Ask us for  2-4 persons
 ---
 
 ### Day 1: Antibes - Biot - Saint-Paul-de-Vence
@@ -68,7 +68,6 @@ Take free time to go to lunch. Then, stroll through the medieval streets and arc
 ### Day 5: Valensole - Ganagobie Monastery - Les Mees -- Peyruis 
 
 After breakfast, head to Valensole, the France's most important Lavender growing area. Drive along picturesque roads lined with golden wheat and lavender prairie. We will stop along the way for some photo souvenir in this impresssive golden/purple landscape. Next, we will find out more about the cultivation in Valensole village - the distillation and making of  Lavender essential oil , Olive oils and Lavender Honey with locals farmers/producers.
-
 Then, we will head on to Notre-Dame de Ganagobie Benedictine monastery. Overlooking the Durance valley from its high wooded plateau, the abbey was founded in the 10th century. It is famous for its medieval mosaics.
 
 Proceed to Les Mees, the city having the largest numbers of Olive trees in Provence. The village houses also one of the most spectacular geological features in the region call Les Penitents des Mees which consist of a serried rank of columnar rocks more than 100 meters high.
@@ -78,18 +77,21 @@ For chocolate lovers, we will stop at the famous chocolate manufacturer Manon at
 We will then drive south to Les Arcs, a nice vineyards plateau located in Var.
 
 
-### Day 6: Les Arcs - The Thoronet Abbey
+### Day 6: Thoronet Abbey - Les Arcs Chateau Sainte-Roseline
 
-We will head to east side of  Var visiting  the Thoronet Abbey, founded in 1146. The entire Cisterian monastery features an architecture of the finest Provencal Romanesque art, creating a feeling of unity and serenity.  It's a peacefull and medidative place.
+We will head to east side of  Var visiting  the Thoronet Abbey, founded in 1146. The entire Cisterian monastery features an architecture of the finest Provencal Romanesque art, creating a feeling of unity and serenity.  It's a peacefull and medidative place. 
 
 
 ### Day 7:  La Chartreuse de la Verne - St Grimaud - St-Tropez 
 
-Head on to Collobrieres to visit the beautifull Chartreuse de la Verne, 
+Head on to Collobrieres to visit the beautifull Chartreuse de la Verne,  a huge ancient monastery dated from the 12th century.
+ Located in the heart of the Massif des Maures, the plateau of La Verne is a haven of peace, even in the middle of summer.  Browse the monastery by visiting it's ancient cloister, which some cells have been rebuilt, the remains of a windmill. the kitchens (with a fireplace from the 19th century). Wander the arcades and serpentine decorated doors dating from the 19th century, the hotel and the old refectory. 
+We end at the boutique of the monatery wander some home made honey and religious items, postal cards.
+
 
 After lunch, we will drive to Grimaud,  a charming perched medieval town sitting above the plain of Cogolins.  Stroll along the cobbled streets,  the ancient stone houses and bulding, and wander the Chateau de Grimaud, the 11the century fortress offering a spendid view over the countryside. 
 
-Follow road, we will head on to St Tropez, the v......Wander the old city, ........, the old port and it's legendary atmosphere
+Next,  we will head on to St Tropez, famous village for it's beautiull port and it's jet-setting resort. Wander the most picturesque quarter of the town called "La Ponche" , the historical center and fishing village, the old cobble streets and. Take a walk down to the old port, feel the it's atmosphere by strolling thought the cafes and terraces and the Mediteranean pastel color houses lined along the fishing boat and yatch docked in the harbor.
 
 We will then drive on the way to Cannes by taking the superb road of Esterel,  red rocky moutains chain along the coastline and enjoy Meditterarnean sea view for 1 hour and half.
 Dinner and night in Cannes.

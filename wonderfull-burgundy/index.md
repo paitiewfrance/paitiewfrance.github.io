@@ -15,14 +15,13 @@ prices:
 ### Day 1: Dijon
 Dijon, capital of the Duke of Burgundy. It  is one of France's most appealing cities. Filled with elegant medieval and Renaissance buildings, the lively centre is wonderful for strolling. You are sure to appreciate the wealth and elegance of the city’s architectural heritage. 
 
-After a breakfast, head on to Rue de la Liberte and start visit the Burgundy Dukes's Palace ( Palais des etats), feudal fief of the kingdom of France between the ninth and fifteenth, housing now  the Fine Arts Museum. We will bring you on top fo Philippe Le Bon Tower ( 46 meters high ) to enjoy a panoramic view over the city.
+After a breakfast, head on to Rue de la Liberte and start visit the Burgundy Dukes's Palace ( Palais des etats), feudal fief of the kingdom of France between the ninth and fifteenth, housing the Fine Arts Museum since the seventeenth . We will bring you on top fo Philippe Le Bon Tower ( 46 meters high ) to enjoy a panoramic view over the city.
 
 Next, we will discover the Fine Arts Museum. rank as one of the most beautifull and largest museum in France. Wander a wide collection of which include medieval art and Renaissance sculptures and paintings.
 
 After a lunch in the old town and a coffee at Place de la Liberation, take on the picturesque Chouette (owl) street behind the Palace,  discover the  cathedral Notre-Dame of Dijon, called "La Grande Dame", a georgous Gothic builidng dated form the 13th century.
 
  Next to the cathedral, discover the hôtel de Vogüé, a picturesque hotel particulier from the 17th century. Admire the majestic entrance porsch, the decorative richness of its roof and the superb courtyard.
-
 
 We will continue our visit of the main monuments of the city, the cathedral Saint-Bénigne. Built between the XIII and the XIV century, the actual Gothic building, masterpiece of Burgundy Gothic art was established in place of a former Romanesque abbey in which only the crypt remain.
 
