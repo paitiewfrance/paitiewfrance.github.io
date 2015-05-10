@@ -14,42 +14,20 @@ duration: 8 Days / 9 Nights
 # Trip to under construction. Will be available soon.
 
 2-3 days - albi fortified citys
-  albi
-  Castelnau-de-Montmiral
-  penne
-  saint anotnin noble val
-  cordes-sur-ciel
-  bruniquel
-  puycelsi
 
-  tarn en garonne
-  Varen
-  L'abbaye de Moissac
+
 
 Aveyron
-  Le trou de Bozouls
   Sainte-Eulalie-d'Olt
-  Sévérac-le-Château
-  Sauveterre-de-Rouergue
   Le château de Montaigut
   Espalion
   Le prieuré de Comberoumal
   Entraygues-sur-Truyère
-  Najac
   Peyreleau
   Nant
   capdenac
-  Estaing
   Le site médiéval de Peyrusse-le-Roc
-  Brousse-le-Château
-  Villefranche-de-Rouergue
-  Villeneuve d'Aveyron
-  Le viaduc de Millau
-  Conques
-  L'Aubrac
-  La Couvertoirade
 
 
 
-  carcassonne
   
