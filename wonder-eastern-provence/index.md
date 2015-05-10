@@ -87,9 +87,11 @@ We will head to east side of  Var visiting  the Thoronet Abbey, founded in 1146.
 
 Head on to Collobrieres to visit the beautifull Chartreuse de la Verne, 
 
-Then drive to Grimaud, 
+After lunch, we will drive to Grimaud,  a charming perched medieval town sitting above the plain of Cogolins.  Stroll along the cobbled streets,  the ancient stone houses and bulding, and wander the Chateau de Grimaud, the 11the century fortress offering a spendid view over the countryside. 
 
-We will drive to Cannes by taking the superb road of Esterel,  red rocky moutains chain along the coastline and enjoy Meditterarnean sea view for 1 hour and half.
+Follow road, we will head on to St Tropez, the v......Wander the old city, ........, the old port and it's legendary atmosphere
+
+We will then drive on the way to Cannes by taking the superb road of Esterel,  red rocky moutains chain along the coastline and enjoy Meditterarnean sea view for 1 hour and half.
 Dinner and night in Cannes.
 
 ### Day 8: Cannes -- Iles Sainte Honorat -- Croisette
