@@ -1,6 +1,6 @@
 ---
 layout: tour
-title: Paitiewfrance | The French Riviera by the seaside
+title: The French Riviera by the seaside
 duration: 12 Days / 11 Nights
 keywords:  paitiewfrance france travel to french riviera cote d'azur monaco marseille antibes nice menton cannes eze roquebrune cap martin cassis calanques castellet  
 meta: paitiewfrance france travel to french riviera cote d'azur monaco marseille antibes nice menton cannes eze roquebrune cap martin cassis calanques castellet  
@@ -36,17 +36,23 @@ Dinner and night in
 
 Dinner and night in St Tropez
 
-### Day 7: L'esterel - The Lerins island - Cannes
+### Day 7: L'esterel - Cannes 
 
 Dinner and night in Cannes
 
-### Day 8: Cannes - Antibes
+### Day 8: The Lerins island - Antibes
 
 Dinner and night in Antibes
 
 ### Day 9: Antibes - Biot - Saint-Paul-de-Vence - Nice
 
-Dinner and night in Nice
+After breakfast, we will start visiting the old town of Antibes, its ramparts ...the old ports ...garoupe 
+
+Then, head on to Biot and it's  worldwide famous glassblower factory "La verrerie de Biot". Discover the workshop and witness the antique skills of the glassblower as you can follow their work in the factory. Then, wander the gallery outside and admire some of the masterpieces done by the workers here since ages.
+
+After a lunch and an Expresso, time to head on to Saint-Paul-de-Vence. one of the most beautifull  medieval village in France. Here, we will wander the ancient cobbled narrow streets, sFeel the unique atmosphere of this village by strolling through the ancient cobbled narrow streets, the old stone houses  and the numbers of locals art galleries that have made the reputations of the village worldwide.
+
+We will then drive to Nice to checkin.  Dinner and night in Nice
 
 ### Day 10: Nice - Monte-Carlo 
 
