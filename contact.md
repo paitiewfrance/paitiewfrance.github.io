@@ -21,11 +21,11 @@ For any enquiry,  You can use the form below. We usually reply within a day.
            <ul class="contact">
               <li>
                     <label for="name">Name</label>
-                    <input type="name" iid="name" required name ="name">
+                    <input type="name" iid="name" name ="name">
                </li>
                <li>
                    <label for="email">Email</label>
-                   <input type="email" name="_replyto" id="email" required>
+                   <input type="email" name="_replyto" id="email">
                </li>
                <li>
                    <label for="phone">Phone</label>
