@@ -17,7 +17,7 @@ Let Pooki and Jeff take care of you! We guarranty you a unique and fun approach 
 For any enquiry,  You can use the form below. We usually reply within a day. 
 
 <div class="form-container">
-       <form action="http://formspree.io/paitiewfrance@gmail.com">
+       <form method ="post" action="http://formspree.io/paitiewfrance@gmail.com">
            <ul class="contact">
               <li>
                     <label for="name">Name</label>
