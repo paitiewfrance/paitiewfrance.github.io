@@ -20,7 +20,7 @@ For any enquiry,  You can use the form below. We usually reply within a day.
 <div class="form-container">
        <form method ="POST" action="http://formspree.io/paitiewfrance@gmail.com">
           <input type="text" name="_gotcha" style="display:none" />
-          <input type="hidden" name="_next" value="//paitiewfrance/send" />
+          <input type="hidden" name="_next" value="//paitiewfrance.com/send" />
            <ul class="contact">
               <li>
                     <label for="name">Name</label>
