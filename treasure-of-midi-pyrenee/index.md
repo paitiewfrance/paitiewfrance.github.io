@@ -19,6 +19,8 @@ duration: 8 Days / 9 Nights
 
 ### Day 1: Albi
 
+
+
 ### Day 2: Rodez - Millau
 
 ### Day 3:  Toulouse
