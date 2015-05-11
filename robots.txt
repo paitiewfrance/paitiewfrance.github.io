@@ -1,11 +1,13 @@
 User-Agent: Googlebot
 Disallow: /js/
+Disallow: /send/
 
 User-agent: Slurp
 Disallow: /js/
 
 User-agent: bingbot
 Disallow: /js/
+Disallow: /send/
 
 User-agent: *
 Disallow: 

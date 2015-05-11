@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact PaiTiewFrance
+contact: true
 keywords:  contact paitiewfrance france travel to france contact paitiewfrance trip to france trip to burgundy trip to provence trip to aveyron email paitiewfrance
 meta: contact paitiewfrance france travel to france contact paitiewfrance trip to france trip to burgundy trip to provence trip to aveyron email paitiewfrance
 sitemap:
@@ -18,33 +19,37 @@ For any enquiry,  You can use the form below. We usually reply within a day.
 
 <div class="form-container">
        <form method ="POST" action="http://formspree.io/paitiewfrance@gmail.com">
+          <input type="text" name="_gotcha" style="display:none" />
+          <input type="hidden" name="_next" value="//paitiewfrance/send" />
            <ul class="contact">
               <li>
                     <label for="name">Name</label>
-                    <input type="name" iid="name" name ="name">
+                    <input type="name" iid="name" name ="name" required>
+               </li>
+                 <li>
+                    <label for="name">Surname</label>
+                    <input type="surname" iid="surname" name ="surname">
                </li>
                <li>
                    <label for="email">Email</label>
-                   <input type="email" name="_replyto" id="email">
+                   <input type="email" name="_replyto" id="email" required>
                </li>
                <li>
                    <label for="phone">Phone</label>
                    <input type="number" name="phone" id="phone">
                </li>
-               <li>
+               <li class ="full">
                    <label for="message">Message</label>
-                   <textarea name="message" id="message"></textarea>
+                   <textarea name="message" id="message" required></textarea>
                </li>
             </ul>
 
-            <ul>
-                <li>
-                    <input type="submit" value="Send Message" id ="submit">
-                </li>
-            </ul>
-
+            <p class ="send-wrapper">
+              <input type="submit" value="Send Message" class ="submit">
+            </p>
        </form>
 </div>
+
 
 
 
