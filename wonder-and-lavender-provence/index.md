@@ -1,7 +1,7 @@
 ---
 layout: tour
 title: Paitiewfrance | Wonder and Lavender in Provence
-duration: 16 Days / 14 Nights
+duration: 15 Days / 14 Nights
 keywords:  paitiewfrance france travel to provence lavender olive oil lavender blooming grasse luberon baux de provence avignon arles palace popes sault valensole 
 meta: paitiewfrance france travel to provence lavender olive oil lavender blooming grasse luberon baux de provence avignon arles palace popes sault valensole 
 img: lavande.jpg
