@@ -33,7 +33,7 @@ For any enquiry,  You can use the form below. We usually reply within a day.
                </li>
                <li>
                    <label for="message">Message</label>
-                   <textarea name="message" id="message"</textarea>
+                   <textarea name="message" id="message"></textarea>
                </li>
             </ul>
 
