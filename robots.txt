@@ -1,0 +1,13 @@
+User-Agent: Googlebot
+Disallow: /js/
+
+User-agent: Slurp
+Disallow: /js/
+
+User-agent: bingbot
+Disallow: /js/
+
+User-agent: *
+Disallow: 
+
+sitemap: http://www.paitiewfrance.com/sitemap.xml
