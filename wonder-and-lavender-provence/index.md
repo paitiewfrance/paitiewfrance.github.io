@@ -11,6 +11,10 @@ prices:
   - 149.000THB for 4-7 persons
   - 179.000THB for 2-4 persons
 
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+
 intro:  A unique and exclusive Grand tour of provence for enjoying lavender blooming in Provence. Stroll with us for a memorable tour into 
   the Lavender fields in Sault, Valensole. Discover with us the most beautiful hilltop village in Luberon, the cities of Grasse and Manosque, for their  perfumes factories, Roman and Gothic UNESCO sites of Arles, Avignon and Pont du Gard. And much more. Welcome in Provence.
 ---

@@ -3,6 +3,9 @@ layout: default
 title: Contact PaiTiewFrance
 keywords:  contact paitiewfrance france travel to france contact paitiewfrance trip to france trip to burgundy trip to provence trip to aveyron email paitiewfrance
 meta: contact paitiewfrance france travel to france contact paitiewfrance trip to france trip to burgundy trip to provence trip to aveyron email paitiewfrance
+sitemap:
+  priority: 0.7
+  changefreq: 'monthly'
 ---
 
 ## Contact

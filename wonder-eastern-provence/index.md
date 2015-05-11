@@ -2,6 +2,10 @@
 layout: tour
 title: Wonder of Eastern Provence
 duration: 11 Days / 9 Nights
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    
 keywords:  paitiewfrance france travel to provence  antibes biot verrerie saint-paul de vence eze grasse gourdon trip to provence verdon travel to france saint tropez cannes croisette esterel  
 meta: paitiewfrance france travel to provence antibes biot verrerie saint-paul de vence eze grasse gourdon trip to provence verdon travel to france saint tropez cannes croisette esterel  
 img: lavande.jpg

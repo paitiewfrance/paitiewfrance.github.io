@@ -3,6 +3,9 @@ layout: default
 title: About PaiTiewFrance 
 keywords:  about paitiewfrance trip to france travel to france farangset provence burgundy averyron bourgogne 
 meta: about paitiewfrance trip to france travel to france farangset provence burgundy averyron bourgogne 
+sitemap:
+  priority: 0.7
+  changefreq: 'monthly'
 ---
 ## About PaiTiewFrance 
 

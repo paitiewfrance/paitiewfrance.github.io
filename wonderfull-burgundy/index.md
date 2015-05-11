@@ -1,6 +1,10 @@
 ---
 layout: tour
 title: Wonderfull Burgundy 
+sitemap:
+     priority: 0.7
+     changefreq: 'monthly'    
+
 keywords:  paitiewfrance france travel to burgundy bourgogne wine vineyards chablis dijon auxerre red wine tasting road of wine vezelay unesco fontenay abbey basilica world heritage site alesia beaune hospices of beaune
 meta: paitiewfrance france travel to burgundy bourgogne wine vineyards chablis dijon auxerre red wine tasting road of wine vezelay unesco fontenay abbey basilica world heritage site alesia beaune hospices of beaune
 duration: 11 Days / 10 Nights
@@ -11,6 +15,7 @@ prices:
      - Contact us for 4-7 persons
      - Contact us for 2-4 persons
 ---
+
 
 ### Day 1: Dijon
 Dijon, capital of the Duke of Burgundy. It  is one of France's most appealing cities. Filled with elegant medieval and Renaissance buildings, the lively centre is wonderful for strolling. You are sure to appreciate the wealth and elegance of the city’s architectural heritage. 

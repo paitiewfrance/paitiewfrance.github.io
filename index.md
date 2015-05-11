@@ -4,6 +4,9 @@ title: PaitiewFrance | Welcome
 meta: paitiewfrance france travel in provence  bourgogne burgundy paris  avignon grasse  baux de provence luberon
 keywords:  paitiewfrance  france travel travel in provence bourogone burgundy paris avignon grasse  baux de provence luberon
 class: home
+sitemap:
+  priority: 1
+  changefreq: 'monthly'
 ---
 
 <div class="intro-picture">
