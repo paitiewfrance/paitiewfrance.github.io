@@ -19,6 +19,6 @@ We are Pookie and Jeff, specialise in designing unique and unseen trips to Franc
 ### A La Carte
 We design unique programs all around France regions and we are here to assist you to build the best possible trip. 
 
-For further details on how we can help you, please send us an [email](mailto:paitiewfrance@hotmail.com) . We usually reply within 24 hours.
+For further details on how we can help you, please send us an [email](mailto:paitiewfrance@hotmail.com)  or fill  in our contact form [here](http://paitiewfrance.com/contact). We usually reply within 24 hours.
 
 Au revoir!
