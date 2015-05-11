@@ -7,9 +7,9 @@ meta: paitiewfrance france travel to provence lavender olive oil lavender bloomi
 img: lavande.jpg
 class: lavender
 prices: 
-  - 129.000THB for 7-10 persons
-  - 149.000THB for 4-7 persons
-  - 179.000THB for 2-4 persons
+  - Contact us  for 7-10 persons
+  - Contact us  for 4-7 persons
+  - Contact us  for 2-4 persons
 
 sitemap:
     priority: 0.7
