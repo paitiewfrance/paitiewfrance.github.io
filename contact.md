@@ -14,7 +14,41 @@ Let Pooki and Jeff take care of you! We guarranty you a unique and fun approach 
 ![Pooki](/img/pooki2.jpg "Pooki")
 
 
-For any enquiry, You can simply [email](mailto:paitiewfrance@hotmail.com) to us directly. We usually reply within a day.  Or you can using the folowing :
+For any enquiry,  You can use the form below. We usually reply within a day. 
+
+<div class="form-container">
+       <form action="http://formspree.io/paitiewfrance@gmail.com">
+           <ul class="contact">
+              <li>
+                    <label for="name">Name</label>
+                    <input type="name" iid="name" required name ="name">
+               </li>
+               <li>
+                   <label for="email">Email</label>
+                   <input type="email" name="_replyto" id="email" required>
+               </li>
+               <li>
+                   <label for="phone">Phone</label>
+                   <input type="number" name="phone" id="phone">
+               </li>
+               <li>
+                   <label for="message">Message</label>
+                   <textarea name="message" id="message"</textarea>
+               </li>
+            </ul>
+
+            <ul>
+                <li>
+                    <input type="submit" value="Send Message" id ="submit">
+                </li>
+            </ul>
+
+       </form>
+</div>
+
+
+
+You can also drop us an [email](mailto:paitiewfrance@hotmail.com) to us directly. We usually reply within a day.  Or you can using the folowing :
 
 - Facebook:  <span>[Pai Tiew France](https://www.facebook.com/paitiewfrance)</span>
 - Line: PaiTiewFrance
@@ -23,7 +57,7 @@ For any enquiry, You can simply [email](mailto:paitiewfrance@hotmail.com) to us 
 <br>
 <br>
 
-Our address:
+
 
 
 

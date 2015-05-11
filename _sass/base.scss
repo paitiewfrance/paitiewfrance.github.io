@@ -7,6 +7,11 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+     -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
 }
 
 html,
@@ -73,11 +78,15 @@ $sans: 'Raleway', sans-serif;
 $serif:  'Merriweather', serif; 
 $serif-bis: 'Niconne', cursive;
 
-
-
+p {
+    -webkit-user-select: text;
+    -khtml-user-select: text;
+    -moz-user-select: text;
+    -o-user-select: text;
+    user-select: text;
+}
 
 html {
-    // background: $background-color url(../img/bg.jpg) repeat fixed;
     font-size: 16px;
     @media (min-width: 940px) {
         font-size: 18px;
@@ -85,7 +94,7 @@ html {
     line-height: 1.5;
     color: $text-color;
 }
-/*- Link -*/
+
 
 a {
     color: $main-color;
