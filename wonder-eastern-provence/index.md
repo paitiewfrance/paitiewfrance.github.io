@@ -78,20 +78,14 @@ Proceed to Les Mees, the city having the largest numbers of Olive trees in Prove
 
 For chocolate lovers, we will stop at the famous chocolate manufacturer Manon at Peyruis, visit their factory and probably buy some of the finest chocolate maker in France.
 
-We will then drive south to Les Arcs, a nice vineyards plateau located in Var.
+Dinner and Night in Manosque
 
+### Day 7:  Thoronet Abbey - La Chartreuse de la Verne - St Grimaud - St-Tropez 
 
-### Day 6: Thoronet Abbey - Les Arcs Chateau Sainte-Roseline
-
-We will head to east side of  Var visiting  the Thoronet Abbey, founded in 1146. The entire Cisterian monastery features an architecture of the finest Provencal Romanesque art, creating a feeling of unity and serenity.  It's a peacefull and medidative place. 
-
-
-### Day 7:  La Chartreuse de la Verne - St Grimaud - St-Tropez 
+After breakfast, We will head to the Thoronet Abbey in Var, founded in 1146. The entire Cisterian monastery features an architecture of the finest Provencal Romanesque art, creating a feeling of unity and serenity.  It's a peacefull and medidative place. 
 
 Head on to Collobrieres to visit the beautifull Chartreuse de la Verne,  a huge ancient monastery dated from the 12th century.
  Located in the heart of the Massif des Maures, the plateau of La Verne is a haven of peace, even in the middle of summer.  Browse the monastery by visiting it's ancient cloister, which some cells have been rebuilt, the remains of a windmill. the kitchens (with a fireplace from the 19th century). Wander the arcades and serpentine decorated doors dating from the 19th century, the hotel and the old refectory. 
-We end at the boutique of the monatery wander some home made honey and religious items, postal cards.
-
 
 After lunch, we will drive to Grimaud,  a charming perched medieval town sitting above the plain of Cogolins.  Stroll along the cobbled streets,  the ancient stone houses and bulding, and wander the Chateau de Grimaud, the 11the century fortress offering a spendid view over the countryside. 
 
@@ -113,9 +107,16 @@ After a peacefull walk around the island, we will reach back to Cannes, then dri
 
 Dinner and night in Eze.
 
-### Day 9:  Eze village - Airport
-After breakfast,  head on to Eze. Take some photos and enjoy the dizzling view over Mediterranean sea, Monaco and the French Riviera.
-And our driver will drop us back to Nice-Cote d'Azur Airport. Time to say "Au revoir" to Provence. <br><br>
-End of the tour.
+### Day 9:  Eze village - Nice
+After breakfast,  head on to Eze , a perched hill village classified one of the most beautifull village in France.  We will start browsing the village by entering the small narrow paved streets of the historic center. From here, admire the amazing view over the coastline mixed with the azur blue sky. Wander the old stone houses,  the locals boutiques and art galleries.  Take time and photograph this picturesque town as we move toward to the top of the cliff to admire another dizzling panoramic view over the Riviera. 
 
+After lunch, visit Nice and it's famous Promenade des Anglais along the sea where you can admire luxurious hotels Bell Epoque style like the Negresco and the Westminser. Next, we will wander the Place Massena. Built in 1840, it is today the central and admire the elegant arcaded buildings.  Cour Saleya, the heart of the city a busy local market place 
+Old city of nice ...We can eat socca
+
+We will have our last dinner in Cour Saleya.
+Dinner and night in Nice.
+
+### Day 10: Nice Cote d'Azur Airport - Bangkok
+After breakfast,  free time for some souvenirs before leading to the airport back to Bangkok.
+ Time to say "Au revoir" to Provence. <br><br> End of the tour.
 

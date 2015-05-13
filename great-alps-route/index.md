@@ -13,16 +13,51 @@ duration: 8 Days / 9 Nights
 
 # Trip to  under construction. Will be available soon.
 
+### Day 1:  Annecy 
+After breakfast,  
+### Day 2: Annecy - Chamonix - Briançon
+After breakfast, 
+Dinner and night in Briançon
+
+### Day 3: Briançon (UNESCO) 
+After breakfast,  head on to Briançon,  the highest city in Europe ( 1326 meter ), famous for it's Vauban defensive fortification,  listed as UNESCO World Heritage.
+
+Start the visit of La Cité Vauban ( fortified city ), the upper town, by entering through the Porte de Pignerol  gateway. 
+Admire the old stone of the gate, typical Vauban's style architecture. 
+Then,  start your exploration of the picturesque town, take the narrow street Rue duTemple to join Place du Temple and discover there the beautifull the twin tower abbey-church Notre Dame and ST Nicolas. 
+
+Continue to explore the city by strolling the fortified city, wander the cafes and restaurant along the paved streets lined with ancient house
+
+After lunch, we will drive to the satellites fortification of the town. Start with the the farthest Fort du Randouillet,  .......Next head on the Pont d'Asfeld, crossing the gorges of Durance. 
+......
+
+The Grand rue -- bars, shop cafes , restaurants and boutiques.
+the old house.
+the defensive ramparts in Vauban cit
+the twin tower abbey-church Notre Dame and ST Nicolas.
+the fortification.
 
 
-colmar
-briancon
+### Day 4: Les mines d'argent de L'Argentière-la-Bessée - Saint-Veyran  le chateau de tallard
+
+### Day 5:  Mont Dauphin - L'abbaye de Boscodon
+After breakfast, 
+### Day 6: Colmars -  Sisteron
+After breakfast, 
+### Day 7: Sisteron - Dignes-les-Bains 
+After breakfast, 
+### Day 8: Dignes-les-Bains - Lurs
+After breakfast, 
+### Day  9: Lurs - Entrevaux
+
+After breakfast, we leave the verdon to an hour drive to Entrevaux, a picturesque medieval village surrounded by lower Provencal mountains. Start your exploration by entering the village using it's drawbridge accross the Var river,  stroll to the winding back streets, explore the old houses along the way get a feel of this picturesque village. 
+For lunch, we will enjoy the famous Secca d'Entrevaux, a local delicacy made of  dry seasonned meat of beef.
+
+After lunch, we will  continue our visit by  taking on the zig zag walkway through 20 fortified doorways to the Citadalle ,fortified by Vauban in the  XVII century. Visit the Citadelle interior's rooms , donjon, courtyards and cacth up some photo with  the scenary offers over the village and the surrounding area.
+
 fort queyras
-mont dauphins
 saint-veyran
 Les gorges de la Méouge
-Dignes les bains
-L'abbaye de Boscodon
 Embrun
 Seyne
 Le Parc Naturel Régional du Queyras
@@ -33,4 +68,3 @@ le chateau de tallard
 gap
 mane
 vallouise
-sisteron

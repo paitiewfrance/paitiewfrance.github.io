@@ -4,7 +4,6 @@ body {
     font-family: $sans;
     background: white;
     color:$text-color;
-    letter-spacing: 0.01em;
 }
 
 .home h2,
@@ -29,8 +28,8 @@ p,
 ul li  {
     font-size: 1em;
     font-family: $sans;
-    font-weight: 400;
-    color: $text-color;
+    color: lighten($header, 30);
+    font-weight: normal;
     line-height: 1.7em;
     margin-bottom: 1.5em;
 }
@@ -55,14 +54,13 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: $serif;
-    font-weight: 100;
+    font-family: $sans;
+    font-weight: 400;
     color: $header;
 }
 
 h1 {
     font-size: 2.25em;
-    
     font-weight: normal;
     text-transform: uppercase;
     line-height: 1.3333em;
@@ -81,7 +79,6 @@ h2 {
 
 h3 {
     font-size: 1.25em;
-    color: #8A5454;
     font-weight: bold;
     line-height: 1.3334em;
     
@@ -107,7 +104,7 @@ h6 {
 @media (min-width: 940px) {
     p,
     .include-exclude ul li {
-        line-height: 1.85em;
+        line-height: 1.8em;
     }
     .include-exclude ul li {
         margin-bottom: 0;
@@ -123,22 +120,40 @@ h6 {
         
         a {
             color: lighten(black, 26);
-            font-weight: normal;
         }
     }
     h3,
     h4,
     h5,
     h6 {
-        font-weight: normal;
+        // font-weight: normal;
         font-size: 1.75em;
         line-height: 1em;
         padding: 0.5em 0;
     }
+    
+    h2 {
+         font-weight: 600;
+    }
+
     h3 {
+        margin-top: 1.5em;
+        position: relative;
         font-size: 1.5em;
-        font-weight: 400;
-        line-height: 1.55em;
+        color:#4A403B;
+        font-weight: 600;
+        line-height: 1.35em;
+
+        &:before {
+              position: absolute;
+              content:'';
+              display: block;
+              margin: 0 auto;
+              width: 8em;
+              top:0;
+              left:50%;
+              height: 1px;
+        }
     }
     h4 {
         font-size: 1em;

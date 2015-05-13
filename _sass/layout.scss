@@ -16,7 +16,8 @@
 }
 
 /* Navigation */
-
+$nav:#38291E;
+$nav-link: white;
 nav {
   width: 14rem;
   position: fixed;
@@ -26,6 +27,7 @@ nav {
   color: $background-color;
   transition: all 0.3s ease-in;
   background:lighten(black, 92);
+  background:$nav;
   z-index: 1;
   padding: 82px 0;
   text-align: center;
@@ -33,29 +35,25 @@ nav {
        font-family: $sans;
        margin-bottom: 0;
   }
-  // @media (min-width: 940px) {
-  //      opacity: 1;
-  //   }
+  
   a {
     display: block;
-    color: lighten($main-color, 15);
-    text-transform: uppercase;
-    border-bottom:1px solid lighten(black, 88);
+    color: $nav-link;
+    border-bottom:1px solid lighten($nav, 4);
+    text-transform: capitalize;
     padding: 0.33334em 0;
-   font-weight: 300;
     font-size: 1em;
+    font-family: $serif;
     line-height: 3em;
     @media (min-width: 940px) {
-      font-size: .75em;
+      font-size: .875em;
       line-height: 3.75em;
     }
     &:hover {
-       background:lighten(black, 88);
+      color:white;
+       background:lighten($nav, 3);
     }
   }
-  span {
-      font-weight: 200;
-    }
 }
 
 nav.menu-open {
@@ -71,14 +69,6 @@ nav.menu-open {
 
 }
 
-#nav-list:after {
-  display: block;
-  content: '';
-  width: 5rem;
-  height: 1px;
-  margin: 23px auto;
-  background-color: $background-color;
-}
 
 #nav-menu {
   display: block;
@@ -125,9 +115,6 @@ nav.menu-open {
     top: 4px;
   }
   
-  &.btn-close span {
-     color: lighten(black, 35);
-  }
 
   &.btn-close {
     background:none;
@@ -136,13 +123,11 @@ nav.menu-open {
     top: 0;
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
-    background-color: lighten(black, 35);
   }
   &.btn-close:after {
     top: -4px;
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
-    background: lighten(black, 35);
   }
 }
 
@@ -376,7 +361,7 @@ a.test {
        text-transform: capitalize;
        padding: .25em 0  .25em;
        font-size: 1.75em;
-       font-weight: normal;
+       // font-weight: normal;
        line-height: 1.25em;
    }
 
@@ -411,16 +396,13 @@ a.test {
 .center {
     text-align: center;
     a.print {
-        background:#8A5454;
+        background:$header;
         color: white;
         transition: background .15s linear;
         font-weight: normal;
         display: inline-block;
         padding: .5em .75em;
         border-radius:2px;
-        &:hover {
-              background:darken(#8A5454, 18);
-        }
     }
 }
 

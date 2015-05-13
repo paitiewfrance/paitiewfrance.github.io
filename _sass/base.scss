@@ -2,6 +2,8 @@
 @import url(http://fonts.googleapis.com/css?family=Niconne);
 @import url(http://fonts.googleapis.com/css?family=Merriweather);
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,500,600,700,300,800);
+@import url(http://fonts.googleapis.com/css?family=Ovo);
+@import url(http://fonts.googleapis.com/css?family=Muli:300,400);
 
 * {
     -webkit-box-sizing: border-box;
@@ -56,21 +58,17 @@ li {
 $main-color: #282828;
 $header:#282828;
 $background-color: #F7F7F7;
-$text-color:  lighten(black, 45);
+$text-color:  #26241F;
 
 $footer: lighten(black, 15);
 
-$header-bg: #242220;
-// $olive-dark: #403D1A;
-$olive2: #87812F;
-$light-olive: #A69F68;
-// $lavender: #756886;
 
-$ocre:#AF4140;
 
+// $sans: 'Muli', sans-serif;
 $sans: 'Raleway', sans-serif;
 
 $serif:  'Merriweather', serif; 
+$serif:  'Ovo', serif; 
 $serif-bis: 'Niconne', cursive;
 
 
