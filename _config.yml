@@ -32,6 +32,9 @@ navigation:
        - label: Wonderfull Burgundy 
          title:  Wonderfull Burgundy 
          url: /tour-burgundy/wonderfull-burgundy
+       - label: Essential Burgundy 
+         title:  Essential Burgundy 
+         url: /tour-burgundy/essential-burgundy
   - label: Tour Alps
     title: Tour Alps
     url: /tour-alps
