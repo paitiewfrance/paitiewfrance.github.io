@@ -43,12 +43,16 @@ the fortification.
 
 ### Day 5:  Mont Dauphin - L'abbaye de Boscodon
 After breakfast, 
+
 ### Day 6: Colmars -  Sisteron
 After breakfast, 
+
 ### Day 7: Sisteron - Dignes-les-Bains 
 After breakfast, 
+
 ### Day 8: Dignes-les-Bains - Lurs
 After breakfast, 
+
 ### Day  9: Lurs - Entrevaux
 
 After breakfast, we leave the verdon to an hour drive to Entrevaux, a picturesque medieval village surrounded by lower Provencal mountains. Start your exploration by entering the village using it's drawbridge accross the Var river,  stroll to the winding back streets, explore the old houses along the way get a feel of this picturesque village. 
