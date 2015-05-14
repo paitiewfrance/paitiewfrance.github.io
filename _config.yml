@@ -4,7 +4,6 @@ author: paitiewfrance
 permalink: pretty
 
 url: "http://paitiewfrance.com"
-url: "http://localhost:4000"
 
 
 
@@ -18,6 +17,9 @@ navigation:
   - label: The French Riviera by the Seaside
     title: The French Riviera by the Seaside
     url: /the-french-riviera-by-the-seaside
+  - label: Road of the great Alps
+    title: Road of the great Alps
+    url: /road-of-great-alps
   - label: Wonder and Lavender in Provence
     title: Wonder and Lavender in Provence
     url: /wonder-and-lavender-provence

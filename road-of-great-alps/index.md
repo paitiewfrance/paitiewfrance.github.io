@@ -4,6 +4,7 @@ title: Great Alpes Route
 keywords:  
 meta: 
 duration: 8 Days / 9 Nights
+img: alps/briancon.jpg
 
 <!-- prices: 
      - expensive for 7-10 persons
@@ -11,10 +12,10 @@ duration: 8 Days / 9 Nights
      - out of budget for 2-4 persons -->
 ---
 
-# Trip to  under construction. Will be available soon.
 
 ### Day 1:  Annecy 
 After breakfast,  
+
 ### Day 2: Annecy - Chamonix - Briançon
 After breakfast, 
 Dinner and night in Briançon

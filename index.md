@@ -14,9 +14,9 @@ sitemap:
     <img src="img/chateauneuf.jpg" alt="" id="two">
 </div>
 
-##  PaitiewFrance is a small travel agency based in Bangkok. We mainly design edutainement trip that fit for small groups to France.
+##  Paitiewfrance ออกแบบนำเที่ยวฝรั่งเศสแบบเจาะลึก เราคัดสรรสถานที่ท่องเที่ยวที่น่าสนใจในหลายๆแคว้นของฝรั่งเศส อาทิเช่น โพรวองซ์ แอล์ป โก๊ต ดาร์ซูร์, คานส์ Cannes, อาวิญญง Avignon, เบอร์กันดี (Bourgogne)
 
-### Come with us for your very next trip to France.
+### ไปกับเราไปเที่ยวฟรานส์
 
 
 Pooki & Jeff.  

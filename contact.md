@@ -9,13 +9,12 @@ sitemap:
   changefreq: 'monthly'
 ---
 
-## Contact
-Let Pooki and Jeff take care of you! We guarranty you a unique and fun approach of what trips should be like: plenty of times for you. We roll as you want. country. Your trip will be educative and memorable.
+## Contact Paitiewfrance 
 
-![Pooki](/img/pooki2.jpg "Pooki")
+![Pooki](/img/pookie.jpg "Pookie")
 
 
-For any enquiry,  You can use the form below. We usually reply within a day. 
+มีคำถามเพิ่มเติม ท่านสามารถติดต่อเราตามช่องด้านล่างนี้ เราจะติดต่อกลับภายใน 24 ชั่วโมง 
 
 <div class="form-container">
        <form method ="POST" action="http://formspree.io/paitiewfrance@gmail.com">
@@ -54,7 +53,7 @@ For any enquiry,  You can use the form below. We usually reply within a day.
 
 
 
-You can also drop us an [email](mailto:paitiewfrance@hotmail.com) to us directly. We usually reply within a day.  Or you can using the folowing :
+You can also drop us an [email](mailto:paitiewfrance@hotmail.com) directly. We usually reply within a day.  Or you can using the following :
 
 - Facebook:  <span>[Pai Tiew France](https://www.facebook.com/paitiewfrance)</span>
 - Line: PaiTiewFrance
@@ -62,11 +61,6 @@ You can also drop us an [email](mailto:paitiewfrance@hotmail.com) to us directly
 - Email: <span>[paitiewfrance@gmail.com](mailto:paitiewfrance@gmaill.com?subject=Information request)</span>
 <br>
 <br>
-
-
-
-
-
 
 Au Revoir, à bientôt.
 
