@@ -29,8 +29,8 @@ navigation:
   - label: Southern Burgundy 
     title:  Southern Burgundy 
     url: /southern-burgundy
-  - label: about
-    title: about
+  - label: about us
+    title: about us
     url: /about
   - label: contact
     title: contact
