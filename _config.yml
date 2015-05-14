@@ -4,6 +4,7 @@ author: paitiewfrance
 permalink: pretty
 
 url: "http://paitiewfrance.com"
+url: "http://localhost:4000"
 
 
 
@@ -11,24 +12,33 @@ navigation:
   - label: home
     title: home
     url: /
-  - label: Wonder of Eastern Provence
-    title: Wonder of Eastern Provence
-    url: /wonder-eastern-provence
-  - label: The French Riviera by the Seaside
-    title: The French Riviera by the Seaside
-    url: /the-french-riviera-by-the-seaside
-  - label: Road of the great Alps
-    title: Road of the great Alps
-    url: /road-of-great-alps
-  - label: Wonder and Lavender in Provence
-    title: Wonder and Lavender in Provence
-    url: /wonder-and-lavender-provence
-  - label: Wonderfull Burgundy 
-    title:  Wonderfull Burgundy 
-    url: /wonderfull-burgundy
-  - label: Southern Burgundy 
-    title:  Southern Burgundy 
-    url: /southern-burgundy
+  - label: Tour Provence 
+    title: Tour Provence
+    url: /tour-provence
+    sub-menu:
+       - label: Wonder of Eastern Provence
+         title: Wonder of Eastern Provence
+         url: /tour-provence/wonder-eastern-provence
+       - label: Wonder and Lavender Provence
+         title: Wonder and Lavender Provence
+         url: /tour-provence/wonder-and-lavender-provence
+       - label: The French Riviera by the Seaside
+         title: The French Riviera by the Seaside
+         url: /tour-provence/the-french-riviera-by-the-seaside
+  - label: Tour Burgundy
+    title: Tour Burgundy
+    url: /tour-burgundy
+    sub-menu:
+       - label: Wonderfull Burgundy 
+         title:  Wonderfull Burgundy 
+         url: /tour-burgundy/wonderfull-burgundy
+  - label: Tour Alps
+    title: Tour Alps
+    url: /tour-alps
+    sub-menu:
+       - label: Road of the great Alps
+         title: Road of the great Alps
+         url: /tour-alps/road-of-great-alps
   - label: about us
     title: about us
     url: /about

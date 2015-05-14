@@ -1,9 +1,24 @@
 <nav id="nav">
 	<ul id="nav-list">
 	{% for link in site.navigation %}
-		<li>
-			<a href="{{site.url}}{{ link.url }}" title ="{{link.title}}">{{link.label | capitalize }}</a>
-		</li>
+	    {% if  link.sub-menu != null %}
+                        <li class ="has-submenu">
+                         <a href="#"  class ="[ fi-thumbnails {% if link.title contains page.class %} current  {% endif %} ] "  title ="{{link.title | capitalize }}">{{ link.label | capitalize }}</a>
+                         <div class="submenu-container">
+                         	 <ul>
+                                  {% for  sub in link.sub-menu %}
+                                       <li>
+                                         <a href="{{site.url}}{{sub.url}}"  title="{{ sub.title | capitalize }}">{{ sub.label | capitalize }}</a>
+                                       </li>
+                                  {% endfor %}
+                              </ul>
+                         </div>
+                         </li>
+	    {% else  %}
+	         <li>
+	            <a href="{{site.url}}{{ link.url }}" title ="{{link.title | capitalize }}">{{link.label | capitalize }}</a>
+	         </li>
+	      {% endif %}
 	{% endfor %}
 	</ul>
 	<a href="https://www.facebook.com/paitiewfrance" title ="Join us of facebook" target ="_blank"><span class ="fa fa-facebook"></span></a>
