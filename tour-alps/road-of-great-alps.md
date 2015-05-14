@@ -30,7 +30,7 @@ Then,  start your exploration of the picturesque town, take the narrow street Ru
 Continue to explore the city by strolling the fortified city, wander the cafes and restaurant along the paved streets lined with ancient house
 
 After lunch, we will drive to the satellites fortification of the town. Start with the the farthest Fort du Randouillet,  .......Next head on the Pont d'Asfeld, crossing the gorges of Durance. 
-......
+
 
 The Grand rue -- bars, shop cafes , restaurants and boutiques.
 the old house.
@@ -42,16 +42,16 @@ the fortification.
 ### Day 4: Les mines d'argent de L'Argentière-la-Bessée - Saint-Veyran  le chateau de tallard
 
 ### Day 5:  Mont Dauphin - L'abbaye de Boscodon
-After breakfast, 
+
 
 ### Day 6: Colmars -  Sisteron
-After breakfast, 
+
 
 ### Day 7: Sisteron - Dignes-les-Bains 
-After breakfast, 
+
 
 ### Day 8: Dignes-les-Bains - Lurs
-After breakfast, 
+
 
 ### Day  9: Lurs - Entrevaux
 
