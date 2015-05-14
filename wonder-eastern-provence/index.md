@@ -52,7 +52,6 @@ Drive to Castellane.
 Dinner and night at Castellane.
 
 ### Day 3:  Castellane - Entrevaux
-
 After breakfast, we leave the verdon to an hour drive to Entrevaux, a picturesque medieval village surrounded by lower Provencal mountains. Start your exploration by entering the village using it's drawbridge accross the Var river,  stroll to the winding back streets, explore the old houses along the way get a feel of this picturesque village. 
 For lunch, we will enjoy the famous Secca d'Entrevaux, a local delicacy made of  dry seasonned meat of beef.
 
@@ -70,7 +69,6 @@ We will head on to  the postcard-worthy Provencal  perched village Moustiers-Sai
 Take free time to go to lunch. Then, stroll through the medieval streets and archways and visit the ceramics shops that have made the town's reputation.
 
 ### Day 5: Valensole - Ganagobie Monastery - Les Mees -- Peyruis 
-
 After breakfast, head to Valensole, the France's most important Lavender growing area. Drive along picturesque roads lined with golden wheat and lavender prairie. We will stop along the way for some photo souvenir in this impresssive golden/purple landscape. Next, we will find out more about the cultivation in Valensole village - the distillation and making of  Lavender essential oil , Olive oils and Lavender Honey with locals farmers/producers.
 Then, we will head on to Notre-Dame de Ganagobie Benedictine monastery. Overlooking the Durance valley from its high wooded plateau, the abbey was founded in the 10th century. It is famous for its medieval mosaics.
 
@@ -81,7 +79,6 @@ For chocolate lovers, we will stop at the famous chocolate manufacturer Manon at
 Dinner and Night in Manosque
 
 ### Day 7:  Thoronet Abbey - La Chartreuse de la Verne - St Grimaud - St-Tropez 
-
 After breakfast, We will head to the Thoronet Abbey in Var, founded in 1146. The entire Cisterian monastery features an architecture of the finest Provencal Romanesque art, creating a feeling of unity and serenity.  It's a peacefull and medidative place. 
 
 Head on to Collobrieres to visit the beautifull Chartreuse de la Verne,  a huge ancient monastery dated from the 12th century.
@@ -95,7 +92,6 @@ We will then drive on the way to Cannes by taking the superb road of Esterel,  r
 Dinner and night in Cannes.
 
 ### Day 8: Cannes -- Iles Sainte Honorat -- Croisette
-
 After breakfast, head to Cannes, take a walk to La Croisette, beautiful avenue where leads to the famous International Movie Festival each year.
 We will take a walk and climb to the Suquet district,  a picturesque hill seatings representing the original fishing village, and admire a spendid view over the port of Cannes.
 
