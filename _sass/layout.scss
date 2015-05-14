@@ -49,6 +49,10 @@ nav {
       font-size: .875em;
       line-height: 2.85em;
     }
+
+    strong {
+        color: $nav-link;
+    }
     &:hover {
       color:white;
        background:lighten($nav, 3);
