@@ -1,13 +1,13 @@
 ---
 layout: tour
-title: Wonderfull Burgundy 
+title: Burgundy in eight days
 sitemap:
      priority: 0.7
      changefreq: 'monthly'    
 
 keywords:  paitiewfrance france travel to burgundy bourgogne wine vineyards chablis dijon auxerre red wine tasting road of wine vezelay unesco fontenay abbey basilica world heritage site alesia beaune hospices of beaune
 meta: paitiewfrance france travel to burgundy bourgogne wine vineyards chablis dijon auxerre red wine tasting road of wine vezelay unesco fontenay abbey basilica world heritage site alesia beaune hospices of beaune
-duration: 11 Days / 10 Nights
+duration: 8 Days / 7 Nights
 img: /burgundy/chambertain.jpg
 intro: Disover the Burgundy in depth with us. From Dijon to Beaune, experience great wine throught the legendary Route des Grands Crus, admire the countless   medieval villages and endless vineyards. On the northern part, wander the UNESCO World Heritage Sites of Vezelay and the Fontenay abbey.  And much more with this 11 days tour.  Welcome to Burgundy. 
 prices: 

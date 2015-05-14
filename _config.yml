@@ -32,9 +32,9 @@ navigation:
        - label: Wonderfull Burgundy 
          title:  Wonderfull Burgundy 
          url: /tour-burgundy/wonderfull-burgundy
-       - label: Burgundy seven days
-         title:  Burgundy seven days
-         url: /tour-burgundy/burgundy-seven-day
+       - label: Burgundyeight days
+         title:  Burgundyeight days
+         url: /tour-burgundy/burgundy-eight-days
   - label: Tour Alps
     title: Tour Alps
     url: /tour-alps
