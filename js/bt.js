@@ -25,4 +25,12 @@ jQuery(document).ready(function($){
 		);
 	});
 
+
+               $('.has-submenu > a ').click(function() {
+               	    $menu = $(this).next('.submenu-container');
+               	    $menu.toggleClass('open');
+               	    return false;
+               });
+
+
 });

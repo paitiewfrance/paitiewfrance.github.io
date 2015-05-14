@@ -41,17 +41,22 @@ nav {
     color: $nav-link;
     border-bottom:1px solid lighten($nav, 4);
     text-transform: capitalize;
-    padding: 0.33334em 0;
+    padding: .25em 0;
     font-size: 1em;
     font-family: $serif;
     line-height: 3em;
     @media (min-width: 940px) {
       font-size: .875em;
-      line-height: 3.75em;
+      line-height: 2.85em;
     }
     &:hover {
       color:white;
        background:lighten($nav, 3);
+    }
+
+    &:focus,
+    &:visited {
+        color: $nav-link;
     }
   }
 }
@@ -607,6 +612,22 @@ ul  li  {
 
   /*============================== SUBMENU =============================================*/
 
+.tour-dn {
+  display: none;
+}
+
   .submenu-container {
        display: none;
+       &.open {
+           display: block;
+       }
+
+       ul li a {
+          color: rgba(white, .55);
+       }
+  }
+
+
+  .primary-link {
+      font-size: 1.15em;
   }

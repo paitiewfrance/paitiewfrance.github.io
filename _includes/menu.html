@@ -3,12 +3,12 @@
 	{% for link in site.navigation %}
 	    {% if  link.sub-menu != null %}
                         <li class ="has-submenu">
-                         <a href="#"  class ="[ fi-thumbnails {% if link.title contains page.class %} current  {% endif %} ] "  title ="{{link.title | capitalize }}">{{ link.label | capitalize }}</a>
+                         <a href="#"  class ="[ primary-link {% if link.title contains page.class %} current  {% endif %} ] "  title ="{{link.title | capitalize }}">{{ link.label | capitalize }}</a>
                          <div class="submenu-container">
                          	 <ul>
                                   {% for  sub in link.sub-menu %}
                                        <li>
-                                         <a href="{{site.url}}{{sub.url}}"  title="{{ sub.title | capitalize }}">{{ sub.label | capitalize }}</a>
+                                         <a href="{{site.url}}{{sub.url}}"  title="{{ sub.title | capitalize }}"><span class ="tour-dn">Tour</span> {{ sub.label | capitalize }}</a>
                                        </li>
                                   {% endfor %}
                               </ul>
@@ -16,7 +16,7 @@
                          </li>
 	    {% else  %}
 	         <li>
-	            <a href="{{site.url}}{{ link.url }}" title ="{{link.title | capitalize }}">{{link.label | capitalize }}</a>
+	            <a href="{{site.url}}{{ link.url }}" class ="primary-link" title ="{{link.title | capitalize }}">{{link.label | capitalize }}</a>
 	         </li>
 	      {% endif %}
 	{% endfor %}
