@@ -29,7 +29,7 @@ Then,  start your exploration of the picturesque town, take the narrow street Ru
 
 Continue to explore the city by strolling the fortified city, wander the cafes and restaurant along the paved streets lined with ancient house
 
-After lunch, we will drive to the satellites fortification of the town. Start with the the farthest Fort du Randouillet,  .......Next head on the Pont d'Asfeld, crossing the gorges of Durance, the Fort des Sallettes located above the upper city, the Fort des Tetes, the largest fortified device of Briancon. 
+After lunch, we will drive to the satellites fortification of the town. Start with the farthest Fort du Randouillet,  .......Next head on the Pont d'Asfeld, crossing the gorges of Durance, the Fort des Sallettes located above the upper city, the Fort des Tetes, the largest fortified device of Briancon and the Fort Dauphin, 
 
 
 The Grand rue -- bars, shop cafes , restaurants and boutiques.

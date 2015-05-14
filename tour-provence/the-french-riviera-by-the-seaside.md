@@ -1,7 +1,7 @@
 ---
 layout: tour
 title: The French Riviera by the seaside
-duration: 12 Days / 11 Nights
+duration: 13 Days / 12 Nights
 keywords:  paitiewfrance france travel to french riviera cote d'azur monaco marseille antibes nice menton cannes eze roquebrune cap martin cassis calanques castellet  
 meta: paitiewfrance france travel to french riviera cote d'azur monaco marseille antibes nice menton cannes eze roquebrune cap martin cassis calanques castellet  
 img: lavande.jpg
