@@ -58,7 +58,7 @@ Paitiewfrance เกิดจากความตั้งใจของแน
 
 
 
-![Abbaye de Fontenay](/img/fontenay.jpg "Abbaye de Fontenay")
+<!-- ![Abbaye de Fontenay](/img/fontenay.jpg "Abbaye de Fontenay") -->
 
 
 ### A La Carte
