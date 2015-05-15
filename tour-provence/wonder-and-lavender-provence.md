@@ -45,7 +45,7 @@ After breakfast, On the Rhone River bank, stand the ancient city of Arles.  You 
 
 Next door, the  Gallo-Roman theater. Built also, in 10-20BC, place of shows in Roman times and nowadays, he served as career in the Middle Ages.
 
-Nex, the St. Trophime cloister, former cathedral built between the 12th century and the 15th century. Wander the Roman sculand  some of the world’s finest examples of Romanesque sculpture. 
+Next, the St. Trophime cloister, former cathedral built between the 12th century and the 15th century. Wander the Roman sculand  some of the world’s finest examples of Romanesque sculpture. 
 
 Move on the The baths of Constantine,  the Roman Bath of the emperor Constantin. Built in the 4th century, they were once part of the palace.  
 
@@ -139,7 +139,7 @@ We will then head to Manosques, home of the famous high end cosmetic company L'O
 
 Dinner and night in Manosque.
 
-### Day 10:  Saint-Maximin-la-Sainte-Baume basilica - The Thoronet Abbey - Bagerme
+### Day 10:  Saint-Maximin-la-Sainte-Baume basilica - The Thoronet Abbey - Bargeme
 
 After breakfast, we will drive to south to Saint-Maximin to visit the magnificent basilic Sainte-Marie-Madeleine. 
 Founded in the 13th century, it's crypt contains the holy relics of Marie-Madeleine. With 73 meters long and 43 meters wide, it is the largest Gothic style monument in Provence. 

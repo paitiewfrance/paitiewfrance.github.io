@@ -16,7 +16,6 @@ prices:
      - Contact us for 2-4 persons
 ---
 
-
 ### Day 1: Dijon
 Dijon, capital of the Duke of Burgundy. It  is one of France's most appealing cities. Filled with elegant medieval and Renaissance buildings, the lively centre is wonderful for strolling. You are sure to appreciate the wealth and elegance of the city’s architectural heritage. 
 
@@ -72,16 +71,20 @@ The city as a worlwide reputation for it's gastronomy. As such, we suggest the A
 Dinner and night in Beaune.
 
 
-### Day 4: Cluny - Macon
-After breakfast, head on to south burgundy to visit Cluny, .....
-Next, will go to Montbard for check-in.
-Dinner and Night at Macon.
+### Day 4:   Brancion - Cluny - Berze-le-Chatel - Solutré-Pouilly
+After breakfast, head on to south burgundy, make a stop at the charming hilltop village of Bancion. Stroll inside the narrow streets lined with old houses, visit it's beautifull medieval castle, offering a beautifull panoramic view over the countryside. 
+
+Next head on to Cluny to visit it's majestic abbey. Built in 910, formely 187 meters long and 30 meters large, the abbey church was the largest in Christendom until the construction of the St Peter's Basilica in Rome in 16th century. Take a walk inside the abbey and admire the he soaring Romanesque vaults and the brightness of the sanctuary.
+
+Next,  we will visit Berze-le-Chatel and it's medieval fortress flanked by thirteen towers and offering also a wonderfull view over the countryside. 
+Next, head on to La Roche de Solutre ( Solutre rock), an important prehistoric site that has been awarded the "Great Site of France" label.
+
+We will drive back to Cluny to spend a night.
+Dinner and Night at Cluny.
 
 
 ### Day 5:  La Charite-sur-Loire (UNESCO)  
-After breakfast, head on to Vezelay, the "eternal hill",  medieval village listed as UNESCO World Heritage, closely associated with Crusades. We will take a guided visit to the Basilica, St. Mary Magdalene (Sainte-Marie Madeleine ), a masterpiece of Romanesque architecture and sculpture. 
-
-Next, we will head on to la Charite-sur-Loire, medieval city surrounded by ramparts and numbers of vestiges, laying on the bank of the Loire river.
+After breakfast, take a 1 hour and half drive to La Charite-sur-Loire, medieval city surrounded by ramparts and numbers of vestiges, laying on the bank of the Loire river.
 In the heart of the city, we will first visit the 12th century Cluniac priory church of Notre Dame, a remarkable example Burgundian Romanesque art.
 Classified as historical monument in 1840, it became a UNESCO World Heritage site in 1998 as part of the way to St james. 
 
@@ -95,6 +98,7 @@ Late afternoon will also offer you fine landscape-cityscape pictures opprtunitie
 Dinner and Night in la Charite-sur-Loire.
 
 ### Day 6: Vezelay -- Basilica Sainte-Marie Madeleine (UNESCO) - Abbaye de Fontenay ( UNESCO) 
+After breakfast, head on to Vezelay, the "eternal hill",  medieval village listed as UNESCO World Heritage, closely associated with Crusades. We will take a guided visit to the Basilica, St. Mary Magdalene (Sainte-Marie Madeleine ), a masterpiece of Romanesque architecture and sculpture. 
 
 Next, we will head to Auxerre.Dinner and night at Chablis.
 
