@@ -19,38 +19,44 @@ Our chauffeur will wait us there and transfert us to Marseille. Our journey will
 Dinner and check-in at hotel in Marseille.
 
 ### Day 2: Marseille
-
+Marseille oldest city in France
+la canebiere - le port - the market
+lunch bouillabaisse
 Dinner and night in Marseille
 
-### Day 3: The Calanques creeks - Cassis
+### Day 3: The Calanques creeks of Cassis - Cassis
+After breakfast, head on to Cassis. Admire the beautifull traditional pastel paint houses lined with the fishing boats.
+Stroll inside the narrow streets of the village, feel the atmosphere of a Provencal fisherman village, and take a walk to the picturesque harbor. 
+
+After lunch, take a boat trip the whole afternoon and visit 9 Calanques creeks, a series of valleys formed from ancient river mouths and made almost entirely of brilliant white limestone and blue lagoon water. The blue sky above us, you will have lots picture opportunities of the French Riviera at it's best.
 
 Dinner and night in Cassis
 
-### Day 4:  Cassis - The Corniche de Crêtes coastal road
-After breakfast, head on by walk to the picturesque hardor of Cassis. Admire this unique traditional pastel paint houses lign witht the fishing boats.
-Take  
-Dinner and night in 
+### Day 4:  Day 5: le Castellet - The Giens peninsula
+Lunch at lt Castlellet
 
-### Day 5: le Castellet - The Giens peninsula
+Dinner and night at Grimaud.
 
-Dinner and night at Port-Grimaud
-
-### Day 6: Grimaud - Port Grimaud - St Tropez
+### Day 5 : Grimaud - Port Grimaud - St Tropez
 After lbreakfast, discover Grimaud,  a charming perched medieval town sitting above the plain of Cogolins.  Stroll along the cobbled streets,  the ancient stone houses and bulding, and wander the Chateau de Grimaud, the 11the century fortress offering a spendid view over the countryside. 
 
-Dinner and night in St Tropez
-
-### Day 7: L'esterel - Cannes 
+Road to cannes by Esterel - St Raphael - Frejus - Agay - La Trayas and Theoule-sur-Mer
 
 Dinner and night in Cannes
 
-### Day 8: The Lerins island - Antibes
-After breakfast, 
 
-We will head on to Antibes for checkin
+### Day 6: Cannes - The Lerins island
+After breakfast, head to Cannes, take a walk to La Croisette, beautiful avenue where leads to the famous International Movie Festival each year.
+We will take a walk and climb to the Suquet district,  a picturesque hill seatings representing the original fishing village, and admire a spendid view over the port of Cannes.
+
+Next, proceed to the pier for a 30 minutes boat cruise to reach the most preserved island of Cannes, Sainte-Honorat. 
+We will have a last great lunch together and will give a visit to the superb Abbey surrounding by a large vineyards where the small community of monks spend life between prayers and elaborating their own red and white wine ( which you can purchase of course ). 
+The scenary of this small island, under pine trees, vineyards, blue sky and ocean,  will offer you fine photo opportunities.
+
+We will head on to Antibes for checkin.
 Dinner and night in Antibes
 
-### Day 9: Antibes - Biot - Saint-Paul-de-Vence - Nice
+### Day 7:  Antibes - Biot - Saint-Paul-de-Vence - Nice
 
 After breakfast, we will start visiting the old town of Antibes. Stroll inside narrow paved streets, the andrones passing underneath old houses, wander the provencial covered market and admire the superb view offer from the Grimaldi castle housing the Picasso Museum. We will take a walk to the Port Vauban and admire lots suitably impressive oversized yachts.
 
@@ -62,18 +68,18 @@ After a lunch and an Expresso, time to head on to Saint-Paul-de-Vence. one of th
 
 We will then drive to Nice to checkin.  Dinner and night in Nice
 
-### Day 10: Nice 
+### Day 8: Nice 
 
 Dinner and night in Nice
 
-### Day 11: Monte-Carlo - Eze
+### Day 9: Monte-Carlo - Eze
 
 After lunch,  head on to Eze , a perched hill village classified one of the most beautifull village in France.  We will start browsing the village by entering the small narrow paved streets of the historic center. From here, admire the amazing view over the coastline mixed with the azur blue sky. Wander the old stone houses,  the locals boutiques and art galleries.  Take time and photograph this picturesque town as we move toward to the top of the cliff to admire another dizzling panoramic view over the Riviera. 
 
 After this afternoon, we will drive to Menton for checkin.
 Dinner and night in Menton
 
-### Day 12: Menton - Roquebrune-Cap-Martin - Sainte-Agnès
+### Day 10: Menton - Roquebrune-Cap-Martin - Sainte-Agnès
 
 After breakfast, we will our visit or Roquebrune-Cap-Marin, 
 
@@ -83,7 +89,7 @@ Last, we will visit Sainte-Agnès, classified as one of the most beautifull vill
 Climb all the way up to the remains of the castle, and admire a dizzling panorama.
 Dinner and night at Menton
 
-### Day 13: Nice Cote d'Azur Airport
+### Day 11: Nice Cote d'Azur Airport
 
 On our last morning, we will have a free time to buy some souvenirs -- and our driver will drop us to Nice Cote d'Azur Airport for our flight back to Bangkok
 End of trip.
