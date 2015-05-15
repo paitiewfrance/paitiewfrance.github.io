@@ -21,6 +21,9 @@ Dinner and check-in at hotel in Marseille.
 ### Day 2: Marseille
 Marseille, the oldest city in France. After breakfast, we will start our visit of the old port. .....
 
+Next, the old Charite, ......
+
+
 Also around the Port. the beautifull  St Victor Basilica, a religious fortress built in V century and enlarged from the XI  and XVI century. Wander the crypt and discover inside the original catacomb chapel and the Grotto of St Victor.
 
 We will next go visit the basilique Notre Dame de la Garde,  used as observation point in ancient time. Admire a beautifull panorama extends from the red roof tops of Marseilles' buildings and the old harbor, all the way to the Frioul Islands in the Mediterranean Sea.
@@ -59,7 +62,7 @@ We will have a last great lunch together and will give a visit to the superb Abb
 The scenary of this small island, under pine trees, vineyards, blue sky and ocean,  will offer you fine photo opportunities.
 
 We will head on to Antibes for checkin.
-Dinner and night in Antibes
+Dinner and night in Antibes.
 
 ### Day 7:  Antibes - Biot - Saint-Paul-de-Vence - Nice
 
@@ -75,7 +78,7 @@ We will then drive to Nice to checkin.  Dinner and night in Nice
 
 ### Day 8: Nice 
 
-Dinner and night in Nice
+Dinner and night in Nice.
 
 ### Day 9: Monte-Carlo - Eze
 

@@ -9,14 +9,14 @@ sitemap:
   changefreq: 'monthly'
 ---
 
+
+
+
 <div class="intro-picture">
     <img src="img/fontenay.jpg" alt="" id="one">
     <img src="img/chateauneuf.jpg" alt="" id="two">
 </div>
 
-<h2>
-    
-</h2>
 
 ##  Paitiewfrance ออกแบบนำเที่ยวฝรั่งเศสแบบเจาะลึก เราคัดสรรสถานที่ท่องเที่ยวที่น่าสนใจในหลายๆแคว้นของฝรั่งเศส อาทิเช่น โพรวองซ์ แอล์ป โก๊ต ดาร์ซูร์, คานส์ Cannes, อาวิญญง Avignon, เบอร์กันดี (Bourgogne)
 
@@ -24,3 +24,6 @@ sitemap:
 
 
 Pooki & Jeff.  
+
+
+
