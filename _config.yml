@@ -42,6 +42,9 @@ navigation:
        - label: Road of the great Alps
          title: Road of the great Alps
          url: /tour-alps/road-of-great-alps
+   - label: Tour Aveyron Tarn
+    title: Aveyron Tarn
+    url: /aveyron-tarn
   - label: about us
     title: about us
     url: /about
