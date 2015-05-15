@@ -19,19 +19,15 @@ Our chauffeur will wait us there and transfert us to Marseille. Our journey will
 Dinner and check-in at hotel in Marseille.
 
 ### Day 2: Marseille
-After breakfast, we will start our visit of Marseille, the oldest city in France, with it's famous and busy old port. 
-We will next go visit the basilique Notre Dame de la Garde,  used as observation point in ancient time
-We will go admire a beautifull panorama extends from the red roof tops of Marseilles' buildings and the old harbor, all the way to the Frioul Islands in the Mediterranean Sea.
+Marseille, the oldest city in France. After breakfast, we will start our visit of the old port. .....
 
+Also around the Port. the beautifull  St Victor Basilica, a religious fortress built in V century and enlarged from the XI  and XVI century. Wander the crypt and discover inside the original catacomb chapel and the Grotto of St Victor.
 
-Abbey St Victoria
+We will next go visit the basilique Notre Dame de la Garde,  used as observation point in ancient time. Admire a beautifull panorama extends from the red roof tops of Marseilles' buildings and the old harbor, all the way to the Frioul Islands in the Mediterranean Sea.
 
 For the lunch, we strongly advice to try the dish called BOUILLABAISE, a tasty local dish made on a wide variety of fishes and a fish stew, accompanied by a fresh Rosé.
-After lunch, ......... 
-
-
-
-Dinner and night in Marseille
+After lunch, we will take a boat trip to visit the Château d'If, a fortress built in the XVIth century that became a famous prison. End of our day. 
+Dinner at the old port and night in Marseille.
 
 ### Day 3: The Calanques creeks of Cassis - Cassis
 After breakfast, head on to Cassis. Admire the beautifull traditional pastel paint houses lined with the fishing boats.
@@ -46,7 +42,7 @@ After breakfast,
 Dinner and night at Grimaud.
 
 ### Day 5 : Grimaud - Port Grimaud - St Tropez
-After lbreakfast, discover Grimaud,  a charming perched medieval town sitting above the plain of Cogolins.  Stroll along the cobbled streets,  the ancient stone houses and bulding, and wander the Chateau de Grimaud, the 11the century fortress offering a spendid view over the countryside. 
+After breakfast, discover Grimaud,  a charming perched medieval town sitting above the plain of Cogolins.  Stroll along the cobbled streets,  the ancient stone houses and bulding, and wander the Chateau de Grimaud, the 11the century fortress offering a spendid view over the countryside. 
 
 Next,  we will head on to St Tropez, famous village for it's beautiull port and it's jet-setting resort. Wander the most picturesque quarter of the town called "La Ponche" , the historical center and fishing village, the old cobble streets and. Take a walk down to the old port, feel the it's atmosphere by strolling thought the cafes and terraces and the Mediteranean pastel color houses lined along the fishing boat and yatch docked in the harbor.
 
