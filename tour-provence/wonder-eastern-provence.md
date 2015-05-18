@@ -18,100 +18,92 @@ prices:
 ---
 
 ### Day 1: Antibes - Biot - Saint-Paul-de-Vence
-After breakfast, let's explore the old city of Antibes, numerous fortification, provencal market,  the well preserved ramparts and it's Picasso museum houses at Grimadli castle. Numerous cafes and restaurants are around the corner.
-The port of Antibes is also a place to visit, get familiar with the fisherman lifestyle of Southern France, with their product ready for sell on the pier.
+Aหลังอาหารเช้าเราจะพาทุกท่านเดินย้อนเวลาที่ท่าเรือประวัติศาสตร์ Port Vauban ท่าเรือนี้ในอดีตเคย เป็นหัวใจของเมืองกรีกโบราณ Antipolis ซึ่งเป็นสีสันของ เส้นทางประวัติศาสตร์อันยาวนานของชาวลิกูเรีย Ligurian ชาวโรมัน Roman  และชาวครูเซด Crusader ซึ่งต่างก็ใช้ เส้นทางนี้เดินทางไปยังดินแดนอันศักดิ์สิทธิ์
 
-For luxury boat lovers, wander the Quai des milliardaires and get a closer look of the majestics Yatch dock.
+ปัจจุบัน Port Vauban เป็นท่าจอดเรือยอร์ชที่ใหญ่ที่สุดใน ยุโรปที่มีที่จอดเรือมากกว่า 2,000 ลำ และเป็นจุดต่อเรือ ที่ยาวกว่า 100 เมตร เราจะให้ทุกท่านเพลิดเพลินกับการ เดินเล่นชมความงามของทะเลเมดิเตอร์เรเนียนจนลืมเวลา
 
-Head on to La Garoupe to admire the spectacular view over the bay cannes's islands view and the French Riviera. 
+จุดต่อไปที่จะนำท่านไปชมก็คือ Musée Picasso ก่อนที่จะเป็น พิพิธภัณฑ์ ที่นี่เคยเป็น Château Grimaldi ซึ่งในปี คศ.1925 รู้จักกันในชื่อของ พิพิธภัณฑ์ Grimaldi 
 
-We will take a visit to Biot,medieval village reputed worldwide for it's glass blowers art work. We will first go to upper village,  take a walk and stroll around the streets before having a lunch in the village. 
-Then, we will got visit  the workshop of "La Verrerie de Biot" ( glassware of Biot), which was the first to introduce the frosted bubble glass technique (1991-Éloi Monod).
+จากนั้นในปี คศ. 1946 จิตรกร ชื่อดัง Pablo Picasso ได้อาศัยใน คฤหาสน์นี้เป็นเวลา 6 เดือน หลังจากนั้นก็รู้จักกันในชื่อของ พิพิธภัณฑ์ ปิคาซโซ่ นับเป็นพิพิธภัณฑ์แห่งแรกในโลกที่อุทิศ ให้แก่ศิลปิน
 
-The glassware still innovated with luminescent glass that shines neons colors in the dark.
-It's a chance for us to discover and folllow the work of the glass blowers,   
+หลังจากนั้นให้ท่านอิสระเดินชมเมือง Antibes สูดหายใจเมืองเก่าที่เต็มไปด้วยกลิ่นอายคลาสสิกของยุค โบราณบนถนนที่คดเคี้ยวแคบเรียงรายไปด้วยบ้านน่ารักๆ ร้านขายของแบรนด์ต่างๆ ร้านกาแฟ และบาร์ นั่งดื่มเก๋ๆ ที่ล้อมรอบด้วยป้อมปราการ Vauban ให้เต็มที่
 
-in front of you.
-We will have a look at the opposite building witch contains art gallery of unique pieces like lamps, vases, bottles for perfums, cups and much more.
+รับประทานอาหารเที่ยงที่ Chez Helen ในเมือง Antibes หลังจากนั้นเราจะพาท่านเข้าสู่เมือง Biot ที่ขึ้นชื่อ เรื่องการเป่าแก้ว เราจะเข้าชม La Verrerie de Biot โรงงานเป่าแก้วและพิพิธภัณฑ์เครื่องแก้วที่เก่าแก่และมี ชื่อเสียงที่สุดใน Biot โรงงานก่อตั้งในปี คศ. 1956 โดย Eloi Monod ผู้เชี่ยวชาญด้านการเป่าแก้วอายุน้อยซึ่งใน ตอนนั้นอายุแค่ 20ปี เท่านั้น เราจะได้ชมประวัติความเป็น มาของการเป่าแก้วยุคต้นๆไปจนถึงยุคปัจจุบัน 
+    ชมวิธีการเป่าแก้วซึ่งความพิเศษอยู่ที่สีสันซึ่งมีทั้งทรายสีชมพู สีเปลือกมะนาว อเมทิส บลูเปอร์เซียน รูปทรง และ ลวดลายจะแตกต่างกันไป ขึ้นอยู่กับ “อารมณ์” ของช่าง เป่าแก้วและฤดูกาล อิสระเดินชมเมือง และร้านค้าพื้นเมือง ตามอัธยาศัย 
 
-We will continue our day and drive to one of the most beautifull and charming town in france, Saint-Paul-de-Vence.  Wander the numerous art galleries, stroll inside the picturesque narrows backstreets that made the worldwide reputation of this medieval village.
+    เดินทางต่อไปยังเมือง แซ็งต์ ปอล เดอ วองซ์ Saint Paul de Vence เมืองที่ตั้งอยู่บนยอดเขาตั้งแต่ สมัยยุคกลาง ตัวหมู่บ้านตั้งอยู่ท่ามกลางหุบเขาเหนือ ชายฝั่งริเวียร่า Riviera และมีกำแพงหินล้อมรอบซึ่ง เป็นป้อมปราการในศตวรรษที่ 16 หมู่บ้านนี้นอกจาก จะดึงดูดนักท่องเที่ยว ที่ชื่นชอบความเก่าแก่ของยุค กลางแล้วยังเป็นสถานที่ที่สร้างแรงบันดาลใจให้กับศิลปินชื่อดังในอดีตหลายท่านที่ย้ายมาอาศัยอยู่ และ      รังสรรค์ผลงานทางด้านศิลปะมากมาย
+    เราจะพาทุกท่านเดินเที่ยวชมบรรยากาศในหมู่บ้าน จับตาชมบ้านเรือนแบบปราสาทเก่าที่ตกแต่งด้วยดอก ไม้และการตกแต่งอันน่าทึ่ง ถนนในหมู่บ้านปูลาดด้วย อิฐหรือหินอย่างแน่นหนาสองข้างทางมีทั้งที่อยู่อาศัย ร้านกาแฟน่านั่ง, ร้านเสื้อผ้าและโดยเฉพาะอย่างยิ่ง ร้านค้างานศิลปะและงานฝีมือ Saint-Paul-de-Vence งานนี้ผู้ที่ชื่นชอบงานศิลปะคงจะใช้เวลาในการเดิน ดูร้านค้าอย่างเต็มที่
 
-Dinner and night it Opio.
+    นำท่านรับประทานอาหารค่ำพื้นเมืองสไตล์ Provençal หลังจากนั้นนำท่านสู่ที่พักใน Opio หมู่บ้านเล็กๆที่ไม่ธรรมดา เพราะเหนือใจกลางเมือง Canne, Nice และ Grasse ไป300 เมตรเหนือระดับน้ำทะเล มีหมู่บ้าน Opio Provencal ซึ่งเป็นหมู่บ้านแบบชนบทตั้งอยู่ในท้องทุ่งเขียวขจีล้อมรอบ เป็นวิวที่ใครได้เห็นแล้วจะไม่ อยากออกจากหมู่บ้านนี้เลยทีเดียว
+
 
 ### Day 2: Grasse - Parfumerie Galimard - Gourdon
-After breakfast, take a walk inside the old city visiting some monuments before heading to the famous ancient  perfum factory: Galimard.
-You will discover the impressive collection of antique copper production equipment,  learn with a hostess the origins of perfums, the methods of extractions of flowers, plants and scented woods. 
+หลังอาหารเช้า ใครที่ชื่นชอบน้ำหอมของ Gucci, Chanel, Burburry คงจะตื่นเต้นที่มีทริปช้อปปิ้งน้ำหอมแต่ทราบไหมคะ ว่าน้ำหอมต้นตำรับชื่อดังในฝรั่งเศสกลับไม่ใช่แบรนด์เนมที่กล่าวมา??เราจะพาทุกท่านเข้าสู่เมือง Grasseเมืองอุตสาหกรรม น้ำหอมที่เจริญรุ่งเรืองมาตั้งแต่ปลายศตวรรษที่ 18  เมือง Grasse เป็นศูนย์กลางของอุตสาหกรรมน้ำหอมฝรั่งเศส และ เป็นที่รู้จักกันว่าเป็นเมืองหลวงแห่งน้ำหอมโลก(La Capitale Mondiale de Parfums) ผลิตน้ำหอมกว่าสองในสาม ของกลิ่นหอมตามธรรมชาติของฝรั่งเศส อุตสาหกรรม นี้ทำรายได้ มากกว่า 600 ล้านยูโรต่อปี             เราจะเข้าไปชมสาธิตการทำน้ำหอมโดยการนำดอกไม้กว่า ร้อยชนิดมาสกัด และได้ฝึกจมูกเพื่อแยกกลิ่นดอกไม้รวมทั้งชมพิพิธภัณฑ์น้ำหอมที่เริ่มมาตั้งแต่ศตวรรษที่ 17 จากนั้นให้ทุกท่านได้เลือกซื้อน้ำหอมหรือโลชั่นน้ำหอมเป็นของฝากกันได้อย่างจุใจ
 
-Head on the organ perfum called "The Nose",  the place where perfums are composed.
-The visit will end to the factory shop where products can be purchase at preferencial rates.
+รับประทานอาหารเที่ยงที่ La Grignote หลังอาหารเที่ยงเราจะนำทุกท่านเดินทางสู่ Gourdon หมู่บ้านที่ถูก จัดให้เป็นหนึ่งในหมู่บ้านริมผาที่สวยที่สุดในฝรั่งเศส เราจะไปเที่ยวชมบ้านเมืองในกอร์ดองกันบ้านเรือนและ ทิวทัศน์ให้ความรู้สึกเหมือนย้อนเข้าไปในยุคกลาง ร้านค้ามีช่างน้ำหอมและงานฝีมือนอกจากนั้นถนนสาย หลักหรือตรอกก็ไม่ควรพลาดเลยสำหรับคนที่ชอบถ่ายรูป 
 
-After lunch, we head at Gourdon, a superb hiltop medieval village, classified as one of the most beautifull village in France. The spendid scenary and the view offers over the Mediterranean sea and low Alps the village will blow your mind.  Along with plenty  photo opportunities, stroll through the narrow streets,  visit the small boutiques with perfume product,  the local producer of spice bread (Pain d'epices ) , a glass blower who creates intricate masterpieces ..
+หลังจากนั้นเราจะเข้าไปเยี่ยมชมจุดสำคัญอีกหนึ่งจุดของกอร์ดองนั่นก็คือ Château de Gourdon หรือ ปราสาทกอร์ดอง ถูกสร้างขึ้นในศตวรรษที่ 12 และปรับปรุง ในศตวรรษที่ 17 ตัวปราสาทเป็นรูปแบบการก่อสร้างขนาด ใหญ่ผสมจากศตวรรษที่แตกต่างกัน เราจะเข้าเยี่ยมชม พิพิธภัณฑ์ปราสาทที่มีของสะสมที่น่าสนใจของอาวุธยุค กลางเช่น ดาบ โล่ และ ขวานโบราณ เช่นเดียวกับภาพวาด ชิ้นเอก จากนั้นเราจะพาไปเดินเล่นในสวนที่สามารถมอง เห็นวิวหุบเขาลึกที่มีมุมมองที่งดงามทีเดียว 
 
-Drive to Castellane.
+ช่วงบ่ายเราจะยังคงอยู่ใน Gourdon ให้ทุกท่านได้เดินถ่ายรูป เดินดูร้านค้า ศิลปะและสิ่งก่อสร้างได้ตาม อัธยาศัย 
 
-Dinner and night at Castellane.
+รับประทานอาหารค่ำแบบพื้นเมืองและเช็คอินเข้าที่พัก 
 
 ### Day 3:  Castellane - Entrevaux
-After breakfast, we leave the verdon to an hour drive to Entrevaux, a picturesque medieval village surrounded by lower Provencal mountains. Start your exploration by entering the village using it's drawbridge accross the Var river,  stroll to the winding back streets, explore the old houses along the way get a feel of this picturesque village. 
-For lunch, we will enjoy the famous Secca d'Entrevaux, a local delicacy made of  dry seasonned meat of beef.
+หลังอาหารเช้า เราจะเดินทางตามรอยนโปเลียนเข้าสู่ตัวเมือง Castellane ซึ่งล้อมรอบไปด้วยไม้ป่า และภูเขาหนาทึบ มองขึ้นไปจะเห็นจุดที่เราจะไปเที่ยวชมคือ Chapel Nôtre-Dame-du-Roc ตั้งอยู่เหนือ สุดของเมือง Castellane สร้างขึ้นในศตวรรษที่18 บนเขตป้อมปราการโบราณและเมืองโบราณของโรมัน “Petra Castellana”  เราจะขึ้นไปถ่ายรูปจุดชมวิวที่สามารถมองเห็นเมืองได้ทั้งเมือง หลังจากนั้นเราจะ เดินกันต่อที่ Église Saint-Victor โบสถ์เก่าแก่ตั้งแต่สมัยศตวรรษที่ 13 เราจะได้เห็นภาพเขียน และ การแกะสลักไม้ภายในโบสถ์ตั้งแต่ปลายศตวรรษที่ 13 – ศตวรรษที่ 18
 
-After lunch, we will  continue our visit by  taking on the zig zag walkway through 20 fortified doorways to the Citadalle ,fortified by Vauban in the  XVII century. Visit the Citadelle interior's rooms , donjon, courtyards and cacth up some photo with  the scenary offers over the village and the surrounding area.
+หลังอาหารเที่ยง เราจะขึ้นรถเดินทางต่อไปยัง Entrevaux หมู่บ้านบนตีนเขาบนหุบเขาไกล้แม่น้ำ Var หมู่บ้านนี้ในอดีต เป็นเมืองหน้าด่านทางตะวันออกเฉียงใต้เพื่อเข้าสู่ฝรั่งเศส เป็นความภูมิใจของประวัติศาสตร์ที่ระส่ำระสาย มานานถึงสองพันปี Extrevaux หมู่บ้านยุคกลาง ปราการแรกที่ดูแลทางเข้าหมูบ้าน สะพานยกเก่าแก่ที่ คร่อมกลางแม่น้ำเชี่ยวกราก ทางเดินคดเคี้ยวผ่านทางเข้าป้อม 20 ทางไปจนถึงป้อมปราการใหญ่ที่ปกป้อง หมู่บ้านที่รายล้อมไปด้วยทิวเขา 
+
+เราจะใช้เวลาครึ่งบ่ายเดินย้อนเวลาให้เต็มอิ่ม เดินข้ามสะพานเพื่อเข้าไปในตัวหมู่บ้านหน้าด่านที่แคบ และ ผ่านอาคารบ้านเรือนสองฝั่งที่ให้ความรู้สึกเหมือนกำลังเดินอยู่ในยุคกลาง เราจะเดินตามทางเดินปูด้วยหิน ขึ้นไปประมาณ 20นาที เพื่อชมป้อมปราการหลักที่อยู่บนสุดของหมู่บ้าน ระหว่างทางแวะถ่ายรูปวิวทิวทัศน์ กันได้ตามใจเพราะวิวสวยมากถึงแม้จะไม่เหนื่อยก็อยากจะหยุดเพื่อถ่ายรูป ภายในป้อมก็สวยไม่แพ้กันทั้ง ห้องใต้ดินและลานกว้าง หลังจากนั้นเราจะเดินไปชมโบสถ์ที่มีซุ้มประตูหรูหราสไตล์กอธิค Cathédrale Notre-Dame-de-l'Assomption โบสถ์คริสต์จักรที่รุ่งเรืองตั้งแต่สมัยศตวรรษที่ 15 – ศตวรรษที่ 17 
+
+เดินทางสู่ Gorge du Verdon เพื่อรับประทานอาหารค่ำและเข้าที่พัก
 
 ### Day 4: Gorges du Verdon - Moustiers Sainte-Marie
-After breakfast, head on to Verdon Regional Park, one of the most beautifull natural site of Provence. 
-Our drive will start from the city Castellane,  taking on the sublime corniche road, and overtlooking the dramastic scenary of Europe's biggest canyon.
-Admire the amazing views along the way, the canyon offer dizzling views downwards as the valley can plunge 700 meters! 
+ลังรับประทานอาหารเช้า เราจะเดินทางสู่ Moustier Sainte Marie ซึ่งอยู่ปากทางหุบเขาทางเข้า Gorges du Verdon  Canyon หมู่บ้าน Moustier ได้ชื่อว่าเป็นอีกหมู่ บ้านหนึ่งที่ สวยที่สุดในฝรั่งเศส หมู่บ้านตั้งอยู่ในลักษณะ ครึ่งวงกลมของหน้าผาหินที่ระดับความสูง 630 เมตร สองยอดที่ปลายของหน้าผาต่อกันด้วย โซ่เหล็กยาว 227 เมตร เพื่อแขวนดวงดาวหนึ่งในอัศวิน Crusade เป็นสัญ ลักษณ์ของหมู่บ้านนี้ที่ใครมาก็ต้องแหงนคอขึ้นไปชมให้ เห็นกับตา 
 
-Spectacular landscape, breath-taking views and amazing turquoise colors, this day you offers you some fine photos opportunites. And a memorable day
-inside the  Verdon Regional Park.
+เราจะเดินขึ้นไปชมวิหาร Notre-Dame de Beauvoir ตั้งอยู่ทางลาดบนเขาสูง 830 เมตรเหนือหมู่บ้าน สถานที่แห่งนี้ถูกครอบครองมาตั้งแต่ 470 ปีหลังคริสตกาล โดยวัดเล็ก ๆ น้อย ๆ ที่ทุ่มเทให้กับพระแม่มารีย์ ในศตวรรษที่ 12 พระสงฆ์ในท้องถิ่นได้สร้างโบสถ์ซึ่งจนกระทั่งศตวรรษที่ 15 ถูกเรียกว่า Notre Dame d'Entreroches ในศตวรรษที่ 16 โบสถ์ได้ต่อเติมออกมาและสามารถมองเห็นบันไดหิน 262 ขั้นไปสู่โบสถ์
 
-We will head on to  the postcard-worthy Provencal  perched village Moustiers-Sainte-Marie, classified as one of the most beautifull village in France and famous all over the world for its faience earthenware.
-Take free time to go to lunch. Then, stroll through the medieval streets and archways and visit the ceramics shops that have made the town's reputation.
+หลังจากลงจากวิหารเราจะปล่อยอิสระให้ทุกท่านได้เดินชม เมือง Moustier ตั้งแต่ทางเข้าเราจะเห็นว่าสองข้างทางเรียง รายไปด้วยร้านขายเซรามิก céramique และ พอร์ชเลน porcelaine ซึ่งเรียกว่า "faïence" (อ่านว่า เฟ – ยองซ์) หัตถกรรมกระเบื้องดินเผาของหมู่บ้าน Moustier เรียกได้ว่า ดังเป็นอันดับแรกของ ฝรั่งเศสด้วย ร้านช่างฝีมือถึง 12 แห่ง และมีร้านค้าย่อยอีกเกือบ 22 แห่ง ทั่วฝรั่งเศสและจำหน่าย ไปทั่ว โลกซึ่งเป็นข้อยืนยันถึงชื่อเสียงคุณภาพและความสวย งามของเครื่องเคลือบที่นี่เลยทีเดียวอย่างนี้คงจะพลาดไม่ได้
+
+หลังอาหารเที่ยง เราจะนั่งรถตามเส้นทางไป Gorges du Verdon ตลอดเส้นทางเป็นวิวแบบ panorama เราจะแวะจอดจุดชมวิวให้ทุกท่านได้ถ่ายรูปกันไปเรื่อยๆ Gorges du Verdon เรียกอีกอย่างว่าแกรนแคน ยอนแห่งแวร์ดอง เป็นหุบเขาที่งดงามที่เป็นพรมแดนระหว่าง Alpes-de-Haute-Provence และ Var ความลึกถึง 700 เมตร เส้นทางยาว 21 กิโลเมตร ความแคบกว้างแตกต่างกันไป 
+
+หลังจากนั้นเราจะเดินทางต่อไปยัง Valensole รับประทานอาหารค่ำ และเข้าที่พัก
 
 ### Day 5: Valensole - Ganagobie Monastery - Les Mees -- Peyruis 
-After breakfast, head to Valensole, the France's most important Lavender growing area. Drive along picturesque roads lined with golden wheat and lavender prairie. We will stop along the way for some photo souvenir in this impresssive golden/purple landscape. Next, we will find out more about the cultivation in Valensole village - the distillation and making of  Lavender essential oil , Olive oils and Lavender Honey with locals farmers/producers.
-Then, we will head on to Notre-Dame de Ganagobie Benedictine monastery. Overlooking the Durance valley from its high wooded plateau, the abbey was founded in the 10th century. It is famous for its medieval mosaics.
+หลังอาหารเช้าเราจะพาทุกท่านไปชมทุ่งลาเวนเดอร์และชิมน้ำผึ้งลาเวนเดอร์ ณ ที่ราบสูง Valensole   ที่นี่ปลูกลาเวนเดอร์หลายสายพันธุ์เนื่องจากการเปลี่ยนแปลงทางสัณฐานวิทยาของพื้นที่และการเจริญ เติบโตของดอกลาเวนเดอร์ Valensole เป็นตัวอย่างที่ราบสูงที่สวยงามมาก ที่ราบลูกคลื่นโล่งขอบฟ้า ที่สวยงามเน้นเส้นโค้งและรอยแตกของดินพื้นดินสูง ถนนลาเวนเดอร์ หรือ the Routes de la Lavande เป็นเส้นทางที่จะพาทุกท่านไปค้นพบขุมทรัพย์ลาเวนเดอร์แห่ง Haute-Provence
 
-Proceed to Les Mees, the city having the largest numbers of Olive trees in Provence. The village houses also one of the most spectacular geological features in the region call Les Penitents des Mees which consist of a serried rank of columnar rocks more than 100 meters high.
+หลังอาหารเที่ยง เราจะมุ่งหน้าเข้าสู่เมือง Peyruis เพื่อชิมขนมหวานโฮมเมด อย่าง Callisson ขนมหวาน แบบโพรวองซ์มีมากว่า 600 ปี มีส่วนผสมของอัลมอนด์บด เมล่อนและเปลือกส้ม เป็นขนมขึ้นชื่อของแคว้น ยังมี ช้อคโกแล็ต และนูแก็ตที่ขึ้นชื่อของที่นี่ด้วย หลังจากเลือกซื้อขนมกันอย่างจุใจแล้วเราจะเดินทางต่อ ไปยัง Les Mées หมู่บ้านที่โด่งดังเรื่องของลานหินสูงกว่า 100 เมตรที่เรียงกันเป็นแนวยาวอยู่เบื้องหลังเมืองแห่งนี้ แนวหินสูง เหล่านี้มีชื่อเรียกอีกอย่างที่ฟังแล้วเศร้าปนโรแมนติกนิดๆว่า "Pénitents des Mées" (อ่านว่า เป-นิ-ต็ออง์-เด-เม) เนื่องจาก แนวหินเหล่านี้มีลักษณะคล้ายเงา ของนักบวชแห่งภูเขา Lure ได้กลายเป็นหินเนื่องจากตกหลุมรักสาวสวยที่ขุนนางพากลับมา ด้วยช่วงสงครามครูเสด 
 
-For chocolate lovers, we will stop at the famous chocolate manufacturer Manon at Peyruis, visit their factory and probably buy some of the finest chocolate maker in France.
+นอกจากลานหินพิศวงแล้ว เมืองนี้ยังมีของดีคู่เมืองอีกอย่างนั่นก็คือ น้ำมันมะกอก เราจะพาทุกท่านไปชม โรงงานน้ำมันมะกอกที่ เราจะได้ชมการเก็บเกี่ยวการผลิตไปจนถึง ช้อปปิ้งผลิตภัณฑ์กันอย่างเต็มที่ ขอบอกว่าผลิตภัณฑ์ เป็น Organic ล้วนๆ มินิทริปถ้ามีเวลาเหลือเราจะมุ่งหน้าสู่ Abbey du Thoronet ในเขต Var โบสถ์เก่าสร้างในศตวรรษที่ 12 และบูรณใหม่หลังปฏิวัติ ฝรั่งเศสในปี 1850 โบสถ์นี้ถูกซ่อนจากโลกภายนอกเป็นสถานที่ ที่พระสงฆ์ใช้ชีวิตประจำวันของพวกเขาในความเงียบสงบตั้งอยู่ ในหุบเขาที่ปกคลุมไปด้วยป่าไม้โอ๊ค
 
-Dinner and Night in Manosque
+รับประทานอาหารค่ำ และ เข้าที่พัก
 
-### Day 7:  Thoronet Abbey - La Chartreuse de la Verne - St Grimaud - St-Tropez 
-After breakfast, We will head to the Thoronet Abbey in Var, founded in 1146. The entire Cisterian monastery features an architecture of the finest Provencal Romanesque art, creating a feeling of unity and serenity.  It's a peacefull and medidative place. 
+### Day 6:   La Chartreuse de la Verne -  Grimaud - St-Tropez 
+หลังรับประทานอาหารเช้า เราจะเดินทางสู่ แซ็งต์โทรเปซ สถานที่ที่ดาราฮอลลีวู้ดชื่อดังชอบมาพักผ่อน ตากอากาศ เล่นน้ำทะเล หมู่บ้านที่เป็นตำนานของ Saint-Tropez ถูกทำให้เป็นที่รู้จักโดยนักแสดงหญิง Brigitte Bardot หลังจากนั้น St. Tropez ก็ดึงดูดคนดังและผู้เข้าชมจากทั่วทุกมุมโลกให้มาเที่ยวชม และพักผ่อน หมู่บ้านดั้งเดิมที่เงียบสงบจากฤดูใบไม้ร่วง ถึงฤดู​ใบไม้ผลิ, หมู่บ้านชาวประมงในอดีตได้กลาย เป็นสถานที่ตากอากาศชายทะเลที่มีชื่อเสียงและเป็น ท่าเรือที่คึกคักสำหรับจอดเรือใบ และเรือยอชท์ ที่หรูหรา และยังมีระเบียงร้านกาแฟและร้านค้าที่ออกแบบมีดีไซน์ และไนต์คลับหรูหราซึ่งเป็นสีสัน และ บรรยากาศการเฉลิมฉลองสำหรับฤดูร้อนรับประกัน! 
 
-Head on to Collobrieres to visit the beautifull Chartreuse de la Verne,  a huge ancient monastery dated from the 12th century.
- Located in the heart of the Massif des Maures, the plateau of La Verne is a haven of peace, even in the middle of summer.  Browse the monastery by visiting it's ancient cloister, which some cells have been rebuilt, the remains of a windmill. the kitchens (with a fireplace from the 19th century). Wander the arcades and serpentine decorated doors dating from the 19th century, the hotel and the old refectory. 
+ท่าเรือที่งดงามเรียงรายไปด้วยอาคารที่มีสีสัน, ตามแบบฉบับของ La Ponche และ Place des Lices, มุมที่ชาวบ้านเล่นลูกเปตองก็เป็นเสน่ห์ของหมู่บ้าน ที่เราจะพบเห็นได้ทั่วไป
 
-After lunch, we will drive to Grimaud,  a charming perched medieval town sitting above the plain of Cogolins.  Stroll along the cobbled streets,  the ancient stone houses and bulding, and wander the Chateau de Grimaud, the 11the century fortress offering a spendid view over the countryside. 
+ต่อกันที่ Port Grimaud พอร์ท กรีโม ,เมืองริมน้ำเหมือนเวนิสในอิตาลี แต่น้ำที่นี่ทั้งใสและสวยกว่าที่เวนิส หลายเท่า เราจะล่องเรือเข้าไปชมบรรยากาศและบ้านเรือนที่สวยงามเงียบสงบของหมู่บ้านกัน
 
-Next,  we will head on to St Tropez, famous village for it's beautiull port and it's jet-setting resort. Wander the most picturesque quarter of the town called "La Ponche" , the historical center and fishing village, the old cobble streets and. Take a walk down to the old port, feel the it's atmosphere by strolling thought the cafes and terraces and the Mediteranean pastel color houses lined along the fishing boat and yatch docked in the harbor.
+เราจะเดินทางไปทางตะวันตกเพื่อชม  La Chartreuse de la Verne (ลา ชาร์คโทรส เดอลา แวร์เนอ) อารามหลวงที่แอบซ่อนอยู่ในป่าทึบของหุบเขามอร์ส Maures สร้างขึ้นตั้งแต่ต้นศตวรรษที่12 และโดนเผา วอดไปหลายแถบตลอดช่วงศตวรรษ วิหารที่หลงเหลือถูกบูรณะใหม่ในศตวรรษที่ 17 – 18 
 
-We will then drive on the way to Cannes by taking the superb road of Esterel,  red rocky moutains chain along the coastline and enjoy Meditterarnean sea view for 1 hour and half.
-Dinner and night in Cannes.
+เดินทางเข้าสู่เมือง Cannes เพื่อรับประทานอาหารค่ำ และชมบรยากาศของเมือง Cannes ก่อนเข้าที่พัก
 
-### Day 8: Cannes -- Iles Sainte Honorat -- Croisette
-After breakfast, head to Cannes, take a walk to La Croisette, beautiful avenue where leads to the famous International Movie Festival each year.
-We will take a walk and climb to the Suquet district,  a picturesque hill seatings representing the original fishing village, and admire a spendid view over the port of Cannes.
+### Day 7: Cannes -- Iles Sainte Honorat -- Croisette
+หลังอาหารเช้า เนื่องจากเราชอบพาไปที่ที่ๆไม่ซ้ำใครก่อน ที่ทุกท่านจะอ้อนให้เราพาไปช้อปปิ้ง เราจะพาทุกท่านไป “อีล แซ็งต์ โอโนอร่าห์ ” Île Saint-Honorat เกาะที่ใหญ่ เป็นอันดับสองรองจาก “เกาะเลรองค์” Lérins Islands นั่งเรือไปประมาณกิโลกว่าจากชายฝั่งริเวียร่า ตั้งแต่สมัย ศตวรรษที่ 15 เกาะนี้เป็นที่พำนักของนักบวชในสมัยก่อน 
 
-Next, proceed to the pier for a 30 minutes boat cruise to reach the most preserved island of Cannes, Sainte-Honorat. 
-We will have a last great lunch together and will give a visit to the superb Abbey surrounding by a large vineyards where the small community of monks spend life between prayers and elaborating their own red and white wine ( which you can purchase of course ). 
-The scenary of this small island, under pine trees, vineyards, blue sky and ocean,  will offer you fine photo opportunities.
+จากนั้น เราจะนั่งเรือกลับมาที่ Cannes และจะนำท่านไปชม “ปาเลห์ เด เฟสติวาลส์” (The Palais des Festivals) ที่จัดงาน ประกวดภาพยนตร์ และศูนย์ประชุมนานาชาติที่โดยรอบอาคาร จะมีฝ่ามือของบรรดาศิลปินนักแสดงที่มีชื่อเสียงจากฮอลลีวู๊ด  และคนดังจากประเทศต่างๆประทับเอาไว้บนพื้นซีเมนต์ หลังจากนั้นเราจะนำทุกท่านเดิน “ครัวแซท” (The Croisette) เส้นทางเดินชมทัศนียภาพริมโค้ง อ่าวที่ติดอันดับโลก ด้วยความยาวกว่า 3 ก.ม. ให้ท่านได้ เพลิดเพลินกับ การเดินชมวิว ต้นปาล์ม หาดทราย สีทองอร่าม และอาคารสถาปัตยกรรม ในยุคโคโลเนียลที่สวยงาม
 
-After a peacefull walk around the island, we will reach back to Cannes, then drive to Eze village for our last evening in Provence.
+นักช็อปปิ้งทั้งหลายเตรียมตัวให้ดี เพราะหลังอาหารเที่ยง เราจะปล่อยอิสระให้ทุกท่านได้เดินเฉิดฉายใน เมืองซึ่งมีรถยนต์แพงๆวิ่งกันทั่วเมือง และ ร้านบูติกทันสมัยหลายแห่งบนถนน Boulevard de la Croisette และ Rue d’Antibes รอคนกระเป๋าหนักอยู่เสมอ และยังมีแหล่งช็อปปิ้งที่ต่อรองราคาได้อยู่ที่ ถนน Rue Meynadier ซึ่งนอกจากจะต่อรองราคาได้แล้ว ยังสามารถชิมชีสก่อนตกลงซื้อได้ นอกจากนี้ยังมีไวน์ รสชาติดีที่ “มาร์คเช่ ฟอร์วิลล์” Marche Forville ถึงแม้ว่าจะมีเทศกาลทางวัฒนธรรมระดับโลก ที่นี่บ่อยครั้ง แต่ก็กลมกลืนกับหมู่บ้านเล็กๆ วิถีชีวิตของชุมชนท้องถิ่นเป็นอย่างดี
 
-Dinner and night in Nice.
+นำท่านรับประทานอาหารค่ำ และเช็คอินเข้าที่พัก
 
-### Day 9:  Eze village - Nice
-After breakfast,  head on to Eze , a perched hill village classified one of the most beautifull village in France.  We will start browsing the village by entering the small narrow paved streets of the historic center. From here, admire the amazing view over the coastline mixed with the azur blue sky. Wander the old stone houses,  the locals boutiques and art galleries.  Take time and photograph this picturesque town as we move toward to the top of the cliff to admire another dizzling panoramic view over the Riviera. 
+### Day 8:  Eze village - Nice
+หลังรับประทานอาหารเช้า เราจะพาทุกท่านไปชมหมู่บ้าน “เอซ” Èze หมู่บ้านนี้เป็นหมู่บ้านยุคกลางตั้งอยู่ เหนือริมผาที่เห็นวิวทะเลเมดิเตอร์เรเนียนได้ 360 องศา หมู่บ้านเอซเป็นป้อมปราการที่เก่าแก่ตั้งแต่สมัย ศตวรรษที่ 12 รูปแบบหมู่บ้านเป็นแบบวงกลมรอบฐานของปราสาท อาคารเก่า และถนนแคบๆมีการบูรณะ เป็นอย่างดีด้วยกำแพงหินสูง และถนนสายแคบๆที่ตรงกลางปูด้วยอิฐสีแดง ที่ด้านบนสุดเราจะขึ้นไปถ่าย รูปที่จุดชมวิวแบบ 360องศา สวยจนทุกท่านจะลืมหายใจ
 
-After lunch, head on to Nice and stroll along  it's famous Promenade des Anglais along the sea where you can admire luxurious hotels Bell Epoque style like the Negresco and the Westminser. We will wander the beautifull Place Massena and admire the elegant arcaded buildings. Next, browse the old town of Nice, with its maze of narrow alleyway and discover Cour Saleya, a busy flower market located in the old city, enjoy it's tall old buidings faded pastels colors and the vibrant activity of this picturesque quater.
+ดินลงมาทานอาหารเที่ยงแบบโพรวองซ์ และวิวที่สวยงาม 
 
-We will have our last dinner in Cour Saleya.
-Dinner and night in Nice.
+ได้เวลาพอสมควร นำเดินทางกลับเมืองนีส Nice  เช็คอินเข้าที่พัก พักผ่อนตามอัธยาศัย ช้อปปิ้ง สินค้า แบรนด์เนมระดับโลก หรือ ในศูนย์การค้า “กาเลอรี่ ลาฟาแย็ตต์”  Galeries Lafayette หรือเดินเที่ยวชม ความสวยงามของชายหาดริเวียร่า และ ถนนสาย “โพรเมอนาด เด อองเกลส์”  Promenade des Anglais ที่สวยงามที่สุดในเขตเมดิเตอร์เรเนียน
 
 ### Day 10: Nice Cote d'Azur Airport - Bangkok
-After breakfast,  free time for some souvenirs before leading to the airport back to Bangkok.
- Time to say "Au revoir" to Provence. <br><br> End of the tour.
+เราจะจบทัวร์ฝรั่งเศสวันนี้และได้เวลาบอกคำว่า "โอ เรอ วัว" ซึ่งแปลว่าบ๊ายบายกับทัวรืฝรั่งเศสรอบนี้
 
