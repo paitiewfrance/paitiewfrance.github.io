@@ -2,8 +2,8 @@
 layout: tour
 title: Wonder and Lavender in Provence
 duration: 15 Days / 14 Nights
-keywords:  paitiewfrance france travel to provence lavender olive oil lavender blooming grasse luberon baux de provence avignon arles palace popes sault valensole 
-meta: paitiewfrance france travel to provence lavender olive oil lavender blooming grasse luberon baux de provence avignon arles palace popes sault valensole 
+keywords:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
+meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 img: lavande.jpg
 class: lavender
 prices: 

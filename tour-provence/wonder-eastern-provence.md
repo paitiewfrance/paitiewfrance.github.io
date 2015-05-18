@@ -6,8 +6,8 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     
-keywords:  paitiewfrance france travel to provence  antibes biot verrerie saint-paul de vence eze grasse gourdon trip to provence verdon travel to france saint tropez cannes croisette esterel  
-meta: paitiewfrance france travel to provence antibes biot verrerie saint-paul de vence eze grasse gourdon trip to provence verdon travel to france saint tropez cannes croisette esterel  
+keywords: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
+meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 img: lavande.jpg
 intro: Join The Wonder Eastern Provence tour and discover with us some of the most beautifull hilltop village in south of France, the Verdon with it's amazing canyon
           the Lavender field at Valensole..And much more.

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: PaitiewFrance | Welcome
-meta: paitiewfrance france travel in provence  bourgogne burgundy paris  avignon grasse  baux de provence luberon nice cote d'azur  monaco cannes marseille 
-keywords:  paitiewfrance  france travel travel in provence bourogone burgundy paris avignon grasse  baux de provence luberon nice cote d'azur  monaco cannes marseille 
+meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
+keywords:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้ 
 class: home
 sitemap:
   priority: 1
