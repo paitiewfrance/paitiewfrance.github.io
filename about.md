@@ -1,11 +1,11 @@
 ---
 layout: default
 title: About PaiTiewFrance 
-keywords:  about paitiewfrance trip to france travel to france farangset provence burgundy averyron bourgogne 
-meta: about paitiewfrance trip to france travel to france farangset provence burgundy averyron bourgogne 
+keywords: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
+meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 sitemap:
   priority: 0.7
-  changefreq: 'monthly'
+  changefreq: 'weekly'
 ---
 ## About PaiTiewFrance 
 

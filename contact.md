@@ -2,8 +2,8 @@
 layout: default
 title: Contact PaiTiewFrance
 contact: true
-keywords:  contact paitiewfrance france travel to france contact paitiewfrance trip to france trip to burgundy trip to provence trip to aveyron email paitiewfrance
-meta: contact paitiewfrance france travel to france contact paitiewfrance trip to france trip to burgundy trip to provence trip to aveyron email paitiewfrance
+keywords:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
+meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
