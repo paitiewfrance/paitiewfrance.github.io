@@ -106,7 +106,7 @@ Dinner and night in Nice.
 ### Day 9:  Eze village - Nice
 After breakfast,  head on to Eze , a perched hill village classified one of the most beautifull village in France.  We will start browsing the village by entering the small narrow paved streets of the historic center. From here, admire the amazing view over the coastline mixed with the azur blue sky. Wander the old stone houses,  the locals boutiques and art galleries.  Take time and photograph this picturesque town as we move toward to the top of the cliff to admire another dizzling panoramic view over the Riviera. 
 
-After lunch, head on to Nice and stroll along  it's famous Promenade des Anglais along the sea where you can admire luxurious hotels Bell Epoque style like the Negresco and the Westminser. We will wander the beautifull Place Massena and admire the elegant arcaded buildings.  Next, stroll inside the Cour Saleya, a busy market place located in the heart of the city. Enjoy it's tall old buidings faded pastels colors, the vibrant activity of this picturesque quater.
+After lunch, head on to Nice and stroll along  it's famous Promenade des Anglais along the sea where you can admire luxurious hotels Bell Epoque style like the Negresco and the Westminser. We will wander the beautifull Place Massena and admire the elegant arcaded buildings. Next, browse the old town of Nice, with its maze of narrow alleyway and discover Cour Saleya, a busy flower market located in the old city, enjoy it's tall old buidings faded pastels colors and the vibrant activity of this picturesque quater.
 
 We will have our last dinner in Cour Saleya.
 Dinner and night in Nice.
