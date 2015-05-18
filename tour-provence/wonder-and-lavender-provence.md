@@ -19,186 +19,123 @@ intro:  A unique and exclusive Grand tour of provence for enjoying lavender bloo
   the Lavender fields in Sault, Valensole. Discover with us the most beautiful hilltop village in Luberon, the cities of Grasse and Manosque, for their  perfumes factories, Roman and Gothic UNESCO sites of Arles, Avignon and Pont du Gard. And much more. Welcome in Provence.
 ---
 
-### Day 1: Nice - Nimes
+### Day1:  นีซ Nice, นีมส์ Nimes 
 
-From Nice Airport, head on to train station to take train TVG to Avignon.
-Our chauffeur will wait us there and transfert us to Nimes. Our journey will begin early morning the next day. 
-Dinner and check-in at hotel in Nimes.
+จากสนามบินนีซเราจะขึ้นรถไฟหัวกระสุนที่เร็วที่สุดในโลก TGV มุ่งหน้าสู่อาวิญญง Avignon ซึ่งคนขับรถของเราจะรอทุกท่านอยู่ที่ปลาย ทางแล้ว หลังจากนั้นพาทุกท่านเช็คอินเข้าที่พักที่ Nimes ทานอาหารค่ำและพักผ่อนตามอัธยาศัย
 
-### Day 2: Nimes - Pont du Gard - Arles 
+### Day 2: นีมส์ Nimes, ปองต์ ดู การ์ Pont du Gard, อาร์ลส Arles
 
-After breakfast, we start our Provence tour for a Roman site discovery at Nimes. Visit the Arena also know as Nimes Amphitheater, dated from the first century, famous for host gladiators fights during Roman period. Amazinlgy preserved , the Arena could hold up to 24.000 spectators. 
+เช้า    หลังอาหารเช้า เราจะพาทุกท่านไปค้นพบอดีตอาณาจักรโรมันราวพันกว่าปีนีมส์ Nimes ซึ่งถูกเรียกว่ากรุงโรมแห่งฝรั่งเศส นีมส์เคยเป็นอาณานิคมของโรมันในช่วงก่อน คริสตศักราชเรียกขนานนามกันว่าเป็น“อาณานิคมของ เนมอซุส Nemausus”  Colony of Nemausus เราจะไปชมโคลอสเซียมที่สร้างขึ้นในปลายศตวรรษที่1เป็นสนามที่ถูกรักษาได้อย่างสมบูรณ์แบบที่สุดมานับศตวรรษ ในอดีต เป็นลานประลองระหว่างนักสู้โรมันด้วยกันและกับสัตว์ที่ดุร้าย หลังจากอาณาจักรโรมันล่มสลายจากสนามกีฬาก็ถูกเปลี่ยนให้เป็นป้อมปรา การทางการทหารและที่หลบภัย จากนั้นก็กลายมาเป็นสนามสู้วัวในปัจจุบันและยังเป็นสถานที่จัดงานแสดงคอนเสิร์ตกลางแจ้งซึ่งจุผู้ชมได้ ถึง 24,000 คน ต่อจากนั้นเราจะไปชม เมซง คาเร maison carrée วัดโบราณทรง4 เหลี่ยมหนึ่งในวัดโรมันโบราณที่ยังรักษาสภาพได้ สมบูรณ์แบบที่สุดในบรรดาสิ่งก่อสร้างทั้งหมดในสมัย จักรวรรดิ โรมัน และเราเดิน
 
-Move on to the downtown to La Maison Carree ( the square house ), a 26 meter long Roman building . It is the only antique temple fully preserved in the world and was the economic  and administrative heart of the ancient city.
+ต่อเพื่อไปชมความงามแบบพาโนรามาของเมืองนีมส์ที่หอ คอยโบราณ แม็คเนอ La tour Magne ซึ่งมีความสูง 36 เมตร ซึ่งหอคอยนี้ในสมัยโรมันใช้ เป็นหอสังเกตการณ์ ในช่วงสงคราม
 
-We will continue on the panoramic view to the city offer at Magne Tower  ( La tour Magne ), a 36 meter tall building. Part of the ancient of the city, it was also used in Roman period as a lookout point.
+เที่ยง  ช่วงบ่ายเราจะไปชมมรดกโลกสะพานประวัติศาสตร์ ปองดูการ์ Pont du Gard ซึ่งมีอายุสองพันปี สะพานนี้ในสมัยโรมันใช้เป็น ที่ขนส่งน้ำข้ามมาจากแม่น้ำ การ์ดอง Gardon River เข้าสู่เมืองนีมส์ สะพานนี้มีความสูง 49 เมตร และยาว 274 เมตร หลังจากนั้น เราจะเดินทางเข้าสู่เมือง อาลล์ส Arles
 
-Lunch in Nimes
+ค่ำ อาหารค่ำที่เมืองอารลล์ และเช็คอินเข้าที่พัก 
 
-Continue our day  to the famous site of Pont de Gard, a 2000 year-old Roman aqueduct crossing the Gardon river. Supplying water for Nimes in antique times, it  is  49 meters high above the river at low water and 274 meters long. The Pont du Gard is a UNESCO World Heritage Site.
+### Day 3:  โลอซเซียมแห่งอาร์ล  Les Arènes d'Arles, เทือกเขาอัลไพน์  Alpilles Chain, หมู่บ้าน เลโบ ออง โพรวองซ์ Les-Beaux-en-Provence
 
-Dinner and night in Arles. 
+เช้า    หลังอาหารเช้า เราจะพาทุกท่านเลาะริมฝั่งแม่น้ำโรน Rhône เพื่อชมนครโรมัน โบราณและอนุสรณ์สถานตั้งแต่ศตวรรษที่1 เราจะไปชมอีกหนึ่งมรดกโลกนั่นก็คือ โคลอซ เซียมแห่งอาร์ล อัฒจันทร์สมัยโรมันที่ใหญ่ที่สุดในฝรั่งเศสที่สามารถจุผู้ชมได้ถึง 25,000 คน ลานนี้เคยใช้เป็นลานประลองของนักสู้โรมัน Gladiator และยังเคยใช้เป็นที่แข่งรถ ม้าศึกในสมัยโรมัน ถัดมาคือโรงละครโรมันโบราณ แกลโล Gallo-Roman สร้างในสมัยที่ 10-20 ก่อนคริสตศักราชและโรงละครนี้ยังใช้ต่อมาในสมัยยุคกลางอีกด้วย เราจะไปต่อกัน แซ็งต์ โรฟีมส์ St. Trophime ซึ่งเคยเป็นวิหารเก่าและผลงานชิ้นเอกของสถาปัตยกรรมโรมาเนซสร้างขึ้นระหว่างศตวรรษที่11-12 ชมลวดลายของวันพิพากษา ตรงประตูทางเข้าของวิหารและความงามของทางเดินภายในโบสถ์ซึ่งเป็นตัวอย่างแห่งสถาปัตยกรรมโรมันที่วิจิตรบรรจงได้ดีที่สุด
 
-### Day 3: Arles -  The Alpilles chain - Les-Baux-en-Provence.
+เที่ยง  ช่วงบ่ายเราจะมุ่งหน้าสู่เทือกเขาแอลพินน์ Alpilles Chain ระหว่างทางรายล้อมไปด้วยแหล่งปลูกต้นมะกอกซึ่งเขตนี้ปลูกต้นมะ กอกมาตั้งแต่สมัยยุคกรีกโบราณ เราจะแวะชมกังหันลมและชมการกลั่นน้ำมันมะกอกด้วยวิธีดั้งเดิมแบบชาวกรีกโบราณ หลังจากนั้นเราจะ เดินทางต่อตามเส้นทางเทือกเขาหินปูนที่มียอดแห้งแล้งรายล้อมไปด้วยไร่องุ่นและต้นมะกอกเพื่อไปยังหมู่บ้านบนยอดเขา เลโบ เดอ โพร วองซ์ Les Baux-de-Provence ที่มีชื่อเสียงเรื่องความสวยงามติดอันดับหนึ่งในหมู่บ้านที่สวยที่สุดในฝรั่งเศสซึ่งตั้งอยู่ใจกลางของเทือกเขา แอลพินน์ Alpilles ชื่นชมหมู่บ้านสมัยยุคกลางและถนนที่ปูด้วยหินตลอดทางเราจะเดินขึ้นไปสู่จุดสูงสุดของหมู่บ้านเพื่อชมปราสาทแห่ง เลโบ เดอ โพร วองซ์ ป้อมปราสาทสร้างขึ้นที่ในสมัยศตวรรษที่10ในยุคที่มี ความปั่นป่วนทางการทหาร 
 
-After breakfast, On the Rhone River bank, stand the ancient city of Arles.  You will explore the ancients roman monuments date from the first century BC . The Amphitheatre, list as  World Heritage site  (UNESCO) is the  biggest Roman monument in France. It could host over 25,000 persons and was used for gladiators flights and chariot racing in antique times. 
+ค่ำ เราจะเดินทางไปเมืองอาวิญญง Avignonเพื่อรับประทานอาหารค่ำและเข้าที่พัก
 
-Next door, the  Gallo-Roman theater. Built also, in 10-20BC, place of shows in Roman times and nowadays, he served as career in the Middle Ages.
+### Day 4: อาวิญญง Avignon, ป้อมปราการ วิลเลอเนอฟ Villeneuve­-les-­Avignons
 
-Next, the St. Trophime cloister, former cathedral built between the 12th century and the 15th century. Wander the Roman sculand  some of the world’s finest examples of Romanesque sculpture. 
+เช้า    หลังอาหารมุ่งหน้าสู่ตัวเมืองอาวิญญงอาณาจักรแห่งพระสันตะปาปาซึ่งถูกจัด อันดับให้เป็นมรดกโลก เราจะเริ่มที่ Palais des Papes ปาเล เด แป๊ปส์ วังของสมเด็จ พระสันตะปาปา เป็นสถาปัตยกรรมวิหารโกธีคยุคกลางที่ใหญ่ที่สุดในโลกและมีความสำคัญมากที่สุด ในยุโรป พื้นที่ใช้สอยถึง 15000 ตารางเมตร เทียบเท่ามหาวิหารโกธีค 4หลัง palais des papes เป็นทั้งป้อมปราการและพระราชวังสร้าง ขึ้น ในศตวรรษที่ 14 โดยพระสันตะ ปาปาสองพระองค์ เราจะเดินชมวิหารโดยรอบและเดินเลาะกำแพงเก่า ของเมืองซึ่งมีความยาวถึง 4.3 กิโลเมตร สร้างขึ้นในศตวรรษที่14เพื่อเป็นป้อมปราการป้องกันการบุกรุกของทหารรับจ้างและกองโจร
 
-Move on the The baths of Constantine,  the Roman Bath of the emperor Constantin. Built in the 4th century, they were once part of the palace.  
+เที่ยง  หลังอาหารเที่ยงเราเดินชมอีกหนึ่งมรดกโลก สะพานอาวิญญง Pont d’Avignon หรือ เรียกอีกชื่อคือสะพานเบเนเซส์ Pont Saint-Bénézet ตั้งอยู่เหนือ แม่น้ำโรน Rhône River สร้างขึ้นในศตวรรษที่12 และทั่วโลกรู้จักกันในเพลง “In the bridge of d’avignon” สะพานบางส่วนถูกทำลายเนื่อง จากน้ำท่วม
 
-That conclude our visit of Arles. 
+ค่ำ ในช่วงบ่ายเราจะข้ามแม่น้ำโรน Rhône และเยี่ยมชมป้อมปราการในยุค กลางที่งดงามตั้งอยู่ด้านบนของภูเขาอองเดียอองค์ Mont Andeon ป้อมเซนต์อังเดร มีมุมมองที่งดงามของเมืองอาวิญญง, หมู่บ้านลูเบรองค์ Luberon, เขาวองตูร์ Mont Ventoux และ เทือกเขา อัลพีนส์ Alpilles ด้านหลังของป้อมเราจะ ได้ชมชาร์โทรส ดู วาล เดอ เบเนดิซียง Chartreuse du Val de Benediction เป็นโบสถ์ที่สร้างขึ้น ในปี1352 ประกอบด้วยโบสถ์3หลัง กุฏิพระสงฆ์40 หลัง และสวนที่สวยงามซึ่งเป็นอารามคาทูเซียน Carthusian ที่ใหญ่ที่สุดในฝรั่งเศสภาย ในโบสถ์มีหลุมฝังศพของสมเด็จพระสันตะปาปาผู้บริสุทธิ์ที่4 หลังจากนั้นเราจะทานอาหารค่ำและกลับที่พักที่อาวิญญง
 
-Head on to the Alpilles chain, where olive trees are cultivated since the time of Antique Greece. We will visit a windwill and learn the old process of making olive oil . 
 
-Continue to Les Baux-en-Provence, one of the most beautifull hilltop village in Luberon and Provence. Surrounded by olive tree groves and vineyards, explore the picturesque town, famous for its squares and clobblestone streets. At the top of the village, the Château des Baux de Provence is the star attraction. 
+### Day 5:  โอฮองจ์ Orange, เซกูเร่ Séguret, เวซง ลา โรเมน Vaison-la-Romaine
 
-We will drive to Avignon for our first night in the city.
+เช้า    หลังอาหารเช้ามุ่งหน้าสู่เมือง โอฮองจ์ เมืองโรมันที่เก็บรักษาโรงละครสมัยโรมันได้สมบูรณ์แบบที่สุด ตื่นตาตื่นใจไปกับวิวแบบ พาโนรามิคของอนุสาวรีย์ ชัย Arc de Triomph และเราจะไปชมโรงละครโรมันแห่งโอฮองจ์หนึ่งในโบราณ สถานที่หลงเหลือที่ดีที่สุดของ จักรวรรดิโรมันและได้รับการกำหนดให้เป็นมรดกโลกยูเนส โกเป็นโรงละครที่เก็บรักษาดีที่สุดจากทั้งหมดของยุโรป ภายในโรงละครยังคงรัก ษาผนังเวทีที่สวยงามแปลกตาที่บูรณไว้อย่างดีและไม่เหมือนใครในโลกตะวันตกเป็นศูนย์กลางสำหรับการแสดงในสมัยโรมันและยังคงดึง ดูดผู้ชมจำนวนมากเพื่อชมงานดนตรีในปัจจุบัน หลังจากนั้นเดินทางเข้าไร่องุ่นและต้นมะกอกเพื่อเข้าสู่เมือง เซกูเร่ Séguret ชมความสวย งามของหมู่บ้านโพรวองซ์ขนานแท้ที่ถูกยกย่องให้เป็นหนึ่งในหมู่บ้านที่สวยที่สุดในฝรั่งเศส หมู่บ้านอยู่ด้านล่างของเนินเขาเราจะเดินไปตาม ถนนแคบๆที่มีเสน่ห์ บ้านประ ดับด้วยดอกกุหลาบที่เลื้อยอยู่บนกำแพงหมู่บ้าน ช่างภาพเตรียมกล้องให้พร้อมเพราะด้านบนของหมู่บ้านเป็น ถนนสายเล็กๆที่จะนำเราไปสู่ซากปรักหักพังของปราสาทเพื่อ ชมทัศนียภาพที่สวยงามของไร่องุ่นสุดลูกหูลูกตา
 
-Dinner and night at Avignon.
+เที่ยง  หลังอาหารเที่ยง เราจะมุ่งหน้าสู่ เวซง ลา โรเมน Vaison-la-Romaine อีกหนึ่งหมู่บ้านโพรวองซ์ดั้งเดิมที่ยังคงมีสิ่งก่อสร้างสมัย โรมันอยู่มากมาย เราจะข้ามสะพานเก่าแก่สมัยโรมันเพื่อจะได้ค้นพบความเก่าแก่ของหมู่บ้านยุคกลางอย่างเต็มเปี่ยม 
 
-### Day 4: Avignon - Villeneuve-les-Avignons
+ค่ำ เราจะรับประทานอาหารค่ำและพักในตัวเมืองเวซง ลา โรเมน, Vaison-la-Romaine
 
-After breakfast, Head on to Avignon, City of the Popes from 1309 to 1376, the historic heart of Avignon is today a UNESCO World Heritage Site.
 
-We start the visit of Pope Palace, the most important medieval Gothic building in Europe.  The edifices is as big as 4 Gothic Cathedrals. 
-Around the town, we will take you to for a walk around the city to admire the old wall of avignon. With 4.3 kiloneters long, it was started in 1335 and mainly served as rempards againts mercenaries and roving bands.
+### Day 6:  มองท์วงทูร์Mont Ventoux ( June to beginning July ) ? ซอล์ท Sault(July to mid?August) รูซียงค์ Roussillon (June to the beginning of July) ? อารามเซนองค์ The Senanque Abbey ? กอร์ด Gordes ? คูซเทเล่ Coustellet
 
-After lunch, enjoy a ride above the Rhone river on the Pont d'Avignon ( Pont Saint Bénezet) , built in XII century and worlwide know for his song "In the bridge of Avignon, dance round, dance round".  The bridge was many times destroyed by the floods of Rhone River, it is today part of the Unesco World Heritage Site.
+เช้า    หลังอาหารเช้าเราจะขับรถไปตามถนนที่งดงามผ่านทุ่งลาเวนเดอร์ ซอลท์ Sault ซึ่งเป็นเมืองหลวงแห่งลาเวนเดอร์เราจะเพลิด เพลินไปกับมุมมองที่งดงามของทุ่งลาเวนเดอร์ หลังจากนั้นเราจะไปเดินเล่นในถนนเในตัวเมือง เราจะใช้เวลาให้เต็มที่ภายในหมู่บ้านหลัง จากนั้นเราจะไปปราสาทของศักดินาชั้นผู้ใหญ่และแวะที่ร้านบูติกในท้องถิ่นเพื่อช้อปปิ้งเที่ยวชมของที่ระลึกที่ทำจาก ลาเวนเดอร์ หลังจากนั้น มุ่ง หน้าสู่หนึ่งในหมู่บ้านที่มีชื่อเสียงที่สุดในโปรวองซ์ กอร์ด Gordes ซึ่งเป็นหนึ่งในหมู่บ้านเชิงเขาที่สวยที่สุดในลูเบรงค์ Luberon ที่มีชื่อเสียง เรื่องการก่อสร้างด้วยหินล้วนๆโดยไม่ใช้ปูนยึดเลย ระหว่างทางเราจะหยุดเพื่อให้ทุกท่านได้ถ่ายภาพที่เซนองจ์ Senanque วัดอนุสาวรีย์ ซิสเตอร์เรียนที่งดงสร้างขึ้นในศตวรรษที่10 ล้อมรอบ ด้วยทุ่งดอกลาเวนเดอร์
 
-In the afternoon, we will cross the Rhone and visit the fascining medieval fortress. Sit on top of Mont Andeon,  the fort Saint-Andre offers a  spectacular  view over Avignon, the Luberon, the Mont Ventoux, and the Alpilles mountains. Behind the fort, the Chartreuse du Val de Benediction,  a chapel built in 1352. Composed of 3 cloisters, 40 monk cells and a spendid garden, it is the largest Carthusian Monastery in France. The chapel hold Pope Innocent IV's tomb.  
- 
-Dinner and second night at Avignon.
+เที่ยง  หลังอาหารเราจะเดินทางต่อไปที่ คูสเทเล่ Coustellet พิพิธภัณฑ์ ลาเวนเดอร์ดูแลโดยครอบครัว แลงเซเล Lincele, ช่างกลั่นและ เกษตกรผู้เพาะปลูกลาเวนเดอร์กว่า 5 ชั่วอายุคน เราจะได้เรียนรู้ประวัติศาสตร์ของการกลั่น และ การใช้งานของลาเวนเดอร์ในน้ำหอมและ ยารักษาโรค ในพิพิธภัณฑ์ยังจัด แสดงของเครื่องกลั่นทองแดงโบราณ และ เราจะได้ชมวิดีโอสารคดีสั้นเกี่ยวกับการเก็บเกี่ยวและการกลั่น ซึ่งฉายภายในพิพิธภัณฑ์
 
-### Day 5:  Orange - Seguret - Vaison-La-Romaine  
+ค่ำ เราจะทานอาหารค่ำและพักผ่อนที่ ลีเซิล ซูรค์ ลา ซอร์ค L’Isle­sur­Sorgue เมืองที่ได้ชื่อเล่นว่าเป็นเวนิสน้อยแห่งโพรวองซ์ ศุนย์กลางการค้าและงานมหกรรมของโบราณที่ใหญ่ที่สุดในยุโรป มีร้านค้า และแหล่งรวมตลาดนัดทุกวันอาทิตย์
 
- After breakfast, Head on to Orange, a Roman city who houses the best preseved antique theatre in the world.
- Take a panoramic look of its  Roman Arch of Triumph, list as Unesco World Heritage Site.
 
-Drive to vineyard, olive trees,  lead us to the  authentic and charming Provencale village of Seguret, classified as one of the most beautifull village in France.
-Build at the bottom of the hill, we will wander the enchanting narrow streets, the houses decorates with climbing roses .  A photo opportunity is on top of the village as a  small street will lead us to the ruins of the castle to admire a beautifull panaroma of vineyard out of sigh.
+### Day 7: ฟงเทนน์ ซูร์ค วอร์คลูซ Fontaine­sur­Vaucluse  ­  หมู่บ้านหินโบรี่ The Bories village, รูซียงค์ Roussillon 
+(June to the beginning of July), โคโลราโดแห่งโพรวองซ์ Provencal Colorado, ซิสเตอร์รองค์ Sisteron
 
- Lunch at Seguret
+ช้า หลังอาหารเช้า เราจะมุ่งหน้าไปที่ ฟงเทนน์ ซูร์ค วอร์คลูซ Fontaine Sur Vaucluse เมืองต้นน้ำของแม่น้ำซอร์ค Sorgue เราจะไป ชมโบารณสถานของหมู่บ้าน โบรี่ Bories ซึ่งได้ถูกอนุรักษ์เป็นมรดกโลกทางประวัติศาสตร์ ท่านจะได้ชมกระท่อมหินของหมู่บ้านพิพิธภัณฑ์ ที่เก็บรักษาไว้อย่างดีและรวมทั้งเครื่องใช้โบราณ เราจะเดินทางผ่านถนนที่งดงามเรียงรายไปด้วยไร่องุ่นสวนมะกอก เราจะแวะอีกหนึ่งหมู่ บ้านที่สวยงามมากที่สุดในลูเบรองค์ Luberon เมืองรูซียงค์ Roussillon ถูกจัดให้เป็นหนึ่งในหมู่บ้านเขาที่สวยงามมากที่สุดในประเทศ ฝรั่งเศสมีชื่อเสียงในเรื่องของภูมิทัศน์ที่มีสีสดใส ไม่ซ้ำกันทั้งสีเหลืองสีแดง เราจะเดินชมตรอกซอกซอยที่สวยงาม เยี่ยมชมโบสถ์คริสตจักร โปรวองซ์ดั้งเดิมและหอระฆัง จากนั้นเราจะเดินต่อไปยังเบลเวอเดียร์ Belvédère เพือไปชมทัศนียภาพอันงดงามชนบทโดยรอบ
 
-After lunch, we will head on to Vaison-la-Romaine, a Provençal village with endless numbers of Roman remains. You will discover the charming medieval old town, accessible by the Roman Bridge.
+เที่ยง  หลังอาหารเราจะไปชมโคโลราโดแห่งโพรวองซ์แนวหินที่เกิดจากการ ทำเหมืองในช่วงศตวรรษที่18 ในช่วงศตวรรษที่ 20, เป็นแนว หินสีแดง และ แนวหินสีเหลือง เมื่อเทคนิคการทำเหมืองได้รับการปรับปรุงให้ทันสมัยขึ้นส่งผลให้การ ทำเหมืองแร่สีเหลืองในและรอบๆรูซียง ต้องค่อยๆปิดตัวลง ดินจากในหมืองก็ใช้ก่อ สร้างหมู่บ้านในปี 1980 การท่องเที่ยวได้เปลี่ยนอุตสาหกรรมเหมืองดินให้มาเป็นอีกหนึ่งแหล่ง ท่องเที่ยวในฝรั่งเศส
 
-Dinner and night at Vaison-La-Romaine.
+ค่ำ เราจะมุ่งหน้าไปยังSisteron ในตอนเย็นเราจะเข้าร่วมเล นุย เดอ ลา ซิทาเดล “les Nuits de la Citadelle" ในตัวเมืองซิซเตอรองค์ ชมดนตรี การเต้นระบำและการแสดงที่โรงละครในช่วงเดือนกรกฎาคมและสิงหาคมของทุกปี ในโรงละครกลางแจ้งในป้อมปราการ
 
-### Day 6:  Mont Ventoux ( June to beginning July ) - Sault (July to mid-August)  Roussillon (June to the beginning of July) - The Senanque Abbey - Gordes - Coustellet
 
-After breakfast, we will take drive along picturesque road through lavender fields to Sault, lavender capital.  Enjoy the  spectacular view over the lavender fields,
-stroll in its narrow streets.. We will have pleintly of time for stroll inside the village, visit the remains of the huge feudal castle and stop at local boutiques for some Lavender souvenirs.
 
-Head on to some of the most famous villages in Provence: Gordes, one of the most beautifull vperched village in Luberon famous for its construction with dry stones. Along the way, we will make a photo-stop at Senanque Abbey, a gorgeous cistercian monument from the XII century surrounded by bloomed Lavender field.
+### Day 8 :  ซิซเตอร์รองค์ Sisteron,เล เมส์ Les Mees,พระอารามหลวงกานาโกบี Ganagobie Monastery, วาเลยซอล Valensole
 
-Proceed to Coustellet to the Lavender Museum, host by the Lincele family, distiller and cultivators of Lavender for over 5 generations. 
-You will learn the history of distillation and the use of Lavender in perfums and medecines. The museum has also a nice collection of antique copper stills and a short video documentary about reaping and distillation will be projected  on big screen inside the museum.
+เช้า    หลังอาหารเช้า เราจะตะลุยเมืองซิซเตอร์รองค์ที่ได้สมญานามว่า “ไข่มุกแห่ง แคว้นโพรวองซ์ตอนบน” Perle de Haute Provence เมือง Sisteron ตั้งอยู่บนเส้นทางนโปเลียน อดีตปกครองโดยเคานต์แห่งโปรวองซ์บนป้อมปราการอันใหญ่โตบนยอดสูงสุดของภูเขาเคยเป็น ฐานที่มั่นเดิมของเมือง สร้างขึ้นใน ศตวรรษที่ 11 และ บูรณใหม่ในศตวรรษที่ 13, 16 ตั้งอยู่บนทำเลยุทธศาสตร์ระหว่างเทือกเขาแอลป์และ ทะเลเมดิเตอร์เรเนียน ปัจจุบันถูกอนุรักษ์ให้เป็นอนุสรณสถานทางประวัติศาสตร์ ของ sisteron 
 
-Dinner and night at L'Isle-sur-Sorgue.
+เราจะเริ่มต้นจากที่พักของเราเข้าสู่ตรอกอันโดรน Androne ที่สามารถเดินทะลุไปยังอีกด้านหนึ่งได้โดยไม่ต้องเดินอ้อมไปมา ตรอกที่เราจะ เดินผ่านมีประตูตลอดเส้นทางซึ่งเป็นประตูของทั้งร้านค้าและบ้านเรือน ท่านสามารถหยุดแวะเพื่อซื้อของที่ระลึกได้ เราจะเดินขึ้นไปถึงยอด สุดเพื่อชมป้อมปราการซึ่งเป็นผลงานชิ้นเอกของเมืองซิสเตอร์รองค์ เราจะให้ท่านได้เดินถ่ายรูปและชื่นชมความใหญ่โตของป้อม จากนั้นเรา จะเดินเข้าไปข้างในชมหอคอยของป้อมปราการด้านใต้และเดินบันไดเก่า ด้านบนสุดท่านจะได้เห็นมุมมองที่งดงามกว่า 150 กิโลเมตรรอบ โปรวองซ์, เมืองเก่าและแม่น้ำดูรองค์ Durance เปิดโอกาศให้ท่านได้ถ่ายรูปและชื่นชมบรรยากาศของเมืองอย่างจุใจ
 
-### Day 7: Fontaine-sur-Vaucluse -   The Bories village - Roussillon (June to the beginning of July) - Provencal Colorado - Sisteron
+เที่ยง  หลังอาหารเที่ยงเราจะเดินทางต่อไปยังเลเมยย์ Les Mee เมืองที่มีการปลูกต้น มะกอกมากที่สุดในโพรวองซ์ ชมความสวยงามของ หมู่บ้านและตื่นตาตื่นใจกับลานหินที่มีชื่อว่า Les Penitents des Mees เล เปนิตองค์ เลเม ซึ่งแปลว่าเงาสำนึกผิดของนักบุญ เนื่องจากมี เรื่องเล่ากันว่านักบุญได้ตกหลุมรักหญิงสาวแสนสวยที่ขุนนางศักดินาพามาช่วงสงครามครูเสตเลยสาปตัวเองให้กลายเป็นแนวหินสำนึกผิด ที่มีความสูงกว่า 100 เมตร หลังจากนั้นเราจะเดินทางกันต่อไปยังพระอารามหลวง กานาโกบี Ganagobie Monastery ซึ่งจากพระอาราม สามารถมองเห็นหุบเขาดูรองค์ Durance จากพื้นที่ราบสูงด้านบนได้ชัด พระอารามหลวงกานาโกบีสร้างขึ้นในศตวรรษที่10 และมีชื่อเสียง ในเรื่องของกระเบื้องโมเสสของยุคกลาง 
 
-After breakfast,  drive to Fontainer-sur-vaucluse,  source of the Sorgue river. We will  take a walk to the ruins of the 
-After breakfast, drive to The village of Bories , classified as historical monument,  will give you a priceless  account on the traditionnal way of life of Provence in from far-off times to present days. Discover the dry stone hut of the village-museum, nicely preserved and well as the antique ustensil.  
+ค่ำ เราจะมุ่งหน้าเข้าสู่เมืองวาเลนซอลลื Valensole เพื่อรับประทานอาหาร ค่ำและเข้าที่พัก
 
-Through picturesque roads lined with olive groves vineyards and fields, reach some of the two most beautifull villages in Luberon:  Roussillon , classified as one of he most beautifull village in France, famous for its unique yellow and red ochre color landscape. Explore the beautifull alleys and corners, the traditionnal provencal church and bell tower. Walk right up to the belvedere at the top of the village for panoramic views across the surrounding countryside.
 
-Proceed to the stunning shapes and colors of the Provencale Colorado, take a longt walk in strange scenary with yellow and red rocks formations both create by man and nature. The fascinating landscape and colors of provence blending with thoses rocks  will offer you some fine photo opportunities.
+### Day 9:  วาเลนซอลล์ Valensole, ดูแฟงค์ Dauphin, มาน็อส์ค Manosque, ล๊อคซิทาน L’Occitane de Provence
 
-We will head on to Sisteron, and start the visit the very next morning.
-In evening, we will attempt to  "Les Nuits da le Cidatelle" in the town, musical, danse and theatre events during July and August each year, in the open-air theatre of the citadel.
+เช้า    หลังอาหารเช้ามุ่งหน้าสู่วาเลนซอล Valensoleพื้นที่ปลูกลาเวนเดอร์ที่สำคัญที่สุดของฝรั่งเศสเราจะเดินทางไปตามถนนที่งดงาม เรียงรายไปด้วยสีทองของข้าวสาลีและทุ่งลาเวนเดอร์ เราจะหยุดให้ท่านลงไปชื่นชมและถ่ายรูปคู่กับทุ่งสีเหลืองทองตัดสีม่วงของลาเวนเดอร์ ให้ชุ่มฉ่ำใจ หลังจากนั้นเราจะไปเรียนรู้เพิ่มเติมกับชาวบ้านเกี่ยวกับวิธีการการเพาะปลูกลาเวนเดอร์ในหมู่บ้าน Valensole การกลั่น และ การทำน้ำมันหอมระเหยลาเวนเดอร์, น้ำมันมะกอก และน้ำผึ้งลาเวนเดอร์ และช้อปปิ้งผลิตภัณฑ์ลาเวนเดอร์จากผู้ผลิตโดยตรง 
 
-Dinner and night at Sisteron.
+เที่ยง  หลังอาหารเที่ยงที่ Valensole เราจะใช้เวลาในการเยี่ยมชมถนน ที่เต็มไปด้วยดอกไม้ในหมู่บ้านบนยอดเขาที่มีเสน่ห์ของ ดอแฟงค์ Dauphin ซึ่งแปลว่าโลมา เราจะใช้เวลาช่วงบ่ายเดินถ่ายรูปชมหมู่บ้าน เลือกซื้อของที่ ระลึกบนถนนหินที่งดงาม ยังมีทัศนียภาพที่สวยงาม ของทางเดินที่ครอบคลุม ระเบียงของปราสาทโบราณเหนือลูเบรองค์ Luberon และ ฟอร์คาลล์เกียร์ Forcalquier
 
-### Day 8 : Sisteron -   Les Mees  - Ganagobie Monastery - Valensole 
+ค่ำ จากนั้นเราจะมุ่งหน้าไปยังมานอซจ์ Manosques แหล่งกำเนิดเครื่องสำอางค์ ระดับไฮเอนด์ที่มีชื่อเสียงนั่นก็คือ บริษัทล็อกซิทาน L’Occitane เราจะเยี่ยมชมโรงงานกันแบบเต็มอิ่ม ชมพิพิธภัณฑ์กว่าจะมาเป็นล็อกซิทานในปัจจุบัน ส่วนผสมและวัตุดิบที่มาจากธรรมชาติ ล้วนๆเครื่องกลั่นในสมัยก่อนไปถึงการผลิตที่ยังคงวิธีดั้งเดิม หลังจากนั้นให้ท่านได้ช้อปปิ้งผลิตภัณฑ์กันตามอัธยาศัย รับประทานอาหารค่ำ และเข้าที่พัก
 
-After breakfast, discover of  Sisteron "Perle de Haute Provence," a medieval city, famous it's perched citadelle.  Stroll the picturesque old city, its fortification towers used as ramparts against ebbing gangs of France.
+### Day 10:       โบสถ์แซงต์ แมรี่ มาเดลีน Saint­Maximin­la­Sainte­Baume basilica, พระอารามโธโรเน่ Thoronet  Abbey ­ Bagerme
 
-Feel the medieval atomosphere of the city, we start at the lower part of the town to get lost inside Andrones, small walkway that allow locals from upper town to reach Durance river and lower town faster, wander inside the old medieval backstreets full of locals souvenirs and perfums boutiques.
+เช้า    หลังอาหารเช้าเราจะขับรถไปทางทิศใต้ไปยังแซงต์แม๊กซีมอง Saint Maximin เราจะไปเยี่ยมชมมหาวิหารที่สวยงาม แซ็งต์ แมรี มาเดลีน Sainte Marie Magdalene ก่อตั้งขึ้นในศตวรรษที่13 ห้องใต้ดินมีพระธาตุศักดิ์สิทธิ์ของ มารีแมเดลีนยาว 73เมตร, กว้าง 43เมตร เป็นอนุสาวรีย์สไตล์กอธิคที่ใหญ่ ที่สุดในโปรวองซ์ เราจะมุ่งหน้าไปทางด้านตะวันออกของ Var เยี่ยมชมสำนักสงฆ์ โทโรเน่ Thoronet Abbey สร้างขึ้นต้น ศตวรรษที่13 อารามซิสเตอร์เรียนทั้งหมด เป็นสถาปัตยกรรมศิลปะโรมันโปรวองซ์ที่ดีที่สุด เราจะเดินชมโถงทางเดินที่ผ่านหอ นอนของพระและโบสถ์เก่าแก่ 
 
-Head to the citadel, the masterpiece of sisteron, which offer us a lot of photo opportunities. Wander inside it's donjon, the southside fortifications. Stroll inside old the underground staircase.
-The citadel offers also a breathtaking view over 150 kilometers around Provence, the old city and the Durance river.
+เที่ยง  หลังอาหารเที่ยงเราจะเดินทางสู่เมืองบาร์แจม Bargème หมู่บ้านที่อยู่สูงที่สุดในเขตวาร์ Var ถูกจัดดับให้เป็นหนึ่งในหมู่บ้านที่ สวยที่สุดในฝรั่งเศส เราจะเดินย้อนอดีตเข้าไปเยี่ยมชมหมู่บ้านยุคกลางและเยี่ยมชมบางส่วนของปราสาทที่ เสียหายจากสงครามศาสนา ชื่นชมบรรยากาศหมู่บ้านที่ยังคงหลงเหลือป้อม ปราการอยู่เป็นจำนวนมาก ให้ท่านได้ถ่ายรูปและชมวิวที่น่าทึ่งบนยอดเขาของหมู่บ้านที่มี ชื่อเสียงในเรื่องของหมู่บ้านเนินเขาที่สวยที่สุด
 
-Proceed to Les Mees, the city having the largest numbers of Olive trees in Provence. The village houses also one of the most spectacular geological features in the region call Les Penitents des Mees which consist of a serried rank of columnar rocks more than 100 meters high.
+ค่ำ เราจะมุ่งหน้าเข้าสู่เมืองแคสเทอเลน Castellane เพื่อรับประทาน อาหารค่ำและเข้าที่พัก
 
-We head on to Notre-Dame de Ganagobie Benedictine monastery. Overlooking the Durance valley from its high wooded plateau, the abbey was founded in the 10th century. It is famous for its medieval mosaics.
 
-We will next drive to Valensole and we will visit it's plateau the very next morning.
+### Day 11: แกรนด์แคนยอนแห่งแวร์ดง  Les Gorge du Verdon, หมู่บ้าน มูสเตีย แซ็งต์ มารีย์Moustiers Sainte­Marie, โบดูอองง์ Bauduen
 
-Dinner and night at Valensole.
+เช้า    หลังอาหารเช้าเราจะขึ้นรถจากตัวเมืองแคสเทอเลนเพื่อไปชมแกรนด์แคนยอน แห่งแวร์ดง Les Gorge du Verdon หน้าผาลึกของ Gorges du Verdon ถูกจัดให้เป็น แกรนด์แคนยอนที่สวยที่สุดในยุโรป หน้าผามีความยาว25 กิโลเมตรและลึก700 เมตร เราจะแวะจอดตาม รายทางเพื่อให้ท่านได้ลงไปถ่ายรูปตามจุดชมวิว
 
-### Day 9: Valensole - Dauphin - L'Occitane de Provence 
+เที่ยง  เราจะเดินทางสู่หมู่บ้านมูซเตียร์ Moustier Sainte Marieเพื่อรับประทานอา หารเที่ยง หมู่บ้านมูสเตียร์อยู่ปากทางหุบเขาทางเข้า Gorges du Verdon Canyon หมู่บ้าน Moustier ได้ชื่อว่าเป็นอีกหมู่บ้านหนึ่งที่สวยที่สุดในฝรั่งเศสตั้งอยู่ในลักษณะครึ่งวงกลมของหน้าผา หินที่ระดับความสูง 630 เมตร สองยอด ที่ปลายของหน้าผาต่อ กันด้วยโซ่เหล็กยาว 227 เมตร เพื่อแขวนดวงดาวหนึ่งในอัศวิน Crusade เป็นสัญลักษณ์ของหมู่บ้านนี้ที่ใครมาก็ต้องแหงนคอขึ้นไปชมให้เห็นกับตา เราจะเดินขึ้นไปชมวิหาร นอร์ทเธอดาม เดอ บูวัวร์ Notre-Dame de Beauvoir ตั้งอยู่ทางลาดบนเขาสูง 830 เมตรเหนือหมู่บ้านสถานที่แห่งนี้ถูกปกครองมา ตั้งแต่ 470 ปีหลังคริสตกาลโดยวัดเล็กๆน้อยๆ ที่ทุ่มเทให้กับพระแม่มารีย์ในศตวรรษที่ 12 พระสงฆ์ในท้องถิ่นได้สร้างโบสถ์ซึ่งจนกระทั่งศตวรรษที่ 15 ถูกเรียกว่า นอร์ท เธอดาม ดองเทร โรชส์ Notre Dame d'Entreroches ในศตวรรษที่16 โบสถ์ได้ต่อเติมออกมาและสามารถมองเห็นบันไดหิน 262 ขั้นไปสู่โบสถ์ หลังจากลงจาก วิหารเราจะปล่อยอิสระให้ทุกท่านได้เดินชมเมือง Moustier ตั้งแต่ทางเข้าเราจะเห็นว่าสอง ข้างทางเรียงรายไป ด้วยร้านขายเซรามิก céramique และ พอร์ชเลน porcelaine ซึ่งเรียกว่า "faïence" (เฟ – ยองซ์) หัตถกรรมกระเบื้องดินเผาของหมู่ บ้าน Moustier เรียกได้ว่าดัง เป็นอันดับต้นๆของฝรั่งเศส
 
-After breakfast, head to Valensole, the France's most important Lavender growing area. Drive along picturesque roads lined with golden wheat and lavender prairie. We will stop along the way for some photo souvenir in this impresssive golden/purple landscape. Next, we will find out more about the cultivation in Valensole village - the distillation and making of  Lavender essential oil , Olive oils and Lavender Honey with locals farmers/producers.
-
-After a lunch at Valensole, we will take a short visit in the narrow and flowery streets of the charming hilltop village of Dauphin(dolphin). Take free time for some photos souvenir around  pretty stone houses, picturesque cobbled streets, covered passageways. <br> <br>The terrace of the ancient castle offers also a trully splendid panorama over the Luberon and Forcalquier.
-
-We will then head to Manosques, home of the famous high end cosmetic company L'Occitane, a visit full of fragrances that will delight your sense. Take a guided tour of the factory and witness how perfumes are elaborated using naturals ingredients. You will have the opportunity to purchase products at preferential rates at the shop.  
-
-Dinner and night in Manosque.
-
-### Day 10:  Saint-Maximin-la-Sainte-Baume basilica - The Thoronet Abbey - Bargeme
-
-After breakfast, we will drive to south to Saint-Maximin to visit the magnificent basilic Sainte-Marie-Madeleine. 
-Founded in the 13th century, it's crypt contains the holy relics of Marie-Madeleine. With 73 meters long and 43 meters wide, it is the largest Gothic style monument in Provence. 
-
-We will head to east side of  Var visiting  the Thoronet Abbey, founded in 1146. The entire Cisterian monastery features an architecture of the finest Provencal Romanesque art, creating a feeling of unity and serenity.  It's a peacefull and medidative place.
-
-Head on the village of Bargeme, the hightest village in Var, classified as one of the most beautifull village in France. Turn back in time to the medieval age, and visit  the castle partly devasted by religion war, experience the intact feudal atmosphere as the village retains many vestiges and fortifacations.
-This unique site, perched at 1097 meters high, give a impressive panorama over the valley. 
-
-After this free time discovery, we will head on to Castellane.
-
-Dinner and night at Castellane.
-
-### Day 11: Verdon Regional Park - Moustiers Sainte-Marie - Bauduen
-
-After breakfast, head on to Verdon Regional Park, one of the most beautifull natural site of Provence. 
-Our drive will start from the city Castellane,  taking on the sublime corniche road, and overtlooking the dramastic scenary of Europe's biggest canyon.
-Admire the amazing views along the way, the canyon offer dizzling views downwards as the valley can plunge 700 meters! 
-
-Spectacular landscape, breath-taking views and amazing turquoise colors, this day you offers you some fine photos opportunites. And a memorable day
-inside the  Verdon Regional Park.
-
-We will head on to  the postcard-worthy Provencal  perched village Moustiers-Sainte-Marie, classified as one of the most beautifull village in France and famous all over the world for its faience earthenware.
-Take free time to go to lunch. Then, stroll through the medieval streets and archways and visit the ceramics shops that have made the town's reputation.
-
-Dinner and night around Moustiers-Sainte-Marie - or Bauduen - or Sainte-Croix-du-Verdon - or Les Salles-sur-Verdon.
+ค่ำ เราจะเดินทางไปยังโบดูอองค์ Bauduen เป็นหมู่บ้านเกาะเล็กๆที่อยู่บน ด้านข้างของเนินของทะเลสาบ แซ็งต์ ครัวซ์ Lac de Sainte Croix จากหมู่บ้าน สามารถมองเห็นทะเลสาบทางตอนใต้ของ Bauduen ตั้งอยู่ในสถานที่ที่งดงามบนคาบสมุทรที่มีหินยื่นออกมา ในน้ำทะเลสีฟ้าใสของ Lac de Sainte Croix เราจะรับประทานอาหารค่ำและเข้าที่พักที่นี่
 
 ### Day 12: Entrevaux 
 
-After breakfast, we leave the verdon to an hour drive to Entrevaux, a picturesque medieval village surrounded by lower Provencal mountains. Start your exploration by entering the village using it's drawbridge accross the Var river,  stroll to the winding back streets, explore the old houses along the way get a feel of this picturesque village. 
-For lunch, we will enjoy the famous Secca d'Entrevaux, a local delicacy made of  dry seasonned meat of beef.
+เช้า    เราจะขึ้นรถเดินทางต่อไปยังอองเทโว Entrevaux หมู่บ้านบนตีนเขา บนหุบเขาไกล้แม่น้ำ Var หมู่บ้านนี้ในอดีตเป็นเมืองหน้าด่าน ทางตะวันออกเฉียงใต้เป็นประตูเข้าสู่ฝรั่งเศสเป็นความภูมิใจของประวัติศาสตร์ที่ระส่ำระสายมานานถึงสองพันปี อองเทรโวเป็นหมู่บ้านยุค กลางปราการแรกที่ดูแลทางเข้าหมูบ้าน ชมสะพานยกเก่าแก่ที่คร่อมกลางแม่น้ำเชี่ยวกราก ทางเดินคดเคี้ยวผ่านทางเข้าป้อม 20 ทางไปจน ถึงป้อมปราการ ใหญ่ที่ปกป้อง หมู่บ้านที่รายล้อมไปด้วยทิวเขา 
 
-After lunch, we will  continue our visit by  taking on the zig zag walkway through 20 fortified doorways to the Citadalle ,fortified by Vauban in the  XVII century. Visit the Citadelle interior's rooms , donjon, courtyards and cacth up some photo with  the scenary offers over the village and the surrounding area.
+ที่ยง   สำหรับมื้อกลางวันเราจะเพลิดเพลินไปกับอาหารท้องถิ่นที่มีชื่อเสียงของเนื้อวัวเซคคา Secca d'Entrevaux, อาหารอันโอชะใน ท้องถิ่นที่ทำจากเนื้อแห้ง หลังจากนั้นเราจะใช้เวลาครึ่งบ่ายเดินย้อนเวลาให้เต็มอิ่มเดินข้ามสะพานเพื่อเข้าไปในตัวหมู่บ้านหน้าด่านที่แคบ และผ่านอาคารบ้านเรือนสองฝั่งที่ให้ความรู้สึกเหมือนกำลังเดินอยู่ ในยุคกลาง เราจะเดินตามทางเดินหินขึ้นไปประมาณ 20 นาทีเพื่อชม ป้อมปราการหลักที่อยู่บนสุดของหมู่บ้านระหว่างทางเราจะแวะถ่ายรูปวิวทิวทัศน์กันได้ตามใจเพราะวิวสวยมากถึงแม้จะไม่เหนื่อยก็อยาก จะหยุดเพื่อถ่ายรูป ภายในป้อมก็สวยไม่แพ้กันทั้งห้องใต้ดินและลานกว้าง หลังจากนั้นเราจะเดินไปชม โบสถ์ลาซอม ซิยงค์ Cathédrale Notre-Dame-de-l'Assomption ที่มีซุ้มประตูสไตล์กอธิค คริสตจักรที่รุ่งเรืองตั้งแต่สมัยศตวรรษที่15 – 17 
 
-We will then move to Grasse, the capital of perfum at about 1 hour and half along a sumptuous road.
+ค่ำ เราจะมุ่งหน้าเข้าสู่ตัวเมืองกราส Grass เมืองหลวงแห่งโลกน้ำหอม เราจะรับประทานอาหารค่ำและเข้าที่พักกันที่นี่
 
-Dinner and night at Grasse.
+### Day 13:  กอร์ดง Gourdon, เมืองกราส Grasse, โรงงานน้ำหอมการ์ลีมาร์ด Parfumerie Galimard
 
-### Day 13:  Gourdon - Grasse - Parfumerie Galimard 
-On this morning, an early wake up call for admiring a beautifull sunrize at Gourdon, a superb hiltop medieval village, classified as one of the most beautifull village in France. The spendid scenary and the view offers over the Mediterranean sea and low Alps the village will blow your mind.  Along with plenty  photo opportunities, stroll through the narrow streets,  visit the small boutiques with perfume product,  the local producer of spice bread (Pain d'epices ) , a glass blower who creates intricate masterpieces ..
+เช้า    เช้านี้เราจะตื่นเช้าเพื่อไปชมพระอาทิตย์ขึ้นที่ยอดเขากอร์ดง Gourdon ท่ามกลาง หมู่บ้านยุคกลางที่ได้ชื่อว่าเป็นหนึ่งในหมุ่บ้าน สวยที่สุดในประเทศฝรั่งเศส เราจะได้ชมพระอาทิตย์ขึ้นที่จรดขอบฟ้าของทะเลเมดิเตอร์เรเนียนและแสงที่สองเข้าหมู่บ้านที่อยู่ทางใต้ของ เทือกเขาแอล์ปที่จะทำให้ทุกท่านตาสว่างไปกับความสวยงามดังภาพวาดเลยทีเดียว เราจะให้ทุก ท่านใช้ช่วงเวลานี้ถ่ายภาพและเดินทาง กลับลงมาที่เมืองกราส
 
-Lunch at Gourdon. 
+เที่ยง  หลังอาหารเที่ยงเราจะพาทุกท่านเข้าสู่เมืองกราส Grass ศูนย์กลางแห่ง โลกน้ำหอม เราจะพาทุกท่านชมโรงงานผลิตน้ำหอม ใครที่ชื่นชอบน้ำหอมคงจะตื่นเต้นที่มีทริปช้อปปิ้งน้ำหอมแต่ทราบไหมว่าน้ำหอมต้นตำรับชื่อดังในฝรั่งเศสกลับไม่ใช่แบรนด์เนมที่เห็นในห้าง สรรพสินค้าแต่เป็นเมืองกราส Grasse เมืองอุตสาหกรรมน้ำหอมที่เจริญรุ่งเรืองมาตั้งแต่ปลายศตวรรษที่18  เมืองกราสเป็นศูนย์กลางของ อุตสาหกรรมน้ำหอมฝรั่งเศสและเป็นที่รู้จักกันว่าเป็นเมืองหลวงแห่งน้ำหอมโลก (La Capitale Mondiale de Parfums) ผลิตน้ำหอม กว่าสองในสามของกลิ่นหอมตามธรรมชาติของฝรั่งเศส อุตสาหกรรมนี้ทำรายได้มากกว่า 600 ล้านยูโรต่อปี เราจะเข้าไปชมสาธิตการทำน้ำ หอมโดยการนำดอกไม้กว่าร้อยชนิดมาสกัดและได้ฝึกจมูกเพื่อแยกกลิ่นดอกไม้รวมทั้งชมพิพิธภัณฑ์น้ำหอมที่เริ่มมาตั้งแต่ศตวรรษที่17 จากนั้นให้ทุกท่านได้เลือกซื้อน้ำหอมหรือโลชั่น น้ำหอมเป็นของฝากกันได้อย่างจุใจ
 
-After lunch, we will drive back to Grasse, capital of perfum in the  world and discover the famous ancient  perfum factory: Galimard.
-Wander the impressive collection of antique copper production equipment,  learn with a hostess the origins of perfums, the methods of extractions of flowers, plants and scented woods. 
+ค่ำ ใครที่อยากมีน้ำหอมกลิ่นเฉพาะตัวของตัวเองก็สามารถเข้าร่วม workshop สำหรับผู้ที่สนใจ ในการสร้างกลิ่นหอมของตัวเอง (ใช้เวลา 2 ชั่วโมง ราคา 45 € / คน) หลังจากนั้นเราจะรับ ประทานอาหารค่ำและเข้าที่พักในเมืองกราส Grasse
 
-Head on the organ perfum called "The Nose",  the place where perfums are composed.
-The visit will end to the factory shop where products can be purchase at preferencial rates.
 
-Option:
-A workshop can be organized for those interesting in creating their own fragrance ( 2 hours workshop 45 euros/ person ).
+### Day 14: เมืองกราส Grasse, สนามบิน
+เช้า    หลังอาหารเช้าเราจะเดินเก็บตกช้อปปิ้งภายในเมืองเก่าเพื่อซื้อของที่ระลึกหรือน้ำหอมเพิ่มเติม รถของเราจะส่งเราที่สนามบิน Nice Cote d'Azur ได้เวลาบอกลาว่า "โอ เรอ วัว" "Au revoir"  <br><br> 
 
-That will conclude our day to Grasse.
-
-Dinner and night at Grasse.
-
-### Day 14: Grasse  - Airport
-After a breakfast and a walk inside the old city, couple souvenirs of Grasse, our driver will  drop us back to Nice-Cote d'Azur Airport. Time to say "Au revoir" to Provence. <br><br>
-End of the tour.
+เพื่อกลับสู่ประเทศไทย
 
 
 
