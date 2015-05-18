@@ -1,6 +1,6 @@
 ---
 layout: tour
-title: Great Alpes Route
+title: Great Alps Route
 keywords:  
 meta: 
 duration: 8 Days / 9 Nights
