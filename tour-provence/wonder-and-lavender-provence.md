@@ -1,6 +1,6 @@
 ---
 layout: tour
-title: Wonder and Lavender in Provence
+title: Tour in Provence - Wonder and Lavender in Provence - Paitiewfrance
 duration: 15 Days / 14 Nights
 keywords:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
