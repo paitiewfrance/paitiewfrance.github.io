@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ติดต่อไปเที่ยวฟรานส์ 
+title: ติดต่อไปเที่ยวฟรานซ์
 contact: true
 keywords:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
@@ -9,7 +9,7 @@ sitemap:
   changefreq: 'weekly'
 ---
 
-## ติดต่อไปเที่ยวฟรานส์ 
+## ติดต่อไปเที่ยวฟรานซ์
 
 ![Pookie](/img/pookie.jpg "Pookie")
 
@@ -57,7 +57,7 @@ sitemap:
 
 - Facebook:  <span>[Pai Tiew France](https://www.facebook.com/paitiewfrance)</span>
 - Line: PaiTiewFrance
-- Mobile: <span>[ (+66) 81 825 7310]( tel: 081 825 73 10)</span> 
+- Mobile: <span>[ (+66) 81 825 7310]( tel:  081 825 73 10)</span> 
 - Email: <span>[paitiewfrance@gmail.com](mailto:paitiewfrance@gmaill.com?subject=Information request)</span>
 <br>
 <br>
