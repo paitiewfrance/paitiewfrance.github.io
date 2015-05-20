@@ -1,7 +1,7 @@
 ---
 layout: tour
 title: Wonder of Eastern Provence
-duration: 11 Days / 9 Nights
+duration: 10 Days /8 Nights
 sitemap:
     priority: 0.7
     changefreq: 'monthly'

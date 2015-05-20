@@ -10,15 +10,15 @@ keywords:  เที่ยวฝรั่งเศส,ทริปส่วน�
 class: home
 sitemap:
   priority: 1
-  changefreq: 'monthly'
+  changefreq: 'daily'
 ---
 
 
 
 
 <div class="intro-picture">
-    <img src="img/fontenay.jpg" alt="" id="one">
-    <img src="img/chateauneuf.jpg" alt="" id="two">
+    <img src="img/fontenay.jpg" alt="ไปเที่ยวฟรานส์ " id="one">
+    <img src="img/chateauneuf.jpg" alt="ไปเที่ยวฟรานส์ " id="two">
 </div>
 
 
