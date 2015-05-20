@@ -72,7 +72,7 @@ The city as a worlwide reputation for it's gastronomy. As such, we suggest the A
 Dinner and night in Beaune.
 
 
-### Day 4: Chateauneuf-en-Auxois - Pouilly-en-Auxois -  Chateau de Thil (Unseen) - Posanges (Unseen)
+### Day 4:  Chateauneuf-en-Auxois - Chateau de Thil (Unseen) - 
 
 After breakfast, we will head on to Chateauneuf-en-Auxois, classified as one of the most beautifull village in France. Built between the 13th and 15th century, the medieval village and its castle are located on a strategic position between Autun and Dijon. Discover the medieval fortified castle,  it's giant round tower and its imposing wall.  A stroll inside the medieval streets, the bars have terraces will give you a nice panoramic view over burgundy's old house and country. 
 
