@@ -1,7 +1,7 @@
 ---
 layout: tour
 title: Tour in Provence - Wonder and Lavender in Provence - Paitiewfrance
-duration: 15 Days / 14 Nights
+duration: 14 Days / 13 Nights
 keywords:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 img: lavande.jpg
@@ -12,14 +12,14 @@ prices:
   - Contact us  for 2-4 persons
 
 sitemap:
-    priority: 0.7
-    changefreq: 'monthly'
+    priority: 1
+    changefreq: 'weekly'
 
 intro:  A unique and exclusive Grand tour of provence for enjoying lavender blooming in Provence. Stroll with us for a memorable tour into 
   the Lavender fields in Sault, Valensole. Discover with us the most beautiful hilltop village in Luberon, the cities of Grasse and Manosque, for their  perfumes factories, Roman and Gothic UNESCO sites of Arles, Avignon and Pont du Gard. And much more. Welcome in Provence.
 ---
 
-### Day1:  นีซ Nice, นีมส์ Nimes 
+### Day 1:  นีซ Nice, นีมส์ Nimes 
 
 จากสนามบินนีซเราจะขึ้นรถไฟหัวกระสุนที่เร็วที่สุดในโลก TGV มุ่งหน้าสู่อาวิญญง Avignon ซึ่งคนขับรถของเราจะรอทุกท่านอยู่ที่ปลาย ทางแล้ว หลังจากนั้นพาทุกท่านเช็คอินเข้าที่พักที่ Nimes ทานอาหารค่ำและพักผ่อนตามอัธยาศัย
 
