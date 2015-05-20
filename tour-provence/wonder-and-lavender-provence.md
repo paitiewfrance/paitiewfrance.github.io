@@ -1,6 +1,6 @@
 ---
 layout: tour
-title: Tour in Provence - Wonder and Lavender in Provence - Paitiewfrance
+title: ไปเที่ยวฟรานส์ รายการทัวร์โพรวองซ์ วันเดอร์ ลาเวนเดอร์ โพรวองซ์ 14วัน 13คืน
 duration: 14 Days / 13 Nights
 keywords:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้

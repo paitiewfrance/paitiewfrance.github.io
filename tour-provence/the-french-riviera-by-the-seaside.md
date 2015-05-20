@@ -1,6 +1,6 @@
 ---
 layout: tour
-title: The French Riviera by the seaside
+title: ไปเที่ยวฟรานส์ รายการทัวร์โพรวองซ์  ชายฝั่ง เฟรนช์ ริเวียร่า
 duration: 13 Days / 12 Nights
 keywords:   เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 meta:   เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
@@ -14,7 +14,7 @@ prices:
 ---
 
 
-# Tour in design process !!
+# โปรแกรมทัวร์กำลังอยู่ระหว่างการดำเนินการ
 
 ### Day 1: Paris - Marseille
 From Charles-de-Gaulle Airport, head on to train station to take train TVG to Marseille.
