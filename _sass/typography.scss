@@ -33,6 +33,10 @@ ul li  {
     font-weight: normal;
     line-height: 1.7em;
     margin-bottom: 1.5em;
+
+    &.post {
+         font-size: 1em !important;
+    }
 }
 
 .price ul li {
