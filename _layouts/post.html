@@ -7,6 +7,8 @@ layout: default
 	<span class="by-line">{{ page.date | date_to_string }}</span>
 	<div class="content">
 		{{ content }}
+
+                {% include comments.html %}
                 <div class="share-post center">
 	     <h5>share this  article</h5>
 
