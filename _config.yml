@@ -43,8 +43,8 @@ navigation:
     title:  ทัวร์เทือกเขาแอลป์
     url: /tour-alps
     sub-menu:
-       - label: Road of the great Alps
-         title: Road of the great Alps
+       - label: เส้นทางเทือกเขาแอลป์
+         title: เส้นทางเทือกเขาแอลป์
          url: /tour-alps/road-of-great-alps
   - label:  ทัวร์แคว้นมีดี-ปีเรเน (Midi-Pyrénées)
     title: ทัวร์แคว้นมีดี-ปีเรเน (Midi-Pyrénées)
