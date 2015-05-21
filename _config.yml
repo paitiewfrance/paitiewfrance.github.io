@@ -30,8 +30,8 @@ navigation:
     title:  ทัวร์แคว้นเบอร์กันดี
     url: /tour-burgundy
     sub-menu:
-       - label: Wonderfull Burgundy 
-         title:  Wonderfull Burgundy 
+       - label: วันเดอร์ฟูล เบอร์กันดี
+         title:  วันเดอร์ฟูล เบอร์กันดี
          url: /tour-burgundy/wonderfull-burgundy
        - label: Burgundy Eight days
          title:  Burgundy Eight days
