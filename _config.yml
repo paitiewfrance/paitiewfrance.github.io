@@ -17,14 +17,14 @@ navigation:
     title:  ทัวร์โพรวองซ์
     url: /tour-provence
     sub-menu:
-       - label: Wonder of Eastern Provence
-         title: Wonder of Eastern Provence
+       - label: วันเดอร์ โพรวองซ์ ตะวันออก
+         title: วันเดอร์ โพรวองซ์ ตะวันออก
          url: /tour-provence/wonder-eastern-provence
-       - label: Wonder and Lavender Provence
-         title: Wonder and Lavender Provence
+       - label: วันเดอร์ ลาเวนเดอร์ โพรวองซ์
+         title: วันเดอร์ ลาเวนเดอร์ โพรวองซ์
          url: /tour-provence/wonder-and-lavender-provence
-       - label: The French Riviera by the Seaside
-         title: The French Riviera by the Seaside
+       - label: ชายฝั่งเฟรนช์ ริเวียร่า
+         title: ชายฝั่งเฟรนช์ ริเวียร่า
          url: /tour-provence/the-french-riviera-by-the-seaside
   - label:  ทัวร์แคว้นเบอร์กันดี
     title:  ทัวร์แคว้นเบอร์กันดี
