@@ -14,7 +14,7 @@ title: ไปเที่ยวฟรานซ์บล็อกไปเที�
 	  	<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
 	  	<span class="by-line">{{ post.date | date_to_string }}</span>
 	  	<p class "inline">{{ post.content | strip_html | truncatewords:50 }}
-                                      <a href="{{ site.url}}{{post.url}}">อ่านต่อ</a>
+                                      <a href="{{ site.url}}{{post.url}}" title ="Read More">อ่านต่อ...</a>
 	  	</p>
 	  </li>
 
@@ -28,7 +28,9 @@ title: ไปเที่ยวฟรานซ์บล็อกไปเที�
                  <li class="post">
 	  	<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
 	  	<span class="by-line">{{ post.date | date_to_string }}</span>
-	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+	  	<p  class "inline">{{ post.content | strip_html | truncatewords:50 }}
+                                    <a href="{{ site.url}}{{post.url}}" title ="Read More">อ่านต่อ...</a>
+	  	</p>
 	  </li>
            {% endfor %}
            
