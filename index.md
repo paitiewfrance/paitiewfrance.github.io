@@ -13,7 +13,7 @@ sitemap:
 ---
 
 <div class="intro-picture">
-    <img src="img/fontenay.jpg" alt="ไปเที่ยวฟรานส์ " id="one">
+    <img src="img/entrevaux-town.jpg" alt="ไปเที่ยวฟรานส์ " id="one">
     <img src="img/entrevaux.jpg" alt="ไปเที่ยวฟรานส์ " id="two">
 </div>
 
