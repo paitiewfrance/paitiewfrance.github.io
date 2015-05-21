@@ -3,7 +3,6 @@ layout: post
 title: Bonjour บล็อกเที่ยวฝรั่งเศส
 meta: 
 ogType: article
-og
 ogTitle: Bonjour บล็อกเที่ยวฝรั่งเศส
 ---
 

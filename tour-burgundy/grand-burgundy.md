@@ -5,7 +5,6 @@ sitemap:
      priority: 0.7
      changefreq: 'monthly'    
 
-keywords:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 meta:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 duration: 10 Days / 8 Nights
 img: /burgundy/chambertain.jpg
