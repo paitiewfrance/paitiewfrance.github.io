@@ -30,12 +30,12 @@ navigation:
     title:  ทัวร์แคว้นเบอร์กันดี
     url: /tour-burgundy
     sub-menu:
-       - label: วันเดอร์ฟูล เบอร์กันดี
-         title:  วันเดอร์ฟูล เบอร์กันดี
-         url: /tour-burgundy/wonderfull-burgundy
-       - label: Burgundy Eight days
-         title:  Burgundy Eight days
-         url: /tour-burgundy/burgundy-eight-days
+       - label: วันเดอร์เบอร์กันดีตอนเหนือ
+         title:  วันเดอร์เบอร์กันดีตอนเหนือ
+         url: /tour-burgundy/wonder-northern-burgundy
+       - label: เส้นทางไวน์แห่งเบอร์กันดีและเบอร์กันดีตอนใต้
+         title:  เส้นทางไวน์แห่งเบอร์กันดีและเบอร์กันดีตอนใต้
+         url: /tour-burgundy/road-of-wine-and-southern-burgundy
   - label:  ทัวร์เทือกเขาแอลป์
     title:  ทัวร์เทือกเขาแอลป์
     url: /tour-alps
