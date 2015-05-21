@@ -1,9 +1,15 @@
 ---
 layout: post
 title:  Paitiewfrance online
+meta: 
+keywords: 
+ogType: article
+ogTitle: 
+ogUrl: 
+
 sitemap:
-    priority: 0.5
-    changefreq: 'monthly'
+    priority: 0.8
+    changefreq: 'weekly'
 keywords:  paitiewfrance site online travel to france farangset responsive site travel to provence travel to burgundy bourgogne french riviera
 meta: paitiewfrance site online travel to france farangset responsive site travel to provence travel to burgundy bourgogne french riviera
 ---
