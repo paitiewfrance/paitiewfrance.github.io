@@ -16,11 +16,6 @@ sitemap:
 
 ปุ๊กและเจฟจะตอบคำถามและความคิดเห็น คำแนะนำเกี่ยวกับทริปของท่านผ่านช่องทางด้านล่างภายใน24ชั่วโมง แค่กรอกแบบฟอร์มและข้อความด้านล่างหรือช่องทางอื่นตามที่อยู่ล่างสุดของเพจ เราก็พร้อมจะติดต่อกันแล้วค่ะ
 
-
-<h4>Our form</h4>
-<p>
-  All fields are required
-</p>
 <div class="form-container">
        <form method ="POST" action="http://formspree.io/paitiewfrance@gmail.com">
           <input type="text" name="_gotcha" style="display:none" />
