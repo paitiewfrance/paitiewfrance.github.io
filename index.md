@@ -13,9 +13,6 @@ sitemap:
   changefreq: 'daily'
 ---
 
-
-
-
 <div class="intro-picture">
     <img src="img/fontenay.jpg" alt="ไปเที่ยวฟรานส์ " id="one">
     <img src="img/chateauneuf.jpg" alt="ไปเที่ยวฟรานส์ " id="two">
