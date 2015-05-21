@@ -1,7 +1,6 @@
 ---
 layout: tour
 title: Great Alps Route
-keywords:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 meta:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 duration: 8 Days / 9 Nights
 img: alps/briancon.jpg

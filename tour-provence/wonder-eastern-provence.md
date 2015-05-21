@@ -7,7 +7,6 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     
-keywords: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 img: lavande.jpg
 intro: Join The Wonder Eastern Provence tour and discover with us some of the most beautifull hilltop village in south of France, the Verdon with it's amazing canyon
