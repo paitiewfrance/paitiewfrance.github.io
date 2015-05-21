@@ -10,11 +10,11 @@ url: "http://paitiewfrance.com"
 
 
 navigation:
-  - label: home
-    title: home
+  - label: ไปเที่ยวฟรานซ์
+    title: ไปเที่ยวฟรานซ์
     url: /
-  - label: Tour Provence 
-    title: Tour Provence
+  - label: ทัวร์โพรวองซ์ 
+    title:  ทัวร์โพรวองซ์
     url: /tour-provence
     sub-menu:
        - label: Wonder of Eastern Provence
@@ -26,8 +26,8 @@ navigation:
        - label: The French Riviera by the Seaside
          title: The French Riviera by the Seaside
          url: /tour-provence/the-french-riviera-by-the-seaside
-  - label: Tour Burgundy
-    title: Tour Burgundy
+  - label:  ทัวร์แคว้นเบอร์กันดี
+    title:  ทัวร์แคว้นเบอร์กันดี
     url: /tour-burgundy
     sub-menu:
        - label: Wonderfull Burgundy 
@@ -36,24 +36,24 @@ navigation:
        - label: Burgundy Eight days
          title:  Burgundy Eight days
          url: /tour-burgundy/burgundy-eight-days
-  - label: Tour Alps
-    title: Tour Alps
+  - label:  ทัวร์เทือกเขาแอลป์
+    title:  ทัวร์เทือกเขาแอลป์
     url: /tour-alps
     sub-menu:
        - label: Road of the great Alps
          title: Road of the great Alps
          url: /tour-alps/road-of-great-alps
-  - label: Tour Aveyron Tarn
-    title: Aveyron Tarn
+  - label:  ทัวร์แคว้นมีดี-ปีเรเน (Midi-Pyrénées)
+    title: ทัวร์แคว้นมีดี-ปีเรเน (Midi-Pyrénées)
     url: /tour-aveyron-tarn
-  - label: about us
-    title: about us
+  - label: เกี่ยวกับไปเที่ยวฟรานซ์
+    title: เกี่ยวกับไปเที่ยวฟรานซ์
     url: /about
-  - label: contact
-    title: contact
+  - label: ติดต่อไปเที่ยวฟรานซ์
+    title: ติดต่อไปเที่ยวฟรานซ์
     url: /contact
-  - label: blog
-    title: blog
+  - label: บล๊อกเที่ยวฝรั่งเศส
+    title: บล๊อกเที่ยวฝรั่งเศส
     url: /blog
 
 
