@@ -17,7 +17,7 @@
 
 /* Navigation */
 $nav:#282828;
-$nav-link: rgba(white, .35);
+$nav-link: white;
 nav {
   width: 14rem;
   position: fixed;
@@ -46,7 +46,7 @@ nav {
     font-family: $serif;
     line-height: 3em;
     @media (min-width: 940px) {
-      font-size: .875em;
+      font-size: .75em;
       line-height: 2.85em;
     }
 
@@ -54,7 +54,7 @@ nav {
         color: $nav-link;
     }
     &:hover {
-      color:white;
+      color:$nav-link;
        background:lighten($nav, 3);
     }
 
