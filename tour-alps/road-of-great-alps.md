@@ -11,7 +11,7 @@ img: alps/briancon.jpg
      - out of budget for 2-4 persons -->
 ---
 
-# Tour in design process !!
+# โปรแกรมทัวร์กำลังอยู่ระหว่างการดำเนินการ
 
 ### Day 1:  Annecy 
 After breakfast,  

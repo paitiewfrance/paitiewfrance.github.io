@@ -16,6 +16,7 @@ prices:
      - Contact us for 2-4 persons
 ---
 
+โปรแกรมทัวร์กำลังอยู่ระหว่างการดำเนินการ
 
 ### Day 1: Dijon
 Dijon, capital of the Duke of Burgundy. It  is one of France's most appealing cities. Filled with elegant medieval and Renaissance buildings, the lively centre is wonderful for strolling. You are sure to appreciate the wealth and elegance of the city’s architectural heritage. 
