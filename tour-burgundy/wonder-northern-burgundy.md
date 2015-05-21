@@ -1,6 +1,7 @@
 ---
 layout: tour
 title: Wonderfull Burgundy 
+tourName: 
 sitemap:
      priority: 0.7
      changefreq: 'monthly'    

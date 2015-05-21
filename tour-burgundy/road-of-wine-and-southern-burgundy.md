@@ -1,6 +1,7 @@
 ---
 layout: tour
 title: Burgundy in eight days
+tourName: 
 sitemap:
      priority: 0.7
      changefreq: 'monthly'    

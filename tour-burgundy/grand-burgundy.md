@@ -1,6 +1,7 @@
 ---
 layout: tour
 title: Tour in Burgundy around the cities Dijon Beaune Cote d'Or Auxerre Vezelay Yonne  
+tourName: 
 sitemap:
      priority: 0.7
      changefreq: 'monthly'    
