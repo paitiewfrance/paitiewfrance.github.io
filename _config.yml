@@ -36,6 +36,9 @@ navigation:
        - label: เส้นทางไวน์แห่งเบอร์กันดีและเบอร์กันดีตอนใต้
          title:  เส้นทางไวน์แห่งเบอร์กันดีและเบอร์กันดีตอนใต้
          url: /tour-burgundy/road-of-wine-and-southern-burgundy
+       - label: แกรนด์เบอร์กันดี 
+         title: แกรนด์เบอร์กันดี
+         url: /tour-burgundy/grand-burgundy
   - label:  ทัวร์เทือกเขาแอลป์
     title:  ทัวร์เทือกเขาแอลป์
     url: /tour-alps
