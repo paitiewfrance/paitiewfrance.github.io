@@ -1,7 +1,7 @@
 ---
 layout: default
 ogTitle:  ไปเที่ยวฟรานซ์บริการนำเที่ยว และ แพ็คเกจทัวร์ฝรั่งเศส แบบกันเอง หรือ ในสไตล์ส่วนตัว 
-ogType: page
+ogType: website
 ogSite: paitiewfrance.com
 ogUrl: http://www.paitiewfrance.com
 title: ไปเที่ยวฟรานซ์บริการนำเที่ยว และ แพ็คเกจทัวร์ฝรั่งเศส แบบกันเอง หรือ ในสไตล์ส่วนตัว 
