@@ -10,7 +10,9 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="apple-touch-fullscreen" content="yes" />
+
     <!-- Facebook opengraph stuff  -->
+    <meta property="fb:page_id" content="822564541126863">
     <meta property="og:site" content="{{ site.url }}" />
     <meta property="og:description" content="{{page.meta}}" />
     <meta property="og:title" content="{{ page.title }}" />
@@ -20,6 +22,15 @@
     <meta property="og:image" content="{{site.ogImage}}" /> {% if page.meta %}
     <meta name="description" content="{{ page.meta }}"> {% else %}
     <meta name="description" content="{{ site.meta }}"> {% endif %}
+   
+   <!-- -Twitter stuff -->
+   <meta property="twitter:account_id" content="3224023189">
+   <meta name="twitter:card" content="summary_large_image">
+   <meta name="twitter:site" content="@paitiewfrance">
+   <meta name="twitter:title" content="{{page.title}}">
+   <meta name="twitter:description" content="{{page.meta}}">
+   <meta name="twitter:image:src" content="https://moz.com/local/images/twitter_card_large.png">
+
     <!-- CSS & fonts -->
     <link rel="canonical" href="{{site.url}}" />
     <link rel="stylesheet" type="text/css" href="{{site.url}}/css/main.css">
