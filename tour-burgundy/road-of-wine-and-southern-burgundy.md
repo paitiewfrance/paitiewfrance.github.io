@@ -3,8 +3,8 @@ layout: tour
 title: Burgundy in eight days
 tourName: 
 sitemap:
-     priority: 0.7
-     changefreq: 'monthly'    
+     priority: 1
+     changefreq: 'weekly'    
 
 meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 duration: 8 Days / 7 Nights

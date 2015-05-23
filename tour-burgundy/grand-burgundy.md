@@ -3,6 +3,7 @@ layout: tour
 title: Tour in Burgundy around the cities Dijon Beaune Cote d'Or Auxerre Vezelay Yonne  
 meta: ทัวร์แคว้นเบอร์กันดี เที่ยวเมืองหลวงดิจอง เส้นทางแห่งไวน์และไร่องุ่นในตำนาน โรงพยาบาลโบราณสมัยยุคกลางแห่งเมืองโบน 
 หมู่บ้านยุคกลางที่สวยที่สุดในฝรั่งเศส มหัศจรรย์มรดกโลกยูเนสโกแห่งเมืองเวซเลย์Vezelayและอารามหลวงฟอนเทเน่Fontenay
+
 tourName: แกรนด์เบอร์กันดี
 sitemap:
      priority: 1
