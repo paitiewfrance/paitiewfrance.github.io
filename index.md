@@ -12,8 +12,8 @@ sitemap:
 ---
 
 <div class="intro-picture">
-    <img src="http://paitiewfrance.com/img/provence/entrevaux-town.jpg" alt="ไปเที่ยวฟรานส์ " id="one">
-    <img src="http://paitiewfrance.com/img/provence/entrevaux.jpg" alt="ไปเที่ยวฟรานส์ " id="two">
+    <img src="http://www.paitiewfrance.com/img/provence/entrevaux-town.jpg" alt="ไปเที่ยวฟรานส์ " id="one">
+    <img src="http://www.paitiewfrance.com/img/provence/entrevaux.jpg" alt="ไปเที่ยวฟรานส์ " id="two">
 </div>
 
 
