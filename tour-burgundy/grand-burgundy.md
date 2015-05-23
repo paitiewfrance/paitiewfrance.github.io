@@ -10,7 +10,7 @@ sitemap:
      changefreq: 'weekly'    
 
 meta:  เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
-duration: 10 Days / 8 Nights
+duration: 10 วัน / 8คืน
 img: /burgundy/chambertain.jpg
 intro: Disover the Burgundy in depth with us. From Dijon to Beaune, experience great wine throught the legendary Route des Grands Crus, admire the countless   medieval villages and endless vineyards. On the northern part, wander the UNESCO World Heritage Sites of Vezelay and the Fontenay abbey.  And much more with this 10 days tour.  Welcome to strongBurgundy. 
 prices: 

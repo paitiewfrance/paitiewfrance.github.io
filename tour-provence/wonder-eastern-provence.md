@@ -2,7 +2,7 @@
 layout: tour
 title: ไปเที่ยวฟรานซ์ รายการทัวร์โพรวองซ์ วันเดอร์ โพรวองซ์ ตะวันออก 10วัน 8คืน
 tourName:  รายการทัวร์โพรวองซ์ วันเดอร์ โพรวองซ์ ตะวันออก 
-duration: 10วัน 8คืน
+duration: 10วัน / 8คืน
 sitemap:
     priority: 0.7
     changefreq: 'monthly'

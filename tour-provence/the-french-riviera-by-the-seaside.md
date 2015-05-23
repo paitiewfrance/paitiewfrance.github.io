@@ -2,7 +2,7 @@
 layout: tour
 title: ไปเที่ยวฟรานซ์รายการทัวร์โพรวองซ์  ชายฝั่ง เฟรนช์ ริเวียร่า
 tourName: รายการทัวร์โพรวองซ์  ชายฝั่ง เฟรนช์ ริเวียร่า
-duration: 13 Days / 12 Nights
+duration: 13วัน / 12คืน
 meta:   เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 img: /provence/lavande.jpg
 class: lavender
