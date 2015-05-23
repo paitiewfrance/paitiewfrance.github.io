@@ -280,55 +280,30 @@ img {
 
 /* Footer */
 footer {
-  text-align: center;
-  width: 100%;
-  padding: 2.6667em ;
-  color: darken($main-color, 25);
+  background:#3DC2E7;
+  margin-top: 1.5em;
+  padding: 1.5em;
+  .container {
+        margin: 0 auto;
+        padding: 1.5em 0;
+  }
+ 
+  h2,{
+       font-weight: 300;
+       margin-bottom: .25em;
+       font-size: 1.25em;
+       color:white;
+       text-align: left !important;
+  }
 
   p {
       font-family: $sans;
-      font-size: .75em;
+      color:white !important;
+      font-weight: 300;
       margin-bottom: 0;
   }
 
-  ul {
-    margin-bottom: 1.5em;
-    li {
-         display: inline;
-         margin-right: 1em;
-         a {
-               color: #DEDEDE;
-               font-size: 1.25em;
-               font-weight: 300;
-               span {
-                     display: none;
-               }
-               &.pin:hover  {
-                    color:#BD081C;
-               }
-
-               &.linked:hover {
-                color:#0077B5;
-               }
-
-               &.fb:hover {
-                color: #3B5998;
-               }
-              
-              &.inst:hover {
-                color:#2A5B83;
-              }
-              
-               &.gplus:hover {
-                color: #DD4B39;
-               }
-
-               &.twit:hover {
-                color: #5EA9DD;
-               }
-         }
-    }
-  }
+ 
 }
 
 #tour-page  {
@@ -403,10 +378,10 @@ a.test {
 .center {
     text-align: center;
     a.print {
-        background:$header;
+        background:#9FAAAD;
         color: white;
+        font-weight: 300;
         transition: background .15s linear;
-        font-weight: normal;
         display: inline-block;
         padding: .5em .75em;
         border-radius:2px;
@@ -632,4 +607,63 @@ ul  li  {
 
   .primary-link {
       font-size: 1.15em;
+  }
+
+
+
+
+
+  /*======================================== FOOTER DESIGN ============================================*/
+
+$footer: #3DC2E7;
+
+footer {
+   background:$footer;
+  .container {
+     display: block;
+}
+}
+
+  .column {
+     width: 100%;
+  }
+
+   ul.social {
+    margin-top: 1.5em;
+    li {
+         display: inline-block;
+         margin-right: 1em;
+         a {
+               color: white;
+               font-size: 1.15em;
+               display: inline-block;
+               font-weight: 300;
+               span {
+                     display: none;
+               }
+         }
+    }
+  }
+
+  .ptb {
+       padding: .75em 0 ;
+       a {
+           color:white;
+       }
+  }
+
+@media (min-width: 940px) { 
+       footer .container {
+           display: table;
+
+           .column {
+               display: table-cell;
+               width: 50%;
+               padding-right: 5%;
+           }
+
+           // .right {
+           //    text-align: right;
+           // }
+       }
   }

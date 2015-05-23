@@ -7,10 +7,10 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     
-meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
+meta : เที่ยวหมู่บ้านยุคกลาง แซ็งต์ ปอล เดอ วองซ์ เที่ยวกราสเมืองหลวงแห่งน้ำหอมโลก ตามรอยนโปเลียนจากหมู่บ้านคาสเทลแลง อองเทรโว ช่องแคบแวร์ดงถึงหมู่บ้านมูสเตียร์ แซ็งต์มารีย์ เลาะชายฝั่งแซงต์โทรเปซ์ เมืองกรีโมต์ ชมเมืองเทศกาลหนังคานส์ เดินหมู่บ้านเอสซ์ และเมืองนีซ
+
 img: /provence/lavande.jpg
-intro: Join The Wonder Eastern Provence tour and discover with us some of the most beautifull hilltop village in south of France, the Verdon with it's amazing canyon
-          the Lavender field at Valensole..And much more.
+intro: Join The Wonder Eastern Provence tour and discover with us some of the most beautifull hilltop village in south of France, the Verdon with it's amazing canyon the Lavender field at Valensole..And much more.
 prices:
   - Ask us for  7-10 persons
   - Ask us for r 4-7 persons

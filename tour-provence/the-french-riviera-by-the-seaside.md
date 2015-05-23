@@ -10,9 +10,7 @@ prices:
   - Ask for  for 7-10 persons
   - Ask for  for 4-7 persons
   - Ask for  for 2-4 persons
-
 ---
-
 
 # โปรแกรมทัวร์กำลังอยู่ระหว่างการดำเนินการ
 
