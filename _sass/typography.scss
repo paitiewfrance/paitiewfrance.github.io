@@ -188,6 +188,7 @@ ul li  {
     }
 }
 
+/*========================================= SHARE POST BUTTON ==========================================*/
 .share-post {
     h5 {
         font-size: .75em;
@@ -200,19 +201,19 @@ ul li  {
         li {
             display: inline-block;
             margin: 0 16px 0 0;
-            width: 2.5em;
+            width: 3.25em;
             text-align: center;
-            height: 2.5em;
+            height: 3.25em;
             border-radius:50%;
-            background:$main-color;
+            background:#E4905F;
             &:last-child {
             	   margin: 0;
             }
 
             a {
-            	  line-height: 1.75em;
+            	  line-height: 2em;
             	  display: block;
-                  font-size: 1.5em;
+                  font-size: 1.75em;
             	  color: white
             }
         }
