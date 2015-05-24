@@ -15,8 +15,7 @@ sitemap:
     priority: 1
     changefreq: 'weekly'
 
-intro:  A unique and exclusive Grand tour of provence for enjoying lavender blooming in Provence. Stroll with us for a memorable tour into 
-  the Lavender fields in Sault, Valensole. Discover with us the most beautiful hilltop village in Luberon, the cities of Grasse and Manosque, for their  perfumes factories, Roman and Gothic UNESCO sites of Arles, Avignon and Pont du Gard. And much more. Welcome in Provence.
+intro: แกรนด์ทัวร์โพรวองซ์ที่พิเศษไม่เหมือนใคร ทุ่งดอกลาเวนเดอร์ที่ซอลท์และที่ราบสูงวาเลนซอลล์ หมู่บ้านยอดเขาที่สวยที่สุดในแคว้นลูเบรอง โรงงานน้ำหอมเมืองกราสและเมืองมานอสก์ อัศจรรย์มรดกโลกยูเนสโกโรมันโกธีคเมืองอาลส์และท่อส่งน้ำสมัยโรมันปองต์ ดู การ์ดอาวิญญง และอีกหลายที่น่าทึ่งในโพรวองซ์ที่รอทุกท่านไปค้นพบ
 ---
 
 ### Day 1:  นีซ Nice, นีมส์ Nimes 
