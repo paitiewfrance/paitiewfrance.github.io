@@ -1,11 +1,8 @@
 
-@import url(http://fonts.googleapis.com/css?family=Niconne);
-@import url(http://fonts.googleapis.com/css?family=Merriweather);
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,500,600,700,300,800);
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700);
 @import url(http://fonts.googleapis.com/css?family=Ovo);
 @import url(http://fonts.googleapis.com/css?family=Muli:300,400);
-@import url(http://fonts.googleapis.com/css?family=Pinyon+Script);
+@import url(http://fonts.googleapis.com/css?family=Handlee);
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -63,16 +60,9 @@ $text-color:  #26241F;
 
 $footer: lighten(black, 15);
 
-
-
-// $sans: 'Muli', sans-serif;
-$sans: 'Raleway', sans-serif;
 $sans: 'Roboto Slab', serif;
-
-$serif:  'Merriweather', serif; 
 $serif:  'Ovo', serif; 
-$serif-bis: 'Niconne', cursive;
-$serif-bis: 'Pinyon Script', cursive;
+$serif-bis: 'Handlee', cursive;
 
 
 html {

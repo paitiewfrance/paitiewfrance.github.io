@@ -16,7 +16,7 @@
 }
 
 /* Navigation */
-$nav:#131313;
+$nav:#95CCE0;
 $nav-link: white;
 nav {
   width: 14rem;
@@ -56,7 +56,7 @@ nav {
     }
     &:hover {
       color:$nav-link;
-       background:lighten($nav, 3);
+       background:darken($nav, 3);
     }
 
     &:focus,
@@ -103,6 +103,7 @@ nav.menu-open {
        font-size: .75em;
        transition: all 0.3s ease-in;
        color:white;
+       font-family: $serif-bis;
        text-transform: capitalize;
        left:-3.75em;
        position: absolute;
@@ -579,6 +580,9 @@ ul  li  {
 
        ul li a {
           color: rgba(white, .55);
+          &:hover {
+              color:white;
+          }
        }
   }
 
