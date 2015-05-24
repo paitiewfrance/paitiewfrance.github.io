@@ -29,7 +29,7 @@ p,
 ul li  {
     font-size:1em;
     font-family: $sans;
-    color: lighten($header, 30);
+    color: lighten($header, 50);
     font-weight: normal;
     line-height: 1.7em;
     margin-bottom: 1.5em;
@@ -61,7 +61,7 @@ h5,
 h6 {
     font-family: $sans;
     font-weight: 400;
-    color: $header;
+    color: lighten($header, 30);
     color: #3C3C3C;
 }
 
@@ -87,7 +87,6 @@ h3 {
     font-size: 1.25em;
     color: #3C3C3C;
     line-height: 1.3334em;
-    
     padding: 0.66667em 0;
 }
 

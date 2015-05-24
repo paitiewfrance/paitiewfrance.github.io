@@ -16,7 +16,7 @@
 }
 
 /* Navigation */
-$nav:#282828;
+$nav:#131313;
 $nav-link: white;
 nav {
   width: 14rem;
@@ -160,14 +160,16 @@ nav.menu-open {
        
 }
 
+/*=======================================================HEADER=====================================================================*/
+$header-bg:#197E9A;
+$header-bg:#95CCE0;
+
 #header {
-  background:$header;
-  // background:transparent url('image.png') left top no-repeat;
+  background:$header-bg;
   height: auto;
   padding: 14px 0;
   text-align: center;
   position: relative;
-  // box-shadow: -4px 0 6px 6px rgba(black, .15);
   a {
   	text-decoration: none;
   	color: $text-color;
@@ -244,7 +246,6 @@ img {
 
 
 .content {
-    // position: relative;
     &:after {
          width: 8em;
          display: block;
@@ -255,30 +256,7 @@ img {
     }
 }
 
-/* Paginator */
-.pagination {
-  text-align: center;
-  margin: 2.666668em;
-  span {
-    background-color: darken($background-color, 5%);
-    color: $text-color;
-  }
-  a:hover {
-    background-color: lighten($main-color, 5%);
-  }
-}
-.page-item {
-  background-color: $main-color;
-  color: $background-color;
-  padding: 4px 8px;
-  font-weight: 400;
-  padding: 0.5em 1em;
-  -webkit-border-radius: 4px;
-     -moz-border-radius: 4px;
-          border-radius: 4px;
-}
 
-/* Footer */
 footer {
   background:#3DC2E7;
   margin-top: 1.5em;
@@ -616,12 +594,28 @@ ul  li  {
   /*======================================== FOOTER DESIGN ============================================*/
 
 $footer: #3DC2E7;
+$footer: #30BDD7;
+
+$footer-color: #7AADBB;
 
 footer {
    background:$footer;
+   color:#7AADBB;
   .container {
-     display: block;
+     display: block;}
+
+  p, p a  {
+  color: white !important;}
+
+  p a {
+       text-decoration: underline;
+  }
+  
+  h2 {
+    font-weight: bold;
+    color:white !important;
 }
+
 }
 
   .column {
@@ -634,7 +628,7 @@ footer {
          display: inline-block;
          margin-right: 1em;
          a {
-               color: white;
+               color:white;
                font-size: 1.15em;
                display: inline-block;
                font-weight: 300;
@@ -662,8 +656,8 @@ footer {
                padding-right: 5%;
            }
 
-           // .right {
-           //    text-align: right;
-           // }
+           .right {
+              text-align: right !important;
+           }
        }
   }
