@@ -1,17 +1,17 @@
 ---
 layout: tour
 title: ทัวร์ฝรั่งเศสแกรนด์เบอร์กันดี ดิจอง โบน ชิมไวน์ในไร่องุ่น เที่ยวหมู่บ้านยุคกลาง ท่องมรดกโลกยูเนสโกเวซเลย์
-meta:  ทัวร์แคว้นเบอร์กันดี เที่ยวเมืองหลวงดิจอง เส้นทางแห่งไวน์และไร่องุ่นในตำนาน โรงพยาบาลโบราณสมัยยุคกลางแห่งเมืองโบน 
+meta: ทัวร์แคว้นเบอร์กันดี เที่ยวเมืองหลวงดิจอง เส้นทางแห่งไวน์และไร่องุ่นในตำนาน โรงพยาบาลโบราณสมัยยุคกลางแห่งเมืองโบน 
               หมู่บ้านยุคกลางที่สวยที่สุดในฝรั่งเศส มหัศจรรย์มรดกโลกยูเนสโกแห่งเมืองเวซเลย์Vezelayและอารามหลวงฟอนเทเน่Fontenay
-
 tourName: แกรนด์เบอร์กันดี
 sitemap:
      priority: 1
      changefreq: 'weekly'    
 
-duration: 10วัน / 8คืน
+meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
+duration: 12 Days / 11 Nights
 img: /burgundy/chambertain.jpg
-intro: Disover the Burgundy in depth with us. From Dijon to Beaune, experience great wine throught the legendary Route des Grands Crus, admire the countless   medieval villages and endless vineyards. On the northern part, wander the UNESCO World Heritage Sites of Vezelay and the Fontenay abbey.  And much more with this 10 days tour.  Welcome to <strong>Burgundy</strong>. 
+intro: Disover the Burgundy in depth with us. From Dijon to Beaune, experience great wine throught the legendary Route des Grands Crus, admire the countless   medieval villages and endless vineyards. On the northern part, wander the UNESCO World Heritage Sites of Vezelay and the Fontenay abbey.  And much more with this 11 days tour.  Welcome to Burgundy. 
 prices: 
      - Contact us for 7-10 persons
      - Contact us for 4-7 persons
@@ -75,20 +75,79 @@ The city as a worlwide reputation for it's gastronomy. As such, we suggest the A
 Dinner and night in Beaune.
 
 
-### Day 4:   
-After breakfast, head on to south burgundy, make a stop at the charming hilltop village of Bancion. Stroll inside the narrow streets lined with old houses, visit it's beautifull medieval castle, offering a beautifull panoramic view over the countryside. 
+### Day 4:  Chateauneuf-en-Auxois -  Pouilly-en-Auxois - Chateau de Thil (Unseen) - 
 
-Next head on to Cluny to visit it's majestic abbey. Built in 910, formely 187 meters long and 30 meters large, the abbey church was the largest in Christendom until the construction of the St Peter's Basilica in Rome in 16th century. Take a walk inside the abbey and admire the he soaring Romanesque vaults and the brightness of the sanctuary.
+After breakfast, we will head on to Chateauneuf-en-Auxois, classified as one of the most beautifull village in France. Built between the 13th and 15th century, the medieval village and its castle are located on a strategic position between Autun and Dijon. Discover the medieval fortified castle,  it's giant round tower and its imposing wall.  A stroll inside the medieval streets, the bars have terraces will give you a nice panoramic view over burgundy's old house and country. 
 
-Next,  we will visit Berze-le-Chatel and it's medieval fortress flanked by thirteen towers and offering also a wonderfull view over the countryside. 
-Next, head on to La Roche de Solutre ( Solutre rock), an important prehistoric site that has been awarded the "Great Site of France" label.
+We will  drop at the nearby village of Vandesse-en-Auxois, located 1 kilometer away. From here,  the view over Chateauneuf 's castle  will offer you a fine pictures opportunity.
 
-We will drive back to Cluny to spend a night.
-Dinner and Night at Cluny.
+After a lunch and an coffee in Chateauneuf-en-Auxois, head on to Pouilly-en-Auxois for a 2 hours trip n a solar powered leisure boat along the canal de Bourgogne passing throught the tunnel of Pouilly (3 333m !). 
+
+We will have at  visit the picturesque Chateau de Thil, the oldest castle in France dated from 1005. Let's go back in time and discover inside the cellars from the 12th century,  dungeon from the 14th century surnamed "The Spy of Auxois" , a 5 floors watchtower 25 meters high,  wander the Roman and Gothic style  vaults, the and a huge kitchen with three fireplaces. 
+Located on top of  the mound Thil, it offer also an amazing view over the valley and i fine picture opportunity.
+
+We will the drive to Montbards. stroll around the old village and take dinner
+Dinner and night at Montbards or Venarey-les-Laumes.
+
+### Day 5: St-Germain-Source-Seine - Alise Sainte-Reine(Alesia) - Flavigny-sur-Ozerain
+
+After breakfast, we will make a stop to St-Germain-Source-Seine. It is in the woods around the town that the famous river Seine has it's source. 
+A cave dedicated to the Seine Nymph were built in rumors of healing powers of the Seine in Paris in 17th century. 
+
+Next, head on to Alise Sainte-Reine,  a Gallo-roman city where the Battle of Alesia took place 52 BC. We will enjoy entertainement in the MuseoPark, a recent interpretive center presenting a fun and interactive way the famous battle of Alésia, a decisive turning point in the history of France when Vercingétorix , the mighty leader was defeated by Julius Caesar.
+
+After lunch and a nice expresso, we will take a walk inside the medieval town and wandering the beautifull old stone houses, the narrow flowery streets .We will go visit the pottery of Alesia, a unique workshop using antique technique and material. The craftmen will invit us to visiting his factory, study the entire manufacturing process, and wandering inside the  shop where unique pieces are presented. 
+
+Next to the pottery, discover the Gallo roman vestiges of the town. Browse the ancient monumental center composed of a sanctuary, a theater and a forum closed by a basilica. Stroll into the antiques cobbledstone streets, discover the remains of dwelling and caves perfectly preserved. 
+
+We will finish our visit on Mont-Auxoix where stand a status of Vercingetorix, the mighty leader. The 6.60 meters tall statue , made with copper, was ordered by Napelon III for commemorate the end and success of the research undertaken in Alesia.  
+
+Next, we will discover Flavigny-sur-Ozerain, one of the most beautifull medieval villages of France. 
+Start the visit at the fortified gates, part of town medieval fortifications,  discover the small village with a stroll around the narrow cobblestone streets and the old medieval stone house.  
+
+Visit the benedictan abbey of Sainte-Josephine Clairval, built probably prior to 17th century, the  Gothic
+Discover the vestige of the old abbey -- use today as traditional confectioneries flavored with anise seeds.
+
+Next, will go to Montbard for check-in.
+Dinner and Night at Montbard.
+
+### Day 6: Abbaye de Fontenay ( UNESCO) - Les Grandes Forges de Buffon (Unseen) - Chateau d'Ancy-Le-Franc - Noyers-sur-Serein
+
+After breakfast, We will start our day with Fontenay abbey, one of the oldest and most preserved cisterian monastery in France.  Founded in 1118,  the abbey was built with a mixture of  Gothic and Romanesque mix architecture style. Though slitly stricken, the complex composed of church, caldarium, dormitory, dovecote, cloister still retain their original architecture.  The abbey became a UNESCO World Heritage site in 1981.
+
+Move on next to Les Grandes Forges de Buffon, a precious witness of steel industry in XVIII century. Built in 1768, the factory used to employed over 300  workers
+
+Proceed to Ancy-le-Franc to visit the Chateau d'Ancy-le-Franc,  an amazing Renaissance palace on the land of the Dukes oF Burgundy.
+Wander the biggest Renaissance murals (16th and 17th centuries) in France,
+
+Next, head on to the medieval town of Noyer-sur-Serein, classified as one of the most beautifull village in France. Enter through one of the 19 fortified gates still standing ( 23 in past ),  explore the colombage and stone house and the historical monuments ( 78 in the town ! ). 
+
+Next, we will move on to Semur-en-Auxois for checkin
+Dinner and night at Semur-en-Auxois
 
 
-### Day 5:  La Charite-sur-Loire (UNESCO)  
-After breakfast, take a 1 hour and half drive to La Charite-sur-Loire, medieval city surrounded by ramparts and numbers of vestiges, laying on the bank of the Loire river.
+### Day 7: Semur-en-Auxois - Epoisses - Avallon
+After breakfast, visit the picturesque town of Semur-en-Auxois , and discover the remaining part of the 13th century castle.
+Discover the fortifications, 6 medieval gates used for communicate along the different quarter in the city, its dunjeons composed of 4 massive towers dates from the XVIII century. 
+We continue to the most imposing towers with it's 44 meters high. Stroll inside the 5 different levels of this impressive building, hosting  a collection of archeological finds and art folk art.
+
+Then, take a stroll inside the weath cobbled and narrow cobble streets lined with ancient timbered style houses, the old boutiques and cafes.
+Visit also the Gothic church ND,  the highlight in the main square, dates from the 13th century.
+
+We will then enjoy a beautifull view over the remains of the castle  from the medieval bridge along Armancon river.
+
+Next, we will head on to Avallon,  stop to the city of Epoisses first, famous for it's AOC quality label cheese created by 16th century Cisetrian monks. You will have the opportunity to taste different cheese at different maturity during the visit at the chateau d'Epoisses, with traces of constructions prior to the eighth century.
+
+Continue to Avallon, near the Morvan forest.  Discover the picturesque place Saint-Lazare and it's 12th century Romanesque church. 
+Wander The clock tower will give you access to the historical part of the city, it's old houses, the towers, the cobbled streets,  and the watchtowers and 
+enjoy the beautifull view over the valley from the rocky granite perched city.
+
+Dinner and night around Avallon. 
+
+### Day 8:  Vezelay -- Basilica Sainte-Marie Madeleine (UNESCO) - La Charite-sur-Loire (UNESCO)  
+After breakfast, head on to Vezelay, the "eternal hill",  medieval village listed as UNESCO World Heritage, closely associated with Crusades. We will take a guided visit to the Basilica, St. Mary Magdalene (Sainte-Marie Madeleine ), a masterpiece of Romanesque architecture and sculpture. 
+
+Next, we will head on to la Charite-sur-Loire, medieval city surrounded by ramparts and numbers of vestiges, laying on the bank of the Loire river.
 In the heart of the city, we will first visit the 12th century Cluniac priory church of Notre Dame, a remarkable example Burgundian Romanesque art.
 Classified as historical monument in 1840, it became a UNESCO World Heritage site in 1998 as part of the way to St james. 
 
@@ -101,12 +160,15 @@ Late afternoon will also offer you fine landscape-cityscape pictures opprtunitie
 
 Dinner and Night in la Charite-sur-Loire.
 
-### Day 6: Vezelay -- Basilica Sainte-Marie Madeleine (UNESCO) - Abbaye de Fontenay ( UNESCO) 
-After breakfast, head on to Vezelay, the "eternal hill",  medieval village listed as UNESCO World Heritage, closely associated with Crusades. We will take a guided visit to the Basilica, St. Mary Magdalene (Sainte-Marie Madeleine ), a masterpiece of Romanesque architecture and sculpture. 
+### Day 9:  La Charite-sur-Loire (UNESCO) - Chantier Médiéval de Guédelon
 
-Next, we will head to Auxerre.Dinner and night at Chablis.
+After breakfast, we continue the visit of the old city, depending of what we missed on preivous day and make to wander some souvenirs boutiques as well.
 
-### Day 7: Vineyards of Chablis - Abbaye de Pontigny (Unseen) 
+Then, we will take luch along the way and go back in time at the unique construction  site of Guédelon castle ,  the recreation of a 13th century medieval castle project located in Treigny. Learn how theses castle were built in middle age, visit the craftmen at works and in their lodges, and wander their ancient art and craft they deploy. Or if you prefer, a english guide will explain the nitty-gritty of the build on an hour-long tour. A great educational afternoon. 
+
+Next, we will head to Auxerre.Dinner and night at Auxerre.
+
+### Day 10: Chateau de Tanlay - Vineyards of Chablis - Bailly-Lapierre (Unseen)
 
 After breakfast, head on to Tanlay visiting it's châteaux. Built on the bank of the Canal de Bourgogne, surrounded by beautiful moat,  it is one of the most elegant Renaissance châteaux in burgundy. 
 
@@ -115,7 +177,28 @@ We will start our day with the discovery the of the town and it's vineyards. We 
 
 We will have a lunch in a local traditionnal restaurant in Chablis or if you prefer a Michelin starred establishment, the Hostellerie des Clots.
 
-###Day 8: Sens - Paris
+After lunch, we will drive to through Auxerre vineyards and stop at the spectacular viewpoint over the vineyards at the village of Irancy. 
+Along the Yonne river, we will head to Bailly-Lapierre cellars,  a former quarry carved under 50 meters,  for a guided visit and a tasting of sparkling wine.
+
+Late after couple glass of wine,  we will drive back to Auxerre. Dinner and night at Auxerre.
+
+### Day 11: Auxerre - Abbaye de Pontigny (Unseen)
+Auxerre and his historical center - the second largest preserved in Burgundy.
+After breakfast, we will visit the Cathedral of Saint-Etienne, a imposing Gothic style building date from 11th century and then rebuilt in 16th century.
+Inside the church, enjoy the stained glass window, some of the most beautifull in France and the 11th century crypt.
+
+Disover also the beautifull benedicitne abbey church of Saint German. Wander it's carolingian crypt, decorated with the oldest murals knows in France.
+
+Enter in the old city by the picturesque rue de l'Horloge and it's arched gateway,  admire the  magnificiant 15th century clocktower stand, explore the architecture and ambiance of the street. Stoll in a coffee shop and the medieval cobbled streets,  the ancient houses mostly with half-timbered facades ,  wander some shop and local boutiques. 
+
+Take a walk down to the brigde Paul bert for admire the beautifull view from the Yonne river, take sone nice souvenirs pictures of old cityscape.
+
+After lunch along the river Yonne, head on to the abbey of Pontigny. Built in 12th century, it is one of oldest Cistercian Monument in France. With over 120 meters long, it's also the biggest Cistercian church in Europe and a splendid example of the Cistercian architecture. 
+Feel the serenity, witness the monastic silence by passing the impressive entrance of the abbey and notice the clean lines and perfect proportion in the interior. 
+
+We will drive to Sens for our last night in Burgundy. Dinner and night at Sens.
+
+###Day 12: Sens - Paris
 
 For the very last day,  start the visit of Sens with the very first Gothic monument built in France, the Cathedral St Etienne.
 
