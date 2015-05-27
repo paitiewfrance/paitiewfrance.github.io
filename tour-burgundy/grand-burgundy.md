@@ -11,203 +11,124 @@ sitemap:
 meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 duration: 12 Days / 11 Nights
 img: /burgundy/chambertain.jpg
-intro: Disover the Burgundy in depth with us. From Dijon to Beaune, experience great wine throught the legendary Route des Grands Crus, admire the countless   medieval villages and endless vineyards. On the northern part, wander the UNESCO World Heritage Sites of Vezelay and the Fontenay abbey.  And much more with this 11 days tour.  Welcome to Burgundy. 
+intro: Disover the Burgundy in depth with us. From Dijon to Beaune, experience great wine throught the legendary Route des Grands Crus, admire the countless   medieval villages and endless vineyards. On the northern part, wander the UNESCO World Heritage Sites of Vezelay and the Fontenay abbey.  And much more with this 12 days tour.  Welcome to Burgundy. 
 prices: 
      - Contact us for 7-10 persons
      - Contact us for 4-7 persons
      - Contact us for 2-4 persons
 ---
 
-โปรแกรมทัวร์กำลังอยู่ระหว่างการดำเนินการ
 
-### Day 1: Dijon
-Dijon, capital of the Duke of Burgundy. It  is one of France's most appealing cities. Filled with elegant medieval and Renaissance buildings, the lively centre is wonderful for strolling. You are sure to appreciate the wealth and elegance of the city’s architectural heritage. 
+### วันที่1 เมืองดีจอง Dijon, พระราชวังดยุคแห่งเบอร์กันดี, วิหารแซ็งต์เบนีญ Cathédrale Saint-Bénigne, ช้อปปิ้งถนนฟอร์จ Rue des Forges
 
-After a breakfast, head on to Rue de la Liberte and start visit the Burgundy Dukes's Palace ( Palais des etats), feudal fief of the kingdom of France between the ninth and fifteenth, housing the Fine Arts Museum since the seventeenth . We will bring you on top fo Philippe Le Bon Tower ( 46 meters high ) to enjoy a panoramic view over the city.
+ช่วงเช้าเราจะมุ่งหน้าเข้าสู่ถนนลิเบอเต้ Rue de la Liberté (รู เดอ ลา ลิเบอเต้) ถนนสายหลักศูนย์กลางประวัติศาสตร์ของเมืองดิจอง ถนนช้อปปิ้งคนเดินนี้เรียงรายไปด้วยอาคารดั้งเดิมตั้งแต่ศตวรรษที่ 15 - 18 ซึ่งเป็นอนุสรณ์สถานทางประวัติศาสตร์ เราจะเข้าไปเยี่ยมชมพระราชวัง ดยุคแห่งเบอร์กันดีซึ่งตั้งอยู่กลางใจเมืองดิจองตั้งแต่สมัยศตวรรษที่9 จนถึงศตวรรษ ที่17  
 
-Next, we will discover the Fine Arts Museum. rank as one of the most beautifull and largest museum in France. Wander a wide collection of which include medieval art and Renaissance sculptures and paintings.
+เราจะเดินขึ้นบันได 316 ขั้นเพื่อขึ้นไปบนหอคอย ฟิลิป เลอ บง Tour Philippe Le Bon สร้างขึ้นตั้งแต่ศตวรรษที่15 ชมความงามของเมือง หลังจาก นั้นเราจะลงมาในตัวพระราชวัง ซึ่งส่วนหนึ่งจัดเป็นพิพิธภัณฑ์ Musée des Beaux-Arts de Dijon เปิดทำการอย่างเป็นทางการเมื่อ ปี1799 เป็น หนึ่งในพิพิธภัณฑ์ที่เก่าแก่ที่สุดในฝรั่งเศสเริ่มต้นมาตั้งแต่ยุคเฟื่องฟูของศิลปะในปี1766 หนึ่งในศิลปะที่มีชื่อเสียง อาทิเช่น หลุมศพของดยุคและ ดัชเชสแห่งเบอร์กันดีและเหล่าผู้คร่ำครวญรายล้อมรอบหลุมศพและรูปภาพเหมือนมัมมี่แห่ง ฟายัม Mumy Portrait of Fayum ทานอาหารเที่ยงที่ พลาส เดอ ลา ลิเบอราซิยงค์ Place de la Liberation หลังจากนั้นเราจะเดิน เข้า รู เดอ ลา ชูเอ็ตต์ Rue de la Chouette หรือถนนนกฮูกเพื่อเข้าชม นอร์ท เทอดาม เดอ ดิจอง หรือ วิหารแห่งดิจอง 
 
-After a lunch in the old town and a coffee at Place de la Liberation, take on the picturesque Chouette (owl) street behind the Palace,  discover the  cathedral Notre-Dame of Dijon, called "La Grande Dame", a georgous Gothic builidng dated form the 13th century.
+หลังอาหารเที่ยงนำท่านชมวิหาร แซ็งต์เบนีญ Cathédrale Saint-Bénigne เป็นอาสนวิหารโรมันคาทอลิกประจำอัครมุขมณฑลดีจองในสมัย แรกราวคริสต์ศตวรรษที่ 6 มีสถานะเป็นเพียงโบสถ์แห่งนักบุญเบนีญและต่อมาในช่วงปฏิวัติฝรั่งเศสได้เป็นที่ตั้งของมุขมณฑลดีจอง (Bishopric of Dijon) ชมสถาปัตยกรรมแบบโกธีคซึ่งบูรณะในศตวรราที่12 13 ซึ่งสร้างบนโบสถ์เก่าที่ถูกทำลายจากไฟไหม้โดยสร้างครอบห้องใต้ดินที่บรรจุ โลงศพหินของนักบุญเบนีญ (Crypt) ตัวอาคารเป็นแบบโรมาเนสก์ทรงกลมที่มีเส้นผ่านศูนย์กลางประมาณ17 เมตร สร้างราวศตวรรษที่10 ซึ่งใน ปัจจุบันแทบไม่เหลือหลักฐานแล้วในปัจจุบันมหาวิหารดีจองได้รับการขึ้นทะเบียนเป็นอนุสรณ์สถานทางประวัติศาสตร์ในศตวรรษที่18 หลังจากนั้น ครึ่งบ่ายนำท่านเดินเล่นชมเมืองยุคกลางบนถนน ฟอร์จ Rue des Forges ซึ่งมีสินค้า ขนม ไวน์ และมัสตาร์ดให้ท่านได้เลือกซื้อ ทานอาหาร ค่ำและเข้าที่พัก 
 
- Next to the cathedral, discover the hôtel de Vogüé, a picturesque hotel particulier from the 17th century. Admire the majestic entrance porsch, the decorative richness of its roof and the superb courtyard.
 
-We will continue our visit of the main monuments of the city, the cathedral Saint-Bénigne. Built between the XIII and the XIV century, the actual Gothic building, masterpiece of Burgundy Gothic art was established in place of a former Romanesque abbey in which only the crypt remain.
+### วันที่2 เส้นทางแห่งไวน์  Route des Grands Crus; เชเวร่ ชองแบตอง Gevrey-Chambertin, ชาโต ดู โคลส์ เดอ วูโจ Château du Clos de Vougeot,  ชาโต เดอ เมอร์คโซลท์ Château de Meursault
 
-Late in the afternoon, head on to Rue des Forges, stroll inside the medieval street with numbers of old town houses and mansions.  Along the way, there's a number of boutiques where you can get Macarons, wine, mustard of dijon, and souvenirs boutiques .
+หลังอาหารเช้าเราจะเริ่มต้นเส้นทางแห่งไวน์บนถนน รู เด กรองด์ ครู Route des Grands Crus เราจะนั่งรถชมพื้นที่ปลูกองุ่นโดยที่แรกที่เราจะไป เที่ยวก็คือ เชเวร่ ชองแบตอง Gevrey-Chambertin ตั้งอยู่ 15 กิโลเมตรทางทิศใต้ของดิจอง Dijon หมู่บ้านผลิตไวน์นี้ตั้งอยู่บน เส้นทางแห่งไวน์ หมู่บ้านเล็กๆที่มีประชากรประมาณ3,000 คนแต่ชื่อเสียงเรื่องไวน์ไกลเกินกว่าจำนวนประชากรและยังเป็นบ้านของไวน์แดงเก้าชนิดที่ดีที่สุดของไวน์ ฝรั่งเศส เราจะเดินชมไร่องุ่นและชิมไวน์ไปพร้อมกัน อย่าเพิ่งชิมจนเมาเพราะหลังจากนั้นเราจะแวะไปชิมไวน์อีกที่ ชาโต ดู โคล เดอ วูโจ Château du Clos de Vougeot ตั้งอยู่ใจกลางไร่องุ่นเบอร์กันดี แต่เดิมไร่ไวน์สร้างขึ้นในศตวรรษที่12 โดยพระสงฆ์จากอารามซิโต Cîteaux 
 
-Dinner and night in Dijon.
+เราจะเดินทางข้ามทุ่งไวน์ โวสน์ โรมาเน่ Vosne­Romanée แหล่งผลิตไวน์ พิโน นัวร์ Pinot Noir ที่แพงที่สุดในโลก ไวน์ที่มีรดชาด เข้มข้นพิเศษของ ผลไม้, กรรมวิธีการผลิตและสายพันธุ์องุ่นที่พิเศษกว่าใครในแคว้น โก๊ด ดอร์ Côte d’Or  เราจะรับประทานอาหารเที่ยงที่ นุยส์ แซ็งต์ กอรจ์ Nuits­Saint­Georges เมืองที่ขึ้นชื่อเรื่องไวน์แดง  หลังจากนั้นเราจะเข้าชมอิมมาจินาเรี่ยม L'Imaginarium พิพิธภัณฑ์โลกของไวน์ที่รอทุกท่าน ไปไขปริศนา แห่งไวน์และค้นพบความมหัษจรรย์ของไวน์ รวมทั้งชมเรื่องราวตั้งแต่การเก็บเกี่ยวไวน์, การบ่มไปจนถึงใส่ขวด ตั้งแต่อดีคจนถึงปัจจุบัน หลังจากนั้นไม่ไกลกันเราจะไปเที่ยวคาซีเซี่ยม Cassissium พิพิธภัณฑ์แบล็คเคอเรนท์ blackcurrant ผลเบอร์รี่คล้าย องุ่นดำที่คนฝรั่งเศสนิยม นำมาบ่มไวน์เช่นกัน  เราจะเดินชมผ่านการจัดนิทรรศการในรูปแบบปฏิสัมพันธ์ทั้งแบบสัมผัสภาพเคลื่อนไหว การทดลองดมกลิ่นที่นำเสนอแง่ มุมต่างๆของ blackcurrant: การ นำมาทำอาหาร และ ในอุตสาหกรรมยาและน้ำหอม และเราจะได้ชิมเหล้าบ่มแบล็กเคอเรนท์ก่อนกลับด้วย
 
-Option: 
-After dinner, we can have a evening walk together  enjoy the Place de la Liberation ( Palace of the Duke ) illuminated and old city streets by night and eventually some music events.
+ฃ่วงบ่ายเราจะเดินทางต่อยังถนนแห่งไวน์ เราจะแวะที่ชาโต เดอ ปองมาร์ด Château de Pommard ไร่ไวน์ที่ใหญ่ที่สุดในแคว้นเบอร์กันดี หลังจากนั้นเราจะไปชิมไวน์ที่สุดท้ายที่ ชาโต เดอ เมอร์คโซลท์ Château de Meursault หนึ่งในอุโมงค์บ่มไวน์ที่ใหญ่ที่สุดในเบอร์กันดี พอหอมปากหอมคอกับการชิมไวน์ 1 วันเต็ม เราจะพาทุกท่านทานอาหารค่ำและพักผ่อนตามอัธยาศัย 
 
-### Day 2:  Route des Grands Crus
 
-After breakfast, we will start our day with the legendary Route des Grands Crus and witness the beautifull vineyards
-fields as far as your eyes can see. For over 60 kilometers, we will enjoy this amazing landscape, passing numbers of  picturesque villages producing some of the finest wine in the world.
+### วันที่3 เส้นทางแห่งไวน์ Route des Grands Crus; เมืองโบน Beaune, โรงทานยุคกลาง Hôtel-Dieu de Beaune, อุโบสถคอลลเลจิแอล Collégiale Basilique Notre-Dame, พระอารามหลวง เมเซียร์ Abbaye de maizières
 
-Along the way, we will stop and enjoy some wine tastings and visiting beautifull chateau. You will have tons of photo oppotunities to take memorable pictures 
-of this unique region.
+หลังอาหารเช้าเราจะเดินทางบนเส้นทางแห่งไวน์กันต่อที่ปราสาท ซองเทเน่ Château de Santenay หนึ่งในผู้ผลิตไวน์ที่ใหญ่ที่สุดในแคว้นเบอร์ กันดี หลังจากนั้นเราจะเข้าสู่เมือนโบน Beaune เมืองหลวงของไวน์เบอร์กันดี เมืองโบนเป็นหนึ่งในศูนย์กลางค้าไวน์ที่สำคัญในประเทศฝรั่ง เศสและการประมูลไวน์ประจำปีที่ Hospices de Beaune เป็นสถานที่หลักที่ประมูลไวน์ในฝรั่งเศส เราจะเดินเที่ยวชมภายในเมืองเก่า เราจะ เข้าชมพิพิธภัณฑ์ โฮสปิคส์ เดอ โบน หรือ โอเต็ล ดิเญอ เดอ โบน Hospices de Beaune (Hôtel-Dieu de Beaune) โรงทานการกุศลในอดีต ก่อตั้งขึ้นในศตวรรษที่14 โดยนิโคลัส โรแลงค์ Nicholas Rolin นายกรัฐมนตรีแห่งเบอร์กันดีเพื่อเป็นโรงพยาบาลสำหรับคนยากจน อาคารโรง พยาบาลเดิมเป็นหนึ่งในตัวอย่างที่ดีที่สุดของสถ​​าปัตยกรรมในศตวรรษที่15
 
-We will first stop at Gevrey-Chambertain, a beautifull medieval village and visiting the picturesque Domaine du Chateau Gevrey-Chambertain, enjoy a wine tasting in the cellar and a nature walk inside the vineyards. Next, we will stop at Chateau Clos de Vougeot, enjoy another wine tasting and admire the huge cistercian wine press of the domain.
+หลังอาหารเที่ยงเราจะเข้าชมวิหาร คอลลเลจิแอล Collégiale Notre-Dame หรือรู้จักกันในอีกชื่อหนึ่งว่า “ลูกสาวของคลูนี่”, Daughter of Cluny รูปแบบของโบสถ์ แสดงให้เห็นถึงตัวอย่างที่สวยงามของสถาปัตยกรรมแบบโรมัน - เบอร์กันดี โบสถ์แห่งนี้เคยใช้งานร่วมกันกับวิหารแห่งคลูนี สิ่งที่สะดุดตาของโบสถ์คือระเบียงขนาดใหญ่เป็นพิเศษและภาพทอมือบนผนังในสมัยศตวรรษที่15 ที่แสดงอยู่ภายในและยังมีหอระฆังสมัย ศตวรรษที่16 และหอสวดมนต์เก่าแก่อีกด้วย ช่วงบ่ายเราจะเดินเล่นในเมืองยุคกลางที่รายล้อมไปด้วยบ้านยุคโบราณที่ยังคงความเป็นยุคกลางได้ อย่างสมบูรณ์ อาหารค่ำในเมืองและเข้าที่พัก
 
-We will follow the road and crossing  Vosne-Romanée, where the most expensive wine are produces among a numbers of renowed Grand crus. 
 
-We will have a lunch at Nuits-Saint-Georges in a local restaurant. Then, stroll into the old downtown, enjoy an expresso and wander the regional food shops, bakeries and wine shops, the church St-Symphorien.
-If time allow, we will visit the Cassissium, museum dedicate to the Blackcurrants and the Imaginarium, museum dedicated to sparkling wine.
+### วันที่4 หมู่บ้านชาโต เนิฟ อองน็อกซัวซ์ Châteauneuf-en-Auxois, ป้อมปราการปราสาทเก่าแก่ที่สุดในฝรั่งเศส เลอ ชาโต เดอ ทิล Le Château de Thil 
 
-We will  then continue our road, crossing many picturesque villages and stop at the Chateau de Pommard,  probably the largest private vineyard in Burgundy.
+หลังอาหารเช้าเราจะมุ่งหน้าสู่หมู่บ้านชาโต เนิฟ อองน็อกซัวซ์ Chateauneuf en Auxois ถูกจัดให้เป็นหนึ่งในหมู่บ้านที่สวยที่สุด ในประเทศฝรั่งเศส สร้างขึ้นระหว่างศตวรรษที่13 และ15 หมู่บ้านยุคกลางและปราสาทที่ตั้งอยู่บนตำแหน่งยุทธศาสตร์ระหว่างเมือง ออทอมน์ Autumn และ ดิจอง Dijon ค้นพบปราสาทป้อมปราการยุคกลางรอบหอคอยยักษ์และเดินเล่นภายในถนนยุคกลางมีระเบียงมองเห็นทิวทัศน์ และบ้านเก่าของเบอร์กันดี เราจะแวะไปชมอีกหนึ่งจุดชมวิวที่น่าสนใจที่ วองเดสซ์ ออง น๊อกซัวซ์  Vandesse­en­Auxois 
 
-Our first day of the Route des Grands Crus will conclude for a wine tasting at the Chateau de Meursault. We will have a guided visit to the cellar, one the largest wine cellar in Burgundy.
+หลังจากรับประทานอาหารกลางวันในชาโตเนิฟแล้ว เราจะมุ่งหน้าไปปูลยี ออง นองซัว Pouilly en Auxois ซึ่งมีท่าเรือที่เป็นจุดที่สูงที่สุดของ ลำคลองเบอร์กันดี หรือ บูกอนจ์ เราจะผ่อนคลายยามบ่ายด้วยการขึ้นเรือพลังงานแสงอาทิตย์ ล่องคลองประวัติศาสตร์บูกอนจ์ Canal de Bourgogne ชมความงามสองข้างทางและลอดอุโมงค์ที่เชื่อมต่อกับเมือง ปูลยี Pouilly และ เมือง Escomme (ความยาวประมาณ 3 กิโลเมตร) 
 
-Time to checkin to our accomations in Meursault.
-Dinner and night at Meursault.
+ช่วงบ่ายเราจะย้อนอดีตกลับไปในสมัยยุคกลางย้อนรอยป้อมปราการ ชาโต เดอ ทิว Château de Thil ซึ่งเป็นหนึ่งในป้อมปราการ เก่าแก่ที่สุดของ ฝรั่งเศสราวศตวรรษที่10 ไปค้นพบห้องใต้ดินสมัยศตวรรษที่12 และหอคอยสมัย ศตวรรษที่14 ที่ได้ชื่อว่า “The Spy of Auxois” หรือสายลับแห่ง อ็อกซัวร์ ชมหอสังเกตุการณ์สูง25 เมตร สำรวจอุโมงค์สไตล์โรมันโกธีคและชมวิวรอบเมืองอันตระการตาที่ยอดสูงสุด หลังจากนั้นเราจะรับประ ทานอาหารค่ำและเข้าที่พักที่ มงบาร์ด หรือ เวนาเร เล โลมส์ Montbards or Venarey­les­Laumes
 
-### Day 3:  Route des Grands Crus - Beaune
 
-After breakfast, we will continue the Route des Grands Crus at Santenay, visiting its beautifull castle and domain
 
-Next, we will drive to Beaune, capital of Burgundy wine. Enclosed within its ramparts lies Beaune’s hidden treasures.
-We start with the visit the old city, based on famous Hotel Dieux ( Les Hospices de Beaune ), a medieval hospital complex dedicated to help poors sick people. Admire the half-timbered architecture of the Hotel.
+### วันที่5 ตาน้ำแม่น้ำแซน Saint-germain-source-seine Bourgogne, อนุสรณ์สถาน อาลีเซ Alise-Sainte-Reine, พิพิธภัณฑ์มิวซิโอ พารค์ MuséoParc Alésia, อนุสาวรีย์แวร์แซ็งต์โทริกซ์ Vercingetorix, หมู่บ้าน ไปฟลาวิงนี่ ซุร์ โอเซแรง์ Flavigny-sur-Ozerain, โบสถ์เบเนดิก  เซนต์โจเซฟิน แคลวาล abbaye st joseph de clairval
 
-Stroll inside the picturesque cobbled streets line with half-timbered houses and . Wander the ramparts and stronghold enclosing the old city, the clock tower, dating from the 12th century, classified historical monument, visit the Collegiate church of ND, located in a Gallo-roman castrum.
+หลังอาหารเช้าเราจะพาทุกท่านไปชมจุดเริ่มต้นของแม่น้ำแซน ถ้ำเทพธิดาแห่งตาน้ำแซน Seine Nymph สร้างขึ้นเเนื่องจากความเชื่อในสมัย ศตวรรษที่17ว่าแม่น้ำมีแซนพลังวิเศษในการรักษาโรค หลังจากนั้นเราจะไปชมอนุสรณ์ อลีเซ แซ็งต์ ไรน์  Alise Sainte Reine,แห่งเมืองแกลโลโรมัน ในสมัยสงครามเอลีเซียAlisiaเมื่อ52 ปีก่อนคริสตกาล เราจะเพลิดเพลินไปกับความบันเทิงใน MuseoPark ที่นำเสนอความ สนุกสนานและความรู้ เกี่ยวกับประวัติศาสตร์และวิธีการต่อสู้ที่มีชื่อเสียงของเมืองเอลีเซีย Alésia และเป็นจุดพลิกผันในประวัติศาสตร์ของประเทศฝรั่งเศสเมื่อ แวร์แซ็งต์ โทริกซ์  Vercingetorix ผู้นำที่ยิ่งใหญ่พ่ายแพ้ต่อจูเลียส ซีซาร์
 
-The city as a worlwide reputation for it's gastronomy. As such, we suggest the Abbaye de Maizières, a gorgeous place to discover burgundy finest cuisine. 
-Dinner and night in Beaune.
+หลังอาหารกลางวันเราจะใช้เวลาเดินภายในเมืองยุคกลางและบ้านหินสวยงามตามถนนเก่าที่แวดล้อมไปด้วยดอกไม้ เราจะไปชมเครื่องปั้น ดินเผา ของอาเลเซีย Alesia, เทคนิคโบราณและวัสดุ ช่างฝีมือ เราจะไปชมโรงงานและกระบวนการผลิตและเดินชมสินค้า
 
+หลังจากนั้นเราจะไปค้นพบร่องรอยของเมืองแกลโลโรมัน อนุสาวรีย์โบราณที่ประกอบด้วยสถานที่ศักดิ์สิทธิ์, โรงละครและมหาวิหาร เราจะเดินเข้า ไปในถนนหินโบราณ, ค้นพบซากของที่อยู่อาศัยและถ้ำที่เก็บรักษาไว้อย่างสมบูรณ์แบบ เราจะไปที่ มองท์ ออกซัวส์ Mont Auxoix อนุสาวรีย์ ของแวร์แซ็งโทริกซ์ Vercingetorix ผู้นำที่ยิ่งใหญ่ สูง6.60 เมตรรูปปั้นทำด้วยทองแดง ซึ่งนโปเลียนสั่งให้สร้างเพื่อเป็นอนุสรณ์แห่งอาเลเซีย  Alesia หลังจากนั้นเราจะไปฟลาวิงนี่ ซุร์ โอเซแรง์ Flavigny sur Ozerain ซึ่งเป็นหนึ่งในหมู่บ้านที่สวยงามมากที่สุดในยุคกลางของฝรั่งเศส เดินเที่ยวชม เมืองป้อมปราการยุคกลาง หมู่บ้านเล็กๆ ถนนหินและบ้านหินยุคเก่า เราจะไปเยี่ยมชมโบสถ์เบเนดิก เซนต์โจเซฟิน แคลวาล Benedictin Josephine Clairval ที่สร้างขึ้นก่อนศตวรรษที่17
 
-### Day 4:  Chateauneuf-en-Auxois -  Pouilly-en-Auxois - Chateau de Thil (Unseen) - 
 
-After breakfast, we will head on to Chateauneuf-en-Auxois, classified as one of the most beautifull village in France. Built between the 13th and 15th century, the medieval village and its castle are located on a strategic position between Autun and Dijon. Discover the medieval fortified castle,  it's giant round tower and its imposing wall.  A stroll inside the medieval streets, the bars have terraces will give you a nice panoramic view over burgundy's old house and country. 
 
-We will  drop at the nearby village of Vandesse-en-Auxois, located 1 kilometer away. From here,  the view over Chateauneuf 's castle  will offer you a fine pictures opportunity.
+### วันที่6: มรดกโลกอารามหลวงฟอนเทเน่ L'Abbaye de Fontenay UNESCO, โรงงานหลอมเหล็กแห่งแรกในศตวรรษที่18 เล กรองด์ ฟอร์จ เดอ บูฟฟง La Grande Forge de Buffon, พระราชวังเรเนซองส์ ชาโต ดองซี เลอ ฟรองส์ Château d'Ancy-le-Franc, เมืองยุคกลาง โนแยร์ ซูร์ เซไรน์ Noyers­ sur ­Serein
 
-After a lunch and an coffee in Chateauneuf-en-Auxois, head on to Pouilly-en-Auxois for a 2 hours trip n a solar powered leisure boat along the canal de Bourgogne passing throught the tunnel of Pouilly (3 333m !). 
+หลังอาหารเช้าเราจะเริ่มต้นวันของเราที่อารามฟอนเทเน่ L’Abbaye de Fontenay ซึ่งเป็นหนึ่งในมรดกโลกที่เก่าแก่ที่สุดของอาราม Cisterian ในฝรั่งเศส สร้างขึ้นเมื่อราวศตวรรษที่11 เป็นศิลปะสถาปัตยกรรมรูปแบบของกอธิคผสมโรมัน แม้สิ่งก่อสร้างจะถูกทำลายไปบ้างแต่ก็ยังสามารถ เห็นโครงสร้างบางส่วน ของตัวโบสถ์ ห้องอาบน้ำรวม หอนกพิราบสื่อสารและทางเดินภายในโบสถ์  หลังจากนั้นเราจะไปชมโรงงานหลอมเหล็ก แห่งแรกในศตวรรษที่18 เล กรองด์ ฟอร์จ เดอ บูฟฟง (Les Grandes Forges de Buffon) ได้รับการออกแบบเพื่อเพิ่มประสิทธิภาพของ ขั้นตอนการผลิต โรงงานอุตสาหกรรมนี้มีทั้งบ้านของช่างผู้เชี่ยวชาญและที่อยู่อาศัยของคนงานรวมกันในพื้นที่เดียว กัน
 
-We will have at  visit the picturesque Chateau de Thil, the oldest castle in France dated from 1005. Let's go back in time and discover inside the cellars from the 12th century,  dungeon from the 14th century surnamed "The Spy of Auxois" , a 5 floors watchtower 25 meters high,  wander the Roman and Gothic style  vaults, the and a huge kitchen with three fireplaces. 
-Located on top of  the mound Thil, it offer also an amazing view over the valley and i fine picture opportunity.
+หลังอาหารเที่ยงเราจะไปต่อกันที่ ชาโต ดานซี เลอ ฟรองค์ Chateau d'Ancy le Franc พระราชวังเรเนซองส์ที่น่าตื่นตาตื่นใจบนที่ดินของดยุก แห่งเบอร์กันดี เดินชมภาพจิตรกรรมฝาผนังที่ใหญ่ที่สุดของเรเนซองส์ (ศตวรรษที่ 16 และ17)  
 
-We will the drive to Montbards. stroll around the old village and take dinner
-Dinner and night at Montbards or Venarey-les-Laumes.
+ช่วงบ่ายเราจะเดินทางต่อไปยังเมืองยุคกลางของ โนแยร์ ซูร์ เซอไรน์ Noyer sur Serein ถูกจัดให้เป็นหนึ่งในหมู่บ้านที่สวยงามที่สุดในประเทศ ฝรั่งเศส หมู่บ้านเป็นบ้านไม้ยุคกลางทำด้วยไม้และหินตัดสี่เหลี่ยม, เสาและหลังคายอดแหลม, ทางเท้าที่ทำ จากปูนขาวและเป็นหินแข็งมีอาคาร ล้อมรอบด้วยแม่น้ำเซเรน Serein  หลังจากนั้นเราจะเดินทางสู่เมืองเซมูร์ ออง น็อค ซัวส์ Semur -  en – Auxoix เพื่อทาน อาหารค่ำ และเข้าที่พัก
 
-### Day 5: St-Germain-Source-Seine - Alise Sainte-Reine(Alesia) - Flavigny-sur-Ozerain
 
-After breakfast, we will make a stop to St-Germain-Source-Seine. It is in the woods around the town that the famous river Seine has it's source. 
-A cave dedicated to the Seine Nymph were built in rumors of healing powers of the Seine in Paris in 17th century. 
+### วันที่7 หมู่บ้านยุคกลางเซมูร์ อองน็อกซัวซ์ Semur-en-Auxois, เมืองอวาลอน Avallon หมู่บ้านเอปัวส์ Époisses, โบสถ์ แซ็งต์ ลาแซร์ Église Saint-Lazare
 
-Next, head on to Alise Sainte-Reine,  a Gallo-roman city where the Battle of Alesia took place 52 BC. We will enjoy entertainement in the MuseoPark, a recent interpretive center presenting a fun and interactive way the famous battle of Alésia, a decisive turning point in the history of France when Vercingétorix , the mighty leader was defeated by Julius Caesar.
+หลังอาหารเช้าแวะไปที่เมืองที่งดงามของหมู่บ้านเซมูร์ อองน็อกซัวซ์ Semur en Auxois และค้นพบส่วนที่เหลือของปราสาทและป้อมปราการ ในศตวรรษที่13 , เราจะเดินลอดซุ้มประตู6 ประตูในยุคกลางที่ใช้ในการสื่อสารระหว่างประตูเมืองสำรวจห้องใต้ดินในหอคอยขนาดใหญ่4 หอ สูงประมาณ44 เมตรสร้างในสมัยศตวรรษที่18 เดินสำรวจของสะสมโบราณและศิลปะพื้นบ้านภายในหอคอยที่แบ่งเป็น 5 ชั้น หลังจากนั้นเราจะ เดินเล่นบนถนนที่ปูด้วยหิน เรียงรายไปด้วยบ้านไม้สไตล์โบราณ, ร้านบูติก, ร้านกาแฟและโบสถ์คริสตจักร สไตล์โกธีคสร้างในสมัยศตวรรษที่13 และเพลิดเพลินกับมุมมองที่สวยงามของซากปราสาทจากบนสะพานยุคกลางท่ามกลางแม่น้ำอาร์มองกอง Armancon
 
-After lunch and a nice expresso, we will take a walk inside the medieval town and wandering the beautifull old stone houses, the narrow flowery streets .We will go visit the pottery of Alesia, a unique workshop using antique technique and material. The craftmen will invit us to visiting his factory, study the entire manufacturing process, and wandering inside the  shop where unique pieces are presented. 
+หลังอาหารเที่ยงเราจะมุ่งหน้าสู่เมืองอวาลอน Avallon แต่ระหว่างทางเราจะแวะที่หมู่บ้านเอปัวส์ Époisses หมู่บ้านที่ผลิตชีส ที่ติดอันดับ1 ใน10ชีสที่กลิ่นแรงที่สุดในโลกเป็นชีสที่ในอดีตจักรพรรดิ์นโปเลียนชื่นชอบมากเป็นพิเศษ ชีสเอ ปัวส์ได้รับการรับรองคุณภาพ AOC ของฝรั่งเศส ว่าเป็นชีสชั้นดีและเนื้อครีม เข้มข้น สร้างสรรค์ขึ้นในศตวรรษที่16 โดยพระสงฆ์ซิสเตอร์เรียน เราจะให้ทุกท่านได้มีโอกาสชิมชีสหลายๆรดชาดที่ ชาโต เดปัวส์ Château d'Époisses สร้างตั้งแต่ศตวรรษที่8
 
-Next to the pottery, discover the Gallo roman vestiges of the town. Browse the ancient monumental center composed of a sanctuary, a theater and a forum closed by a basilica. Stroll into the antiques cobbledstone streets, discover the remains of dwelling and caves perfectly preserved. 
+ช่วงบ่ายเราจะเดินทางต่อไปยังเมืองอวาลอน Avallon เราจะไปชมโบสถ์แซ็ง ลาแซร์ Église Saint-Lazare สร้างขึ้นในศตวรรษที่12 เป็นศิลปะ โรมาเนส Romanesque ไฮไลท์คือซุ้มประตูทางเข้าเป็นรูปปั้นของ12นักษัตร เราจะใช้เวลาที่เหลือเดินรอบเมืองชมหอนาฬิกา เมืองเก่า หอคอย ทานอาหารค่ำเข้าที่พักในเมืองอวาลอนและอิสระให้ท่านชมเมืองตามอัธยาศัย
 
-We will finish our visit on Mont-Auxoix where stand a status of Vercingetorix, the mighty leader. The 6.60 meters tall statue , made with copper, was ordered by Napelon III for commemorate the end and success of the research undertaken in Alesia.  
+จากนั้นเราจะมุ่งหน้าสู่เมืองชารีเต ซูร์ ลัวร์ La Charité-sur-Loire เมืองยุคกลางที่ ล้อมรอบไปด้วยกำแพงและร่องรอยของประวัติศาสตร์บนฝั่ง แม่น้ำลัวร์ในศตวรรษที่12 เมืองที่เริ่มต้นมาจากสำนักสงฆ์คลูนิค Cluniac Notre Dame แต่ไฟไหม้ครั้งใหญ่ได้ทำลายเมืองจนราบในศตวรรษที่15 และในยุคสงครามศาสนาเมืองชาริเต้ได้กลายเป็นป้อมปราการถึงสองครั้งในสงครามศานาครั้งที่สองป้อมปราการชาริเต้สามารถยืนหยัดจาก การโอบล้อมและการโจมตีจากกองกำลังคาทอลิกได้ถึงแปดเดือน
 
-Next, we will discover Flavigny-sur-Ozerain, one of the most beautifull medieval villages of France. 
-Start the visit at the fortified gates, part of town medieval fortifications,  discover the small village with a stroll around the narrow cobblestone streets and the old medieval stone house.  
+หลังอาหารกลางวันเราจะเข้าชมสำนักสงฆ์หลักของนักบวชคลูนิค แซ็งต์ ครัวซ์ นอร์ทเทอดาม Sainte-Croix-Notre-Dame ที่หลงเหลือจากศตวรรษ ที่12 และได้รับการขึ้นทะเบียนเป็นมรดกโลกในปี1998 ในกลุ่มของเส้นทางซานติอาโก เดอ คอมโพสในฝรั่งเศส Routes of Santiago de Compostela หรือ เส้นทางแห่งเหล่าผู้แสวงบุญแห่งฝรั่งเศส โบสถ์แซ็งต์ครัวซ์ นอร์ เทอดามเป็นที่รู้จักกันดีโดยเฉพาะอย่างยิ่งประติมากรรม เสาหินติดผนังและทางเข้าโบสถ์ที่งดงาม
 
-Visit the benedictan abbey of Sainte-Josephine Clairval, built probably prior to 17th century, the  Gothic
-Discover the vestige of the old abbey -- use today as traditional confectioneries flavored with anise seeds.
+ช่วงบ่ายเราจะเดินเล่นรอบเขตเมืองเก่าเลาะกำแพงป้อมปราการเพื่อชมร้านค้าที่ส่วนใหญ่จะเป็นหนังสือโบราณ, ร้านขายเครื่องเขียน ปากกาและ น้ำหมึกสำหรับเขียนอักษรโบราณ, ร้านทำสันปกและซ่อมหนังสือเก่า เมืองนี้ในช่วงวันหยุดยังมีตลาดนัดหนังสือเก่าจำหน่ายอีกด้วย อิสระช่วงบ่าย ให้ท่านได้เดินเล่น, ชมวิวและถ่ายรูปพระอาทิตย์ตกบนสะพานแม่น้ำลัวร์ อาหารค่ำและเข้าที่พักในตัวเมือง 
 
-Next, will go to Montbard for check-in.
-Dinner and Night at Montbard.
+### วันที่8 เมืองมรดกโลกเวเซเล่ Vézelay (UNESCO) – มหาวิหารแซ็งต์แมรี มาเดลีน  Basilique Sainte-Marie-Madeleine – พระอาราม หลวงและโบสถ์โบราณ เมืองชาริเต ซูร์ ลัวร์ Sainte-Croix-Notre-Dame, La Charité-sur-Loire (มรดกโลก)
 
-### Day 6: Abbaye de Fontenay ( UNESCO) - Les Grandes Forges de Buffon (Unseen) - Chateau d'Ancy-Le-Franc - Noyers-sur-Serein
+หลังอาหารเช้ามุ่งหน้าไปยังเมืองเวเซเล่ Vézelay เมืองจุดหมายปลายทางที่สำคัญที่สุดของนักแสวงบุญในสมัยยุคกลางและยังเป็นเมืองยุทธ ศาสตร์เนินเขาที่มีสมญานามว่า "เนินเขาแห่งนิรันดร์" และยังเป็นจุดเริ่มสงครามครูเสตถึง 3 ครั้งในราวศตวรรษที่11 เราจะเข้า ชมหาวิหารที่ความ ยิ่งใหญ่เทียบเท่ามหาวิหารนอร์ทเทอดามในกรุงปารีส มหาวิหารแซ็งต์ แมรี่ มาเดลีน Basilique Sainte-Marie-Madeleine มหาวิหารของนักบวช เบเนดิก Benedictine และ คลูนิค Cluniac เป็นผลงานชิ้นเอกของสถาปัตยกรรมและประติมากรรมแบบโรมัน – เบอร์กันเดียน  มหาวิหารนี้ ยังเป็นที่เก็บอัฐิธาตุของนักบุญแมรี่ มาเดลีนซึ่งเคลื่อนย้ายมาจากโบสถ์ แซ็งต์ แม็กซิมอง St. Maximin ในโพรวองซ์ราวศตวรรษที่10 เราจะเดินชม ความเก่าแก่และความขลังภายในวิหารและชมปูนปั้น ที่วิจิตรงดงามตามเสาและทางเดินภายใน 
 
-After breakfast, We will start our day with Fontenay abbey, one of the oldest and most preserved cisterian monastery in France.  Founded in 1118,  the abbey was built with a mixture of  Gothic and Romanesque mix architecture style. Though slitly stricken, the complex composed of church, caldarium, dormitory, dovecote, cloister still retain their original architecture.  The abbey became a UNESCO World Heritage site in 1981.
+### Day 9:  วันที่9 หมู่บ้านยุคกลางจำลอง Chantier Médiéval de Guédelon, เมืองออกแซร์ Auxerre
 
-Move on next to Les Grandes Forges de Buffon, a precious witness of steel industry in XVIII century. Built in 1768, the factory used to employed over 300  workers
+หลังอาหารเช้าเราจะให้เวลาอิสระช่วงเช้าเดินเล่นตลาดและช้อปปิ้งของที่ระลึกและเก็บตกถ่ายภาพภายในเมืองชาริเต้ ซูร์ ลัวร์ กันอีกสักพัก หลังจากนั้นเราจะขึ้นไทม์แมชชีนของเรามุ่งหน้าสู่ที่ตั้งของโปรเจคจำลองการสร้างปราสาทเกเดอลอง Guédelon ในสมัยศตวรรษ ที่1
 
-Proceed to Ancy-le-Franc to visit the Chateau d'Ancy-le-Franc,  an amazing Renaissance palace on the land of the Dukes oF Burgundy.
-Wander the biggest Renaissance murals (16th and 17th centuries) in France,
+หลังอาหารเที่ยง เราจะพาท่านย้อนเวลากลับไปในสมัยศตวรรษที่13 เพื่อชมการสร้างเมืองแบบเก่าแก่โดยวิธีการตามแบบยุคกลางหมู่บ้าน เกเดอลอง Guédelon ได้จำลองการใช้ชีวิตและการทำงานตามแบบศตวรรษที่13 เราจะมาเรียนรู้การสร้างบ้านและสิ่งก่อสร้างอื่นๆรวมทั้งได้ ทดลองจับอุปกรณ์ก่อสร้างในสมัยก่อน จุดประสงค์ของโปรเจคหมู่บ้านยุคกลางจำลองนี้เพื่อบอกเล่าวิถีชีวิตและการก่อสร้างอาคารโดยใช้อุปกรณ์ ที่หา จากแหล่งไกล้เคียงและมีผู้เชี่ยวชาญให้ความรู้เกี่ยวกับการออกแบบและสร้างสรรค์งานให้กับนักศึกษาฝึกงานด้านวิศวกรรมโยธาและเป็น งานสร้างงานให้กับประชากรและอาสา สมัครกว่า200ชีวิตที่แวะเวียนกันมาทดลองงานที่นี่พร้อมทั้งดึงดูดนักท่องเที่ยวจากทุกที่ที่ต้องการเรียนรู้ เกี่ยวกับการก่อสร้างสมัยยุคกลาง
 
-Next, head on to the medieval town of Noyer-sur-Serein, classified as one of the most beautifull village in France. Enter through one of the 19 fortified gates still standing ( 23 in past ),  explore the colombage and stone house and the historical monuments ( 78 in the town ! ). 
+ช่วงบ่ายเราจะมุ่งหน้าสู่เมือง ออกแซร์ Auxerre เหมืองหลวงในเขต ยอนน์Yonne  ใหญ่เป็นอันดับ4ในแคว้นเบอร์กันดี เมืองแกลโลโรมันที่รุ่งเรือง ในอดีตที่เรียกว่า ออทิสโซโดรัม Autissiodorum เมืองเบอร์กันเดียนภายใต้การปกครองของกษัตริย์หลุยส์ที่11ต้องเผชิญกับสงคราม100ปี และ สงครามศาสนาในศตวรรษที่15 เมืองโดนยึดและโบสถ์คาทอลิกส่วนใหญ่ได้รับความเสียหายและกำแพงป้อมก็ถูกทำลาย ต่อมาในศตวรรษที่18 จากนั้นในศตวรรษที่19 โครงสร้างพื้นฐานจำนวนมากก็ถูกสร้างขึ้นทั้งสถานีรถไฟ, โรงพยาบาลจิตเวชและศาลกลายเป็นย่านพัฒนาใหม่ทางฝั่ง ขวาของเขตยอนน์ เราจะทานอาหารค่ำและเข้าที่พักในตัวเมือง
 
-Next, we will move on to Semur-en-Auxois for checkin
-Dinner and night at Semur-en-Auxois
+### วันที่10    คฤหาสน์ตองเลย์ Château de Tanlay , Chablis Crus - Les Caves Bailly Lapierre
 
+หลังอาหารเราจะไปคฤหาสน์ตองเลย์ Château Tanlay สร้างขึ้นในช่วง ศตวรรษที่16-17 มีชื่อเสียงเรื่องของความงามและทำเลที่ตั้งของอาคาร กำแพงสร้างจากหินปูน มีอาคารรูปทรงกระบอกที่มุมทั้งสี่ของอาคารทั้งสามด้านที่ล้อมรอบสวนตรงกลางเปลี่ยนเจ้าของมา 2 ครั้งจนในปัจจุบันตระ กูลตองเลย์ Tanlay รับช่วงดุแลคฤหาสน์ เราจะเดินทางต่อไปยัง ชาบลีส์ Chablis เขตไวน์ทางตอนเหนือสุดของแคว้นเบอร์กันดีไร่ไวน์ทั่วเมือง ชา
 
-### Day 7: Semur-en-Auxois - Epoisses - Avallon
-After breakfast, visit the picturesque town of Semur-en-Auxois , and discover the remaining part of the 13th century castle.
-Discover the fortifications, 6 medieval gates used for communicate along the different quarter in the city, its dunjeons composed of 4 massive towers dates from the XVIII century. 
-We continue to the most imposing towers with it's 44 meters high. Stroll inside the 5 different levels of this impressive building, hosting  a collection of archeological finds and art folk art.
+บลีส์ส่วนใหญ่เป็นพันธุ์ ชาร์ดองเน Chardonnay เราจะแวะ ตามไร่องุ่นและชมห้องใต้ดินบ่มไวน์พร้อมชิมไวน์จากหนึ่งในเจ้าของสวนในเขตนี้
 
-Then, take a stroll inside the weath cobbled and narrow cobble streets lined with ancient timbered style houses, the old boutiques and cafes.
-Visit also the Gothic church ND,  the highlight in the main square, dates from the 13th century.
+หลังอาหารเที่ยงเราจะนั่งรถผ่านไร่ไวน์และแวะที่เมืองอีรองซี Irancy หมู่บ้านไวน์ที่มีวิวทิวทัศน์สวยงามและเป็นหนึ่งไร่ไวน์ในฝรั่งเศสที่ขึ้นชื่อเรื่อง ไวน์แดงเนื่องจากแร่ธาตุในดินอุดมสมบูรณ์มากทำให้คุณภาพและรดชาดขององุ่นดีและสด เราจะเลาะตามแม่น้ำยอนน์ Yonne มุ่งหน้าสู่ ไบเล่ย์ ลาเพียร์ Bailly Lapierre เหมืองหินเก่าลึกลงไป50เมตร เพื่อเยี่ยมชมห้องใต้ ดินบ่มไวน์ และชิม Sparkling wine 
 
-We will then enjoy a beautifull view over the remains of the castle  from the medieval bridge along Armancon river.
+ช่วงบ่ายให้ท่านได้เลือกซื้อไวน์ติดไม้ติดมือและพักผ่อนตามสมควร หลังจากนั้นเราจะเดินทางกลับเข้าเมือง ออกแซร์ Auxerreเพื่อทานอาหาร ค่ำและเข้าที่พัก
 
-Next, we will head on to Avallon,  stop to the city of Epoisses first, famous for it's AOC quality label cheese created by 16th century Cisetrian monks. You will have the opportunity to taste different cheese at different maturity during the visit at the chateau d'Epoisses, with traces of constructions prior to the eighth century.
 
-Continue to Avallon, near the Morvan forest.  Discover the picturesque place Saint-Lazare and it's 12th century Romanesque church. 
-Wander The clock tower will give you access to the historical part of the city, it's old houses, the towers, the cobbled streets,  and the watchtowers and 
-enjoy the beautifull view over the valley from the rocky granite perched city.
 
-Dinner and night around Avallon. 
+### วันที่11    เมืองออกแซร์ Auxerre - วิหารแซ็งต์ เอเตียน Cathédrale Saint-Étienne – พิพิธภัณฑ์อารามแซ็งต์ โรเมน Musée-Abbaye Saint-Germain, อารามหลวง ปองตินี่ Abbaye de Pontigny (Unseen)
 
-### Day 8:  Vezelay -- Basilica Sainte-Marie Madeleine (UNESCO) - La Charite-sur-Loire (UNESCO)  
-After breakfast, head on to Vezelay, the "eternal hill",  medieval village listed as UNESCO World Heritage, closely associated with Crusades. We will take a guided visit to the Basilica, St. Mary Magdalene (Sainte-Marie Madeleine ), a masterpiece of Romanesque architecture and sculpture. 
+หลังอาหารเช้าเราจะเข้าชมวิหารแซ็งต์ เอเตียน Cathédrale Saint-Étienne ผลงานชิ้นเองของสถาปัตยกรรมเบอร์กันเดียน – โกธีค สร้างในช่วง ศตวรรษที่12 เหนืออุโมงค์ฝังศพใต้ดินสไตล์โรมาเนสสร้างในศตวรรษที่11 และซ่อมแซมใหม่ในศตวรรษที่16 ชมหอระฆังสูง63เมตร ภายในโบสถ์ ประดับด้วยกระจกสีและปูนปั้นต่างๆที่วิจิตรบรรจง และยังมีจัดแสดงของสะสมสูงค่ากว่า400ชิ้น อาทิพระคัมภีร์ที่เขียน ด้วยมือในศตวรรษ ที่15-16 หรือเครื่องประดับทางศาสนาทำด้วยทอง หลังจากนั้นเราจะเข้าชมพิพิธภัณฑ์ แซ็งต์ เยอรเมน Musée-Abbaye Saint-Germain ซึ่งในอดีต เคยเป็นอารามหลวงของนักบวชคาโรลีเจียน Carolingian, พิพิธภัณฑ์จัดแสดงของสะสมยุคก่อนประวัติศาสตร์, ยุคแกลโลโรมัน, ยุคกลาง และ เมดิเตอร์เรเนียน, เราจะได้ชมที่พักเจ้าอาวาสในศตวรรษที่18, ทางเดินในตัวอารามในศตวรรษที่17, ห้องเก็บของในศตวรรษที่14, ห้องพิธีกรรม และ ห้องประชุม พระสงฆ์ในศตวรรษที่12, ห้องของพระสงฆ์และหอพักเก่าทั้งสองห้องได้บูรณะในศตวรรษที่17
 
-Next, we will head on to la Charite-sur-Loire, medieval city surrounded by ramparts and numbers of vestiges, laying on the bank of the Loire river.
-In the heart of the city, we will first visit the 12th century Cluniac priory church of Notre Dame, a remarkable example Burgundian Romanesque art.
-Classified as historical monument in 1840, it became a UNESCO World Heritage site in 1998 as part of the way to St james. 
+หลังอาหารเที่ยงเราจะเดินข้ามสะพานพอล แบร์ Paul Bert เพื่อชมทัศนียภาพของ ฝั่งแม่น้ำยอนน์ Yonne หลังจากนั้นอิสระให้ทุกท่านเดินเที่ยว ในตัวเมืองแวะชมและถ่ายรูปกับหอนาฬิกาดุจเทพนิยายและซุ้มประตูโค้งสมัยศตวรรษที่15ซึ่งเป็นสัญลักษณ์ทางเข้าของเมือง เดินเที่ยวชมสองฝั่ง ทางที่เรียงรายด้วยบ้านสไตล์ยุคกลาง ถนนหินคลาสสิกและเดินชมสินค้าพื้นเมืองตามอัธยาศัย  
 
-Stroll inside the benedictin monastery complex, the Sainte-Croix belltower,  the monk's cellar, the impressive Gothic portail , the VIII century cloister, the beautifull benedictin's garden, where the ruins of the ancient church Saint-Laurent remains. 
+ช่วงบ่ายเราจะนั่งรถเข้าสู่ตัวเมืองซอง Sens เพื่อรับประทานอาหารค่ำและเข้าที่พัก
 
-After lunch, stroll around the priory, explore and admire the attractions of this historical quarter, the picturesque cobbled narrow streets and passages, the ancient defensive ramparts. Wander the numbers of shop dedicated to the world of old books, ancient bookstores, book dealers, tradionnal calligraphers and book-binders.
 
-Take a walk down to the stone-arched bridge for taking pictures  along the river of the gray rooftops of the village.
-Late afternoon will also offer you fine landscape-cityscape pictures opprtunities from the city island part, located in the middle of Loire river. 
+###วันที่12 เมืองซองซ์ Sens, ปารีส Paris
 
-Dinner and Night in la Charite-sur-Loire.
+หลังอาหารเช้าเราจะเที่ยวในเมืองซองส์ Sens เมืองโบราณที่มี ประวัติย้อนกลับไปเมื่อวันที่ฝรั่งเศสยังเป็นดินแดนเซลติก Celtic จากยุคที่โรมันปก ครองและสังฆราชมีอำนาจ Archbishops ในช่วงยุคกลางทำให้ เมืองซองซ์มีชื่อเสียงเรื่องโบสถ์สไตล์กอธิค เมื่อปารีสเริ่มมีอำนาจและทรง อิทธิพล, เมืองซองส์ก็ถูกลดความสำคัญลงซึ่งมีผลทำให้เมืองซองซ์ Sens ยังอุดมไปด้วยมรดกทางวัฒนธรรมของอาคาร และ กลิ่นอายของประวัติศาสตร์ ที่ยังคงสมบูรณ์จนทุกวันนี้ เราจะเข้าไปชมโบสถ์แซ็งต์เอเตียนแห่งเมืองซองซ์  Cathédrale Saint-Étienne de Sens สิ่งปลูกสร้างแบบโกธีคที่มีรูป ลักษณ์ภายนอกที่น่าประทับใจและหน้าต่างสลักลายกุหลาบ ถือว่าเป็นอาคารแบบโกธีคในช่วงต้นศตวรรษเพราะการก่อสร้างเริ่มในปี1140 แต่ คริสตจักรยังไม่เสร็จสมบูรณ์อย่างเต็มที่ 
+หลังอาหารเช้าเราจะเที่ยวในเมืองซองส์ Sens เมืองโบราณที่มี ประวัติย้อนกลับไปเมื่อวันที่ฝรั่งเศสยังเป็นดินแดนเซลติก Celtic จากยุคที่โรมันปก ครองและสังฆราชมีอำนาจ Archbishops ในช่วงยุคกลางทำให้ เมืองซองซ์มีชื่อเสียงเรื่องโบสถ์สไตล์กอธิค เมื่อปารีสเริ่มมีอำนาจและทรง อิทธิพล, เมืองซองส์ก็ถูกลดความสำคัญลงซึ่งมีผลทำให้เมืองซองซ์ Sens ยังอุดมไปด้วยมรดกทางวัฒนธรรมของอาคาร และ กลิ่นอายของประวัติศาสตร์ ที่ยังคงสมบูรณ์จนทุกวันนี้ เราจะเข้าไปชมโบสถ์แซ็งต์เอเตียนแห่งเมืองซองซ์  Cathédrale Saint-Étienne de Sens สิ่งปลูกสร้างแบบโกธีคที่มีรูป ลักษณ์ภายนอกที่น่าประทับใจและหน้าต่างสลักลายกุหลาบ ถือว่าเป็นอาคารแบบโกธีคในช่วงต้นศตวรรษเพราะการก่อสร้างเริ่มในปี1140 แต่ คริสตจักรยังไม่เสร็จสมบูรณ์อย่างเต็มที่
 
-### Day 9:  La Charite-sur-Loire (UNESCO) - Chantier Médiéval de Guédelon
+หลังจากนั้นเราจะเข้าชมปาเลส์ ซีโนดาล Palais Synodal อดีตวังพระสังฆราชในศตวรรษที่13 ซึ่งปัจจุบันได้กลายเป็นพิพิธภัณฑ์ที่บอกเล่า เรื่องราวของเมือง เราจะเดินชมราชสำนักของพระสงฆ์ คุกใต้ดินและห้องขังนักโทษในสมัยยุคกลางที่ยังมีลายผนังที่เขียนโดยนักโทษในสมัยก่อน และห้องจัดแสดงวัตถุโบราณสมัยแกลโลโรมันและภาพเขียนโบราณทอมือบนผนังโบสถ์ หลังจากนั้นอิสระเดินเล่นในเมือง 
 
-After breakfast, we continue the visit of the old city, depending of what we missed on preivous day and make to wander some souvenirs boutiques as well.
+เที่ยงเดินทางสู่สนามบินปารีส
 
-Then, we will take luch along the way and go back in time at the unique construction  site of Guédelon castle ,  the recreation of a 13th century medieval castle project located in Treigny. Learn how theses castle were built in middle age, visit the craftmen at works and in their lodges, and wander their ancient art and craft they deploy. Or if you prefer, a english guide will explain the nitty-gritty of the build on an hour-long tour. A great educational afternoon. 
-
-Next, we will head to Auxerre.Dinner and night at Auxerre.
-
-### Day 10: Chateau de Tanlay - Vineyards of Chablis - Bailly-Lapierre (Unseen)
-
-After breakfast, head on to Tanlay visiting it's châteaux. Built on the bank of the Canal de Bourgogne, surrounded by beautiful moat,  it is one of the most elegant Renaissance châteaux in burgundy. 
-
-We will continue to Chablis, the northern most wine district of the Burgundy.
-We will start our day with the discovery the of the town and it's vineyards. We will visit a local cellar and a wine tasting.
-
-We will have a lunch in a local traditionnal restaurant in Chablis or if you prefer a Michelin starred establishment, the Hostellerie des Clots.
-
-After lunch, we will drive to through Auxerre vineyards and stop at the spectacular viewpoint over the vineyards at the village of Irancy. 
-Along the Yonne river, we will head to Bailly-Lapierre cellars,  a former quarry carved under 50 meters,  for a guided visit and a tasting of sparkling wine.
-
-Late after couple glass of wine,  we will drive back to Auxerre. Dinner and night at Auxerre.
-
-### Day 11: Auxerre - Abbaye de Pontigny (Unseen)
-Auxerre and his historical center - the second largest preserved in Burgundy.
-After breakfast, we will visit the Cathedral of Saint-Etienne, a imposing Gothic style building date from 11th century and then rebuilt in 16th century.
-Inside the church, enjoy the stained glass window, some of the most beautifull in France and the 11th century crypt.
-
-Disover also the beautifull benedicitne abbey church of Saint German. Wander it's carolingian crypt, decorated with the oldest murals knows in France.
-
-Enter in the old city by the picturesque rue de l'Horloge and it's arched gateway,  admire the  magnificiant 15th century clocktower stand, explore the architecture and ambiance of the street. Stoll in a coffee shop and the medieval cobbled streets,  the ancient houses mostly with half-timbered facades ,  wander some shop and local boutiques. 
-
-Take a walk down to the brigde Paul bert for admire the beautifull view from the Yonne river, take sone nice souvenirs pictures of old cityscape.
-
-After lunch along the river Yonne, head on to the abbey of Pontigny. Built in 12th century, it is one of oldest Cistercian Monument in France. With over 120 meters long, it's also the biggest Cistercian church in Europe and a splendid example of the Cistercian architecture. 
-Feel the serenity, witness the monastic silence by passing the impressive entrance of the abbey and notice the clean lines and perfect proportion in the interior. 
-
-We will drive to Sens for our last night in Burgundy. Dinner and night at Sens.
-
-###Day 12: Sens - Paris
-
-For the very last day,  start the visit of Sens with the very first Gothic monument built in France, the Cathedral St Etienne.
-
-Next, proceed to the 13th century Palais Synodal, former Archbishops Palace. At ground floor, discover the Ecclesiastical court (salle de l'Officialité) ,witness the dungeons, rare example of medieval prisons full of anciens graffiti on the walls made by prisonners. Continue on first floor now housing several museum collection, Gallo-roman antiquities and ancien tapestries from the cathedrale.
-
-Stroll along the lovely streets of the town full of expensive boutiques set in medieval colombages houses, the Poterne Garnier des Près , last Gallo Romain vestige surrounding the city. Cross the bridge and enjoy a walk along the bank of Yonne river overlooked by the church St-Maurice before departuring to Paris.
-
-We will  then drive to Paris - Charles de Gaulle airport - Flight back to Bangkok.
-End of the tour.
 
 
 

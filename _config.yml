@@ -4,6 +4,7 @@ author: paitiewfrance
 permalink: pretty
 
 url: "http://paitiewfrance.com"
+url: "http://localhost:4000"
 
 
 
@@ -47,6 +48,9 @@ navigation:
   - label:  ทัวร์แคว้นมีดี-ปีเรเน (Midi-Pyrénées)
     title: ทัวร์แคว้นมีดี-ปีเรเน (Midi-Pyrénées)
     url: /tour-aveyron-tarn
+  - label:  ทัวร์ แคว้นอาลซัส Alsace
+    title:  ทัวร์ แคว้นอาลซัส Alsace
+    url: /tour-alsace
   - label: เกี่ยวกับไปเที่ยวฟรานซ์
     title: เกี่ยวกับไปเที่ยวฟรานซ์
     url: /about

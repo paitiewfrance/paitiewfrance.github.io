@@ -40,54 +40,21 @@ Dinner and night in Dijon.
 Option: 
 After dinner, we can have a evening walk together  enjoy the Place de la Liberation ( Palace of the Duke ) illuminated and old city streets by night and eventually some music events.
 
-### Day 2:  Route des Grands Crus
+### Day 2: Chateauneuf-en-Auxois -  Semur en Auxois - Venarey-les-Laumes - Flavigny  
 
-After breakfast, we will start our day with the legendary Route des Grands Crus and witness the beautifull vineyards
-fields as far as your eyes can see. For over 60 kilometers, we will enjoy this amazing landscape, passing numbers of  picturesque villages producing some of the finest wine in the world.
+After breakfast, we will head on to Chateauneuf-en-Auxois, classified as one of the most beautifull village in France. Built between the 13th and 15th century, the medieval village and its castle are located on a strategic position between Autun and Dijon. Discover the medieval fortified castle,  it's giant round tower and its imposing wall.  A stroll inside the medieval streets, the bars have terraces will give you a nice panoramic view over burgundy's old house and country. 
 
-Along the way, we will stop and enjoy some wine tastings and visiting beautifull chateau. You will have tons of photo oppotunities to take memorable pictures 
-of this unique region.
+We will  drop at the nearby village of Vandesse-en-Auxois, located 1 kilometer away. From here,  the view over Chateauneuf 's castle  will offer you a fine pictures opportunity.
 
-We will first stop at Gevrey-Chambertain, a beautifull medieval village and visiting the picturesque Domaine du Chateau Gevrey-Chambertain, enjoy a wine tasting in the cellar and a nature walk inside the vineyards. Next, we will stop at Chateau Clos de Vougeot, enjoy another wine tasting and admire the huge cistercian wine press of the domain.
+Dinner and night at Montbards or Venarey-les-Laumes.
 
-We will follow the road and crossing  Vosne-Romanée, where the most expensive wine are produces among a numbers of renowed Grand crus. 
+### Day 3: Abbaye de Fontenay ( UNESCO)  - Vezelay and Basilica Sainte-Marie Madeleine (UNESCO) - La Charite-sur-Loire (UNESCO)  
+After breakfast, We will start our day with Fontenay abbey, one of the oldest and most preserved cisterian monastery in France.  Founded in 1118,  the abbey was built with a mixture of  Gothic and Romanesque mix architecture style. Though slitly stricken, the complex composed of church, caldarium, dormitory, dovecote, cloister still retain their original architecture.  The abbey became a UNESCO World Heritage site in 1981.
 
-We will have a lunch at Nuits-Saint-Georges in a local restaurant. Then, stroll into the old downtown, enjoy an expresso and wander the regional food shops, bakeries and wine shops, the church St-Symphorien.
-If time allow, we will visit the Cassissium, museum dedicate to the Blackcurrants and the Imaginarium, museum dedicated to sparkling wine.
-
-We will  then continue our road, crossing many picturesque villages and stop at the Chateau de Pommard,  probably the largest private vineyard in Burgundy.
-
-Our first day of the Route des Grands Crus will conclude for a wine tasting at the Chateau de Meursault. We will have a guided visit to the cellar, one the largest wine cellar in Burgundy.
-
-Time to checkin to our accomations in Meursault.
-Dinner and night at Meursault.
-
-### Day 3:  Route des Grands Crus - Beaune
-
-After breakfast, we will continue the Route des Grands Crus at Santenay, visiting its beautifull castle and domain
-
-Next, we will drive to Beaune, capital of Burgundy wine. Enclosed within its ramparts lies Beaune’s hidden treasures.
-We start with the visit the old city, based on famous Hotel Dieux ( Les Hospices de Beaune ), a medieval hospital complex dedicated to help poors sick people. Admire the half-timbered architecture of the Hotel.
-
-Stroll inside the picturesque cobbled streets line with half-timbered houses and . Wander the ramparts and stronghold enclosing the old city, the clock tower, dating from the 12th century, classified historical monument, visit the Collegiate church of ND, located in a Gallo-roman castrum.
-
-The city as a worlwide reputation for it's gastronomy. As such, we suggest the Abbaye de Maizières, a gorgeous place to discover burgundy finest cuisine. 
-Dinner and night in Beaune.
+Next, we will proceed to Vezelay, the "eternal hill",  medieval village listed as UNESCO World Heritage, closely associated with Crusades. We will take a guided visit to the Basilica, St. Mary Magdalene (Sainte-Marie Madeleine ), a masterpiece of Romanesque architecture and sculpture. 
 
 
-### Day 4:   
-After breakfast, head on to south burgundy, make a stop at the charming hilltop village of Bancion. Stroll inside the narrow streets lined with old houses, visit it's beautifull medieval castle, offering a beautifull panoramic view over the countryside. 
-
-Next head on to Cluny to visit it's majestic abbey. Built in 910, formely 187 meters long and 30 meters large, the abbey church was the largest in Christendom until the construction of the St Peter's Basilica in Rome in 16th century. Take a walk inside the abbey and admire the he soaring Romanesque vaults and the brightness of the sanctuary.
-
-Next,  we will visit Berze-le-Chatel and it's medieval fortress flanked by thirteen towers and offering also a wonderfull view over the countryside. 
-Next, head on to La Roche de Solutre ( Solutre rock), an important prehistoric site that has been awarded the "Great Site of France" label.
-
-We will drive back to Cluny to spend a night.
-Dinner and Night at Cluny.
-
-
-### Day 5:  La Charite-sur-Loire (UNESCO)  
+### Day 4:  La Charite-sur-Loire (UNESCO)   
 After breakfast, take a 1 hour and half drive to La Charite-sur-Loire, medieval city surrounded by ramparts and numbers of vestiges, laying on the bank of the Loire river.
 In the heart of the city, we will first visit the 12th century Cluniac priory church of Notre Dame, a remarkable example Burgundian Romanesque art.
 Classified as historical monument in 1840, it became a UNESCO World Heritage site in 1998 as part of the way to St james. 
@@ -101,19 +68,15 @@ Late afternoon will also offer you fine landscape-cityscape pictures opprtunitie
 
 Dinner and Night in la Charite-sur-Loire.
 
-### Day 6: Vezelay -- Basilica Sainte-Marie Madeleine (UNESCO) - Abbaye de Fontenay ( UNESCO) 
+### Day 6: Vezelay -- Basilica Sainte-Marie Madeleine (UNESCO) - Abbaye de Fontenay ( UNESCO)  
 After breakfast, head on to Vezelay, the "eternal hill",  medieval village listed as UNESCO World Heritage, closely associated with Crusades. We will take a guided visit to the Basilica, St. Mary Magdalene (Sainte-Marie Madeleine ), a masterpiece of Romanesque architecture and sculpture. 
 
 Next, we will head to Auxerre.Dinner and night at Chablis.
 
-### Day 7: Vineyards of Chablis - Abbaye de Pontigny (Unseen) 
+### Day 7: Auxerre - Abbaye de Pontigny (Unseen) 
 
-After breakfast, head on to Tanlay visiting it's châteaux. Built on the bank of the Canal de Bourgogne, surrounded by beautiful moat,  it is one of the most elegant Renaissance châteaux in burgundy. 
 
-We will continue to Chablis, the northern most wine district of the Burgundy.
-We will start our day with the discovery the of the town and it's vineyards. We will visit a local cellar and a wine tasting.
-
-We will have a lunch in a local traditionnal restaurant in Chablis or if you prefer a Michelin starred establishment, the Hostellerie des Clots.
+Dinner at Auxerre
 
 ###Day 8: Sens - Paris
 

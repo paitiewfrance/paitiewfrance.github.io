@@ -73,55 +73,40 @@ The city as a worlwide reputation for it's gastronomy. As such, we suggest the A
 Dinner and night in Beaune.
 
 
-### Day 4:   Brancion - Cluny - Berze-le-Chatel - Solutré-Pouilly
+### Day 4:   Abbey of Citeaux - Autun
+After breakfast, head on to Saint-Nicolas-lès-Cîteaux to visit the  Abbey of Citeaux. Built in 1098, it is the birthplace of cistercian order and was a major spiritual center in Europe for more than 7 centuries. We will be guided by a monk for a walking tour of the historcial buildings. At the end of the visit, we will stop at the 
+abbey store for some souvenir ( cheese, dvds, teas, art objects).
+
+We will drove back to Nuits Saint georges for a lunch before heading to Autun at about 60 kilometers from the abbey. Surrounded by ramparts, the historic center of Autun houses a rich architectural heritage. We will start our visit in the heart of the city with Saint-Lazare cathedral, a finest examples of Cluniac architecture built in 12th century. Famous for it's carvings and sculptures, we will wander  the superb last judgement sculpture at the main doorway and admire the carved  Romanesque capital stones  in the interior.
+
+Next, take a stroll inside the medieval narrow streets of the old city
+
+We will visit the remains of the antique Roman theater, said to be the largest in Gaul period and could host over 20.000 people.
+
+
+Dinner and Night at Autun.
+
+
+### Day 5:  Castle of Couches -  Brancion - Tournus
+After breakfast, we will head on to the visit the castle of Couches, 
+
 After breakfast, head on to south burgundy, make a stop at the charming hilltop village of Bancion. Stroll inside the narrow streets lined with old houses, visit it's beautifull medieval castle, offering a beautifull panoramic view over the countryside. 
+
+### Day 6: Château de Digoine -- Paray-le-Monial - Semur-en-Brionnais
+After breakfast, 
+
+### Day 7: Cluny - Berzé-la-Ville - Château de Pierreclos - Macon
+
+Next,  we will visit Berze-le-Chatel and it's medieval fortress flanked by thirteen towers and offering also a wonderfull view over the countryside. 
+After breakfast, 
 
 Next head on to Cluny to visit it's majestic abbey. Built in 910, formely 187 meters long and 30 meters large, the abbey church was the largest in Christendom until the construction of the St Peter's Basilica in Rome in 16th century. Take a walk inside the abbey and admire the he soaring Romanesque vaults and the brightness of the sanctuary.
 
-Next,  we will visit Berze-le-Chatel and it's medieval fortress flanked by thirteen towers and offering also a wonderfull view over the countryside. 
-Next, head on to La Roche de Solutre ( Solutre rock), an important prehistoric site that has been awarded the "Great Site of France" label.
+Dinner at Macon
 
-We will drive back to Cluny to spend a night.
-Dinner and Night at Cluny.
+###Day 8: Macon - Paris
 
-
-### Day 5:  La Charite-sur-Loire (UNESCO)  
-After breakfast, take a 1 hour and half drive to La Charite-sur-Loire, medieval city surrounded by ramparts and numbers of vestiges, laying on the bank of the Loire river.
-In the heart of the city, we will first visit the 12th century Cluniac priory church of Notre Dame, a remarkable example Burgundian Romanesque art.
-Classified as historical monument in 1840, it became a UNESCO World Heritage site in 1998 as part of the way to St james. 
-
-Stroll inside the benedictin monastery complex, the Sainte-Croix belltower,  the monk's cellar, the impressive Gothic portail , the VIII century cloister, the beautifull benedictin's garden, where the ruins of the ancient church Saint-Laurent remains. 
-
-After lunch, stroll around the priory, explore and admire the attractions of this historical quarter, the picturesque cobbled narrow streets and passages, the ancient defensive ramparts. Wander the numbers of shop dedicated to the world of old books, ancient bookstores, book dealers, tradionnal calligraphers and book-binders.
-
-Take a walk down to the stone-arched bridge for taking pictures  along the river of the gray rooftops of the village.
-Late afternoon will also offer you fine landscape-cityscape pictures opprtunities from the city island part, located in the middle of Loire river. 
-
-Dinner and Night in la Charite-sur-Loire.
-
-### Day 6: Vezelay -- Basilica Sainte-Marie Madeleine (UNESCO) - Abbaye de Fontenay ( UNESCO) 
-After breakfast, head on to Vezelay, the "eternal hill",  medieval village listed as UNESCO World Heritage, closely associated with Crusades. We will take a guided visit to the Basilica, St. Mary Magdalene (Sainte-Marie Madeleine ), a masterpiece of Romanesque architecture and sculpture. 
-
-Next, we will head to Auxerre.Dinner and night at Chablis.
-
-### Day 7: Vineyards of Chablis - Abbaye de Pontigny (Unseen) 
-
-After breakfast, head on to Tanlay visiting it's châteaux. Built on the bank of the Canal de Bourgogne, surrounded by beautiful moat,  it is one of the most elegant Renaissance châteaux in burgundy. 
-
-We will continue to Chablis, the northern most wine district of the Burgundy.
-We will start our day with the discovery the of the town and it's vineyards. We will visit a local cellar and a wine tasting.
-
-We will have a lunch in a local traditionnal restaurant in Chablis or if you prefer a Michelin starred establishment, the Hostellerie des Clots.
-
-###Day 8: Sens - Paris
-
-For the very last day,  start the visit of Sens with the very first Gothic monument built in France, the Cathedral St Etienne.
-
-Next, proceed to the 13th century Palais Synodal, former Archbishops Palace. At ground floor, discover the Ecclesiastical court (salle de l'Officialité) ,witness the dungeons, rare example of medieval prisons full of anciens graffiti on the walls made by prisonners. Continue on first floor now housing several museum collection, Gallo-roman antiquities and ancien tapestries from the cathedrale.
-
-Stroll along the lovely streets of the town full of expensive boutiques set in medieval colombages houses, the Poterne Garnier des Près , last Gallo Romain vestige surrounding the city. Cross the bridge and enjoy a walk along the bank of Yonne river overlooked by the church St-Maurice before departuring to Paris.
-
-We will  then drive to Paris - Charles de Gaulle airport - Flight back to Bangkok.
+For the very last day,  we take tgv back to Paris. Free time to the capital for shopping before flight back to Bangkok
 End of the tour.
 
 
