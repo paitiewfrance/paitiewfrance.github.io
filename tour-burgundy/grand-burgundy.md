@@ -11,7 +11,7 @@ sitemap:
 meta: เที่ยวฝรั่งเศส,ทริปส่วนตัว,เที่ยวโปรวองซ์,ฝรั่งเศสตอนตอนใต้
 duration: 12วัน / 11คืน
 img: /burgundy/chambertain.jpg
-intro: Disover the Burgundy in depth with us. From Dijon to Beaune, experience great wine throught the legendary Route des Grands Crus, admire the countless   medieval villages and endless vineyards. On the northern part, wander the UNESCO World Heritage Sites of Vezelay and the Fontenay abbey.  And much more with this 12 days tour.  Welcome to Burgundy. 
+intro: ท่องแคว้นเบอร์กันดีแบบเจาะลึกไปกับเรา จากเมืองมัสตาร์ด ดิจอง Dijon จนถึง เมืองไวน์ โบน  Beaune เดินตามรอย เด กรองด์ ครูส์ Des Grande Crus เส้นทางแห่งไวน์ เดินย้อนเวลาเที่ยวชมหมู่บ้านยุคกลางที่ยังคงรักษาความเป็นยุคกลางได้สมบูรณ์ที่สุดในฝรั่งเศส และดื่มด่ำ ความงามในไร่องุ่นไกลสุดลูกหูลูกตา ชมมรดกโลกที่เวสเลย์ Vezeley และ อารามคาธอลิก ฟอนเทเน่ Fontenay Abbaye ไปกับเรา เพื่อทำความรู้จักกับแคว้นเบอร์กันดีให้มากขึ้น
 prices: 
      - Contact us for 7-10 persons
      - Contact us for 4-7 persons
