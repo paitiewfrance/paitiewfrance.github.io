@@ -6,13 +6,6 @@ body {
     color:$text-color;
 }
 
-// .home h2,
-// .home h3,
-// .home p {
-//     text-align: center;
-//     font-weight: normal;
-//     text-transform: none;
-// }
 
 .home h2 {
     padding: 0;
@@ -204,7 +197,7 @@ ul li  {
             text-align: center;
             height: 3.25em;
             border-radius:50%;
-            background:#E4905F;
+            background:$orange;
             &:last-child {
             	   margin: 0;
             }

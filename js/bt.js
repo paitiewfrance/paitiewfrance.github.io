@@ -32,5 +32,19 @@ jQuery(document).ready(function($){
                	    return false;
                });
 
+               var $input = $('form input, form textarea');
+
+                      $input.focus(function(event) {
+                      	var $list = $(this).parent(),
+                      	       $label = $list.find('label:first');
+                      	       $label.toggleClass('move-up');
+                      }).blur(function(event) {
+                      	var $list = $(this).parent(),
+                      	       $label = $list.find('label:first');
+                      	       $label.removeClass('move-up');
+                      });
+
+
+
 
 });

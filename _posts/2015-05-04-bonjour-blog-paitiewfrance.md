@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Bonjour บล็อกเที่ยวฝรั่งเศส
-meta: 
+meta: Bonjour บล็อกเที่ยวฝรั่งเศส
 ogType: article
-ogTitle: Bonjour บล็อกเที่ยวฝรั่งเศส
+sitemap:
+     priority: .5
+     changefreq: 'weekly'    
 ---
 
 นอกจากไปเที่ยวทริปสนุกๆในฝรั่งเศสกับไปเที่ยวฟรานซ์แล้ว เราเขียนบล็อกเที่ยวฝรั่งเศสนี้ขึ้นมาเพื่อที่จะเล่าเรื่องราวทริปที่น่าสนใจของสถานที่หรือเทศกาลประจำปีของแคว้นต่างๆในประเทศฝรั่งเศส เช่น เส้นทางแห่งไวน์ของ[แคว้นเบอร์กันดี ](http://paitiewfrance.com/tour-burgundy/wonder-northern-burgundy)

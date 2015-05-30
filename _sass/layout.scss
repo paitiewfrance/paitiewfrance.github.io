@@ -1,7 +1,14 @@
 /*- General Layout -*/
 /* Logo */
 
+/*===================================================================TOUR PREVIEW===============================================================================*/
 
+.tour-preview {
+    width: 100%;
+    display: block;
+    background:red;
+    height: 250px;
+}
 
 #logo {
     display: block;
@@ -407,15 +414,24 @@ a.test {
 /*=================================================== FORM DESIGN =======================================================*/
 
 form {
+    margin-top: 2.5em;
     ul {
         margin-bottom: 1.25em;
     }
     ul li {
         width: 100%;
-        margin-bottom: .75em !important;
+        position: relative;
+        display: block;
+        margin-bottom: 1.75em !important;
         label {
             font-size: .75em;
-            display: block;
+            display: inline-block;
+             padding: .35em 1.25em;
+            pointer-events: none;
+            transition: all .25s linear;
+            position: absolute;
+            top:.8em;
+            left:0;
             text-transform: uppercase;
         }
     }
@@ -430,7 +446,7 @@ form {
         &:focus {
             outline: none;
             border-color: rgba(black, .15);
-            box-shadow: 0 0 0 8px rgba(black, .078);
+            box-shadow: 0 0 0 6px rgba(black, .078);
         }
         &._gotcha {
             display: none;
@@ -479,17 +495,29 @@ form {
         ul li {
             float: left;
             margin: 0 5% 0 0;
+            margin-bottom: 2.5em !important;
             width: 47.5%;
             &:nth-child(2), &:nth-child(4) {
                 margin-right: 0;
             }
             &.full {
-                float: none;
                 margin: 0;
                 width: 100%;
             }
         }
     }
+}
+
+
+.move-up {
+    transition: all .25s linear;
+    background:$nav;
+    border-radius: .15em;
+    padding: .35em 1.25em;
+    color:white;
+    top:-1.85em;
+    left:-.75em;
+    font-weight: bold;
 }
 
 .message-send {
