@@ -1,6 +1,8 @@
 /*- General Layout -*/
 /* Logo */
 
+
+
 #logo {
     display: block;
     border-radius: 50%;
@@ -14,7 +16,7 @@
 }
 /* Navigation */
 
-$nav:#95CCE0;
+$nav: #ADAAA7;
 $nav-link: white;
 nav {
     width: 14rem;
@@ -31,6 +33,7 @@ nav {
     text-align: center;
     ul li {
         font-family: $sans;
+        width: 100%;
         margin-bottom: 0;
     }
     a {
@@ -52,7 +55,7 @@ nav {
         }
         &:hover {
             color: $nav-link;
-            background: darken($nav, 3);
+            background: darken($nav, 25);
         }
         &:focus,
         &:visited {
@@ -150,6 +153,7 @@ nav.menu-open {
 
 $header-bg:#197E9A;
 $header-bg:#95CCE0;
+$header-bg:#383838;
 #header {
     background: $header-bg;
     height: auto;
@@ -327,10 +331,9 @@ a.test {
 .center {
     text-align: center;
     a.print {
-        background: #405860;
+        background: darken($nav, 35);
         color: white;
         font-weight: 300;
-        transition: background .15s linear;
         display: inline-block;
         padding: .5em .75em;
         border-radius: 2px;
@@ -519,9 +522,9 @@ form {
 }
 /*======================================== FOOTER DESIGN ============================================*/
 
-$footer: #30BDD7;
-$footer: #538293;
-$footer-color: #7AADBB;
+$footer: #DCDBD9;
+$footer-color: darken( $footer, 32);
+
 footer {
     background: $footer;
     color: #7AADBB;
@@ -530,14 +533,14 @@ footer {
     }
     p,
     p a {
-        color: white !important;
+        color: $footer-color !important;
     }
     p a {
         text-decoration: underline;
     }
     h2 {
         font-weight: 300 !important;
-        color: white !important;
+        color: $orange !important;
     }
 }
 
@@ -545,7 +548,7 @@ footer {
     width: 100%;
 }
 
-$social: #E4905F;
+$social: $orange;
 
 ul.social {
     margin-top: 1.5em;
@@ -553,7 +556,7 @@ ul.social {
         display: inline-block;
         margin-right: 1em;
         a {
-            color: white;
+            color:  $footer-color;
             font-size: 1.15em;
             transition: color .15s linear;
             position: relative;
