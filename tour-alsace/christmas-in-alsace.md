@@ -5,8 +5,7 @@ meta:
 duration: 8วัน / 7คืน
 tourName:  ทัวร์คริสต์มาสแคว้นอาลซัส
 
-intro: Join us for a 7 fairy tales nights on christmas market's of the most beautifull villages in alsace . strasbourg, the capital of europe, colmar and mulhouse will also seduce you with their large avent market.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium rerum nisi similique provident facere porro aut doloremque eius minus commodi perspiciatis, illum assumenda, aliquam ab illo repellat vitae eligendi quis quibusdam deleniti esse, modi. 
-tourName: christmas in alsace
+intro:
 ---
 
 #ทัวร์อยู่ระหว่างการดำเนินงาน
