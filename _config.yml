@@ -55,6 +55,13 @@ navigation:
   - label:  ทัวร์ แคว้นอาลซัส Alsace
     title:  ทัวร์ แคว้นอาลซัส Alsace
     url: /tour-alsace
+    sub-menu: 
+       - label:  ทัวร์คริสต์มาสแคว้นอาลซัส
+         title:  ทัวร์คริสต์มาสแคว้นอาลซัส
+         url: /tour-alsace/christmas-in-alsace
+       - label: เส้นทางแห่งไวน์
+         title: เส้นทางแห่งไวน์
+         url: /tour-alsace/road-of-wine
   - label: เกี่ยวกับไปเที่ยวฟรานซ์
     title: เกี่ยวกับไปเที่ยวฟรานซ์
     url: /about

@@ -1,7 +1,7 @@
 ---
 layout: tour
-title: christmas in alsace
-meta: Lorem ipsum dolor sit amet, consectetur adipisicing
+title: 
+meta: 
 duration: 12วัน / 11คืน
 tourName: christmas in alsace
 
@@ -9,14 +9,7 @@ intro: Join us for a 8 fairy tales nights on christmas market's of the most beau
 tourName: christmas in alsace
 ---
 
-strasbourg
-Eguisheim
-Riquewihr
-colmar
-mulhouse
-Kaysersberg
-
-Bangkok- Frankfurt
+#ทัวร์อยู่ระหว่างการดำเนินงาน
 
 ### วันที่ 1: Strasbourg ( UNESCO)
 After breakfast, we will start the visit of the town with Notre Dame of Strasbourg
