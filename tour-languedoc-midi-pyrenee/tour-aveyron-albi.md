@@ -47,18 +47,12 @@ Discover the  7th century Château Comtal, hosting today the lapidary Museum.
 
 Cathedral of Saint-Nazaire, built between the 11th and 14th centuries world of narrow cobblestone streets that transports you back to the Middle Ages
 
-Next.we will go visit the picturesque village of Lagrasse, at the heart of the Corbières,  listed as one of the most beautifull in France. 
-Start by taking a stroll inside the medieval village, discover the 14th century marked with stone pillars, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques. 
+Next.we will go visit the picturesque village of Lagrasse, at the heart of the Corbières,  listed as one of the most beautifull in France. Be sure to have packed your camera as vhe village and it's abbey are a great location for taling some fine pictures!. Start by taking a stroll inside the naroow streets of the medieval village, discover the 14th century marked with stone pillars, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques. 
 
- Around the town, admire  the remains of ancient ramparts , the beautifull old humpback bridge crossing the Orbieu river.
-Then, cross the Orbieu river and visit the Sainte-Marie d'Orbieu Abbey built in 8th century.  
+ Around the town, admire the ancient ramparts, the beautifull old humpback bridge crossing the Orbieu river, a nice spot for take some memorable pictures of the village.  Then, cross the Orbieu river and visit the Sainte-Marie d'Orbieu Abbey, one of the largest benedictine Abbey in southern France. Bult in 8th century by Emperor Charlemagne, 
 
-Be sure to have packed your camera as vhe village and it's abbey are a great location for taling some fine pictures! 
+
 Next, we will drive back to Carcassonne for our second night.
-
-
-
-
 Dinner and night at Carcassonne.
 
 ### Day 4: Le Château de Peyrepertuse - Le Château de  Puilaurens - le Chateau de Queribus
