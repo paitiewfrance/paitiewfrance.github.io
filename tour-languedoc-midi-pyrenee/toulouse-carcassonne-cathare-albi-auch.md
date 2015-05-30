@@ -11,6 +11,8 @@ sitemap:
      changefreq: 'daily'    
 ---
 
+#ทัวร์อยู่ระหว่างการดำเนินงาน
+
 ### Day 1: Paris CDG or Nice Cote d'Azur - Toulouse by TGV
 Arrive in CDG Airport.  Take tgv to Toulouse
 Check-in , dinner and night at Toulouse.
