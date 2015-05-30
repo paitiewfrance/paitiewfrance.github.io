@@ -442,11 +442,11 @@ form {
             outline: 0;
             width: 10em;
             padding: 1em 0 .85em;
-            font-size: .75em;
+            font-size: .875em;
             text-transform: uppercase;
             margin: 0 auto;
             text-align: center;
-            background: #405860;
+            background: $orange;
             display: block;
             cursor: pointer;
         }
