@@ -429,8 +429,8 @@ form {
         border: 1px solid rgba(black, .15);
         &:focus {
             outline: none;
-            border-color: rgba(black, .20);
-            box-shadow: 0 0 0 6px rgba(black, .078);
+            border-color: rgba(black, .15);
+            box-shadow: 0 0 0 8px rgba(black, .078);
         }
         &._gotcha {
             display: none;
