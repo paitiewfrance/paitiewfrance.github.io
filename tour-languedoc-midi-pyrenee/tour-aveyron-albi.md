@@ -56,7 +56,7 @@ Next, we will drive back to Carcassonne for our second night.
 Dinner and night at Carcassonne.
 
 ### Day 4: Le Château de Peyrepertuse - Le Château de  Puilaurens - le Chateau de Queribus
-An early morning call for appreciate the sunrize on "Pays du Cathar" in south of Aude and discover 3 of  "The five Sons of Carcassonne", a total of 5 fortress that served as defensive line against the Kingdom of Aragon and Spain. For that special day, we strongly suggest you to fully load your camera, it's a unique opportunity to take fine pictures of medieval fortress in a unreal and mind blowing landscape. 
+An early morning call for appreciate the sunrize on "Pays du Cathare" in south of Aude and discover 3 of  "The five Sons of Carcassonne", a total of 5 fortress that served as defensive line against the Kingdom of Aragon and Spain. For that special day, we strongly suggest you to fully load your camera, it's a unique opportunity to take fine pictures of medieval fortress in a unreal and mind blowing landscape. 
 
 We will start with Château de Puilaurens, a hilltop giant fortress located at 700 meters high. It is accessible by cavils zigzag path. Admire this rich example of military architecture of the Middle Ages, stroll inside the ruins and enjoy also the beautifull landscape offers over Cucugnan valley.
 
