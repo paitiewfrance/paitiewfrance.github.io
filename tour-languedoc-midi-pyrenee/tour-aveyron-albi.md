@@ -8,7 +8,6 @@ duration:
 sitemap:
      priority: 1
      changefreq: 'weekly'    
-
 ---
 
 ### Day 1: Paris CDG or Nice Cote d'Azur - Toulouse by TGV
@@ -49,7 +48,11 @@ Cathedral of Saint-Nazaire, built between the 11th and 14th centuries world of n
 
 Next.we will go visit the picturesque village of Lagrasse, at the heart of the Corbières,  listed as one of the most beautifull in France. Be sure to have packed your camera as vhe village and it's abbey are a great location for taling some fine pictures!. Start by taking a stroll inside the naroow streets of the medieval village, discover the 14th century covered market with stone pillars where artists and craftmen are pleased to show their work, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques along the streets.
 
- Around the town, admire the remain of the ramparts, the beautifull old humpback bridge crossing the Orbieu river, a nice spot for take some memorable pictures of the village. Then, cross the Orbieu river and visit the Sainte-Marie d'Orbieu Abbey, one of the largest benedictine Abbey in southern France. Bult in 8th century by Emperor Charlemagne, 
+ Around the town, admire the remain of the ramparts, the beautifull old humpback bridge crossing the Orbieu river, a nice spot for take some memorable pictures of the village. Then, cross the Orbieu river and visit the 8th century Sainte-Marie d'Orbieu Abbey, classified as Historical Monument since 1923, is one of the largest benedictine Abbey in southern France.
+ 
+Stroll around the abbey, feel the peace and serenity of the place.
+ Wander the Gothic style church built over the foundations of a Carolingian Basilic and enjoy it's outstanding acoustics. 
+ Une tour clocher monumentale, construite avant 1537 et terminée par un couronnement octogonal, s'élève 42 mètres
 
 
 Next, we will drive back to Carcassonne for our second night.
@@ -60,7 +63,7 @@ An early morning call for appreciate the sunrize on "Pays du Cathare" in south o
 
 We will start with Château de Puilaurens, a hilltop giant fortress located at 700 meters high. It is accessible by cavils zigzag path. Admire this rich example of military architecture of the Middle Ages, stroll inside the ruins and enjoy also the beautifull landscape offers over Cucugnan valley.
 
-Depending of the time spend Château de Puilaurens , we might take a lunch at  Puilaurens village or later on at Peyrepertuse.
+Depending of the time spend Château de Puilaurens , we might take a lunch at Puilaurens village or later on at Peyrepertuse.
 
 A fiew kilometers away, we will proceed to Peyrepertuse. Located at 800 meters high, the fortress is as large of the city of Carcassonne !.  Stroll around the site, browse the fortress and admire the unreal landscape offer over the valley and take mind blowing pictures. 
 

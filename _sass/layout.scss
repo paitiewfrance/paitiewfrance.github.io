@@ -10,7 +10,7 @@
     height: 250px;
 }
 
-#logo {
+.logo {
     display: block;
     border-radius: 50%;
     margin: 0 auto;
@@ -20,6 +20,13 @@
     height: 3em;
     line-height: 3em;
     text-align: center;
+    &.footer-logo-kiki {
+          background:darken($footer, 4) url(../img/logo-footer.svg) no-repeat  -5px center;;
+          margin: 1.75em auto 0 auto;
+          background-size: 120% auto;
+          width: 4.5em;
+          height: 4.5em;
+    }
 }
 /* Navigation */
 
@@ -156,6 +163,17 @@ nav.menu-open {
         padding: 2.5rem 3.5rem;
     }
 }
+/*======================================================= SPECIAL HEADER =============================================================*/
+
+#header h1,
+footer h1 {
+        font-size: 2em;
+        position: relative;
+        text-transform: capitalize;
+        font-family: $serif-bis;
+        padding: .25em 0 !important;
+}
+
 /*=======================================================HEADER=====================================================================*/
 
 $header-bg:#197E9A;
@@ -179,12 +197,6 @@ $header-bg:#383838;
     }
     h1 {
         color: white;
-        font-size: 2em;
-        position: relative;
-        text-transform: capitalize;
-        font-family: $serif-bis;
-        color: white;
-        padding: .25em 0 !important;
     }
 }
 /* Posts */
@@ -549,7 +561,7 @@ form {
 }
 /*======================================== FOOTER DESIGN ============================================*/
 
-$footer: #DCDBD9;
+
 $footer-color: darken( $footer, 32);
 
 footer {
@@ -559,12 +571,21 @@ footer {
         display: block;
     }
     p,
-    p a {
+    p a, h1 {
         color: $footer-color !important;
     }
     p a {
         text-decoration: underline;
     }
+    
+    h1 {
+        margin: .25em 0;
+    }
+
+    a.center {
+          display: inline;
+    }
+
     h2 {
         font-weight: 300 !important;
         color: $orange !important;
