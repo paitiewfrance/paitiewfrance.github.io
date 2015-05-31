@@ -95,6 +95,8 @@ After breakfast, head on to south burgundy, make a stop at the charming hilltop 
 ### Day 6: Château de Digoine -- Paray-le-Monial - Semur-en-Brionnais
 After breakfast, 
 
+Semur-en-Brionnais, listed as one of the most beautifull village in France
+
 ### Day 7: Cluny - Berzé-la-Ville - Château de Pierreclos - Macon
 
 Next,  we will visit Berze-le-Chatel and it's medieval fortress flanked by thirteen towers and offering also a wonderfull view over the countryside. 

@@ -1,16 +1,24 @@
 ---
 layout: tour
 ogContent: page
-title: 
-meta: 
+title:  ทัวร์เมืองตูลูสและคาร์คาซอน เที่ยวป้อมปราสาทคาร์ตาร์ มรดกโลกอัลบีและโอชเมืองโบราณสมัยโรมัน
+meta: ร่วมค้นพบเมืองยุคกลางประวัติศาสตร์แห่งฝรั่งเศสใต้ เมืองตูลูส คาร์คาซอน ป้อมปราการเก่าแก่สมัยยุคการ์ตาร์แห่งฝรั่งเศส เมืองป้อมปราสาทสีแดงแห่งอัลบี และโอชเมืองโบราณ
 tourName: ตูลูส-คาร์คาซอน-กาตาร์-ออช
 duration: 10วัน / 9คืน
+img: 
+  - name: /img/languedoc/peyrepertuse
+    alt: Perepertuse Castle
+  - name: /img/languedoc/puilaurens
+    alt: Puilaurens Castle
 sitemap:
      priority: 1
      changefreq: 'daily'    
+
+intro: ร่วมเดินทางไปกับเรายังแคว้นลองด็อค-รูซยง Languedoc-Roussillon และแค้วนมิดิ-พีเรเน่ Midi Pyrenee ที่ได้ทั้งความสนุกกับการถ่ายรูปที่น่าตื่นเต้นไปกับภูมิประเทศที่ไม่เหมือนใครย้อนเวลาสู่ยุคกลางที่ฝรั่งเศสใต้กับเรา ท่องเมืองตูลูสเพื่อชิมอาหารรสเลิศและชมมหาวิหารตูลูส, ท่องเมืองคาร์คาซอนเมืองยุคกลางที่ใหญ่ที่สุดในยุโรป สำรวจป้อมปราสาทคาร์คาซอน5หลังที่เรียกว่า The 5 sons of Carscassonne กับภูมิทัศน์รอบเมืองที่หลุดออกมาจากหนังเรื่อง The Lord of The Ringชมเมืองมรดกโลกอัลบี Albi เมืองแห่งพระราชาคณะที่มีสมญานามว่าเมืองสีแดง The Red Cityและเที่ยวโอช Auch เมืองโบราณสมัยโรมันและแคว้นแจ๊กซ์ Gers ที่มีเมืองโบราณเต็มไปด้วยประวัติศาสตร์ 
 ---
 
 #ทัวร์อยู่ระหว่างการดำเนินงาน
+
 
 ### Day 1: Paris CDG or Nice Cote d'Azur - Toulouse by TGV
 Arrive in CDG Airport.  Take tgv to Toulouse
@@ -40,22 +48,22 @@ We will drive to Carcassonne late after located at around an hour of drive from 
 Dinner and night at Carcassonne.
 
 ### Day 3: Carcassonne ( UNESCO ) - Lagrasse and Sainte-Marie d'Orbieu Abbey
-After breakfast,  head to Carcassonne, UNESCO World Heritage Site  and one of the top destinations in France. With over 52 towers and ramparts 3 kilometers long, it is the largest fortified city in Europe. Take a walk around the ramparts and admire the medieval and Gallo-Roman towers and fortifications that surrounded the city. 
+After breakfast,  head to the medieval city of Carcassonne, UNESCO World Heritage Site  and one of the top destinations in France. With 54 towers and ramparts 3 kilometers long, it is the largest fortified city in Europe. The hilltop city stands at a height of 148 meters, a location that was an advantage during the Middle Age. 
+All the buildings, squares, and alleyways have retained their medieval character. This will give us today lots of fine picture opportunities along the day. 
 
-Lunch at "La Maison du Cassoulet"
+Start by taking a walk around the ramparts and admire the medieval and Gallo-Roman towers, the double  thick protective fortifications that surrounded the city. 
+Then, enter the medieval city at the Narbonne door, consisting of two huge spur towers . Along the way, stroll inside the narrow cobbled streets and let the atmosphere of the city transport you back to Middle Age.
+Lunch at "La Maison du Cassoulet". 
+Wander the 12th century Counts' castle,  hosting today the lapidary Museum
 
-Discover the  7th century Château Comtal, hosting today the lapidary Museum. 
+Discover also the impressive Cathedral of Saint-Nazaire, built between the 11th and 14th century and admire it's Gothic statues and splendid stained glass.
+Inside, ......
 
-Cathedral of Saint-Nazaire, built between the 11th and 14th centuries world of narrow cobblestone streets that transports you back to the Middle Ages
-
-Next.we will go visit the picturesque village of Lagrasse, at the heart of the Corbières,  listed as one of the most beautifull in France. Be sure to have packed your camera as vhe village and it's abbey are a great location for taling some fine pictures!. Start by taking a stroll inside the naroow streets of the medieval village, discover the 14th century covered market with stone pillars where artists and craftmen are pleased to show their work, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques along the streets.
+Next.we will drive to southeast to go visit the picturesque village of Lagrasse, at the heart of the Corbières,  listed as one of the most beautifull in France. Be sure to have packed your camera again as vhe village and it's abbey are a great location for taling some fine pictures!. Start by taking a stroll inside the narrow streets of the medieval village, discover the 14th century covered market with stone pillars where artists and craftmen are pleased to show their work, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques along the streets.
 
  Around the town, admire the remain of the ramparts, the beautifull old humpback bridge crossing the Orbieu river, a nice spot for take some memorable pictures of the village. Then, cross the Orbieu river and visit the 8th century Sainte-Marie d'Orbieu Abbey, classified as Historical Monument since 1923, is one of the largest benedictine Abbey in southern France.
  
-Stroll around the abbey, feel the peace and serenity of the place.
- Wander the Gothic style church built over the foundations of a Carolingian Basilic and enjoy it's outstanding acoustics. 
- Une tour clocher monumentale, construite avant 1537 et terminée par un couronnement octogonal, s'élève 42 mètres
-
+Stroll around the abbey, feel the peace and serenity of the place. Wander the Gothic style church built over the foundations of a Carolingian Basilic and enjoy it's outstanding acoustics. Discover the clock tower, a 42 meters high tower from 1537 built with with an octagonal crown
 
 Next, we will drive back to Carcassonne for our second night.
 Dinner and night at Carcassonne.

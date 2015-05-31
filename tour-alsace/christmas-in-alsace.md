@@ -11,11 +11,14 @@ intro:
 #ทัวร์อยู่ระหว่างการดำเนินงาน
 
 ### วันที่ 1: Strasbourg ( UNESCO)
-After breakfast, we will start the visit of the town with Notre Dame of Strasbourg
+After breakfast, we will start the visit of the town with the "Big Island". This jewel,  UNESCO World Heritage Site, deserves our particular attention.
 tour de la ville
    cathedrale
-   la petite france ( Quartier des Tanneurs)
-   europeen parliament building
+  Astronomical Clock
+ Stroll then in adjacent lanes that make up the Golden Square
+
+ Then, take  a visit to Strasbourg by river boat, head on to Palais des Rohan, an outstanding building that housed Marie Antoinette on her arrival in France. You will sail to La Petite France ( Quartier des Tanneurs), eminently tourist area for its timbered houses, until the parliamentary quarter. Admire the contemporary architecture of the European institutions buildings.
+
    l'ile de strasbourg
 
 marches de noel

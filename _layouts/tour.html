@@ -10,9 +10,11 @@ layout: default
         <h2>{{ page.duration }}</h2>
     </header>
     {% if page.img %}
-         <figure class="image-header">
-             <img src="{{site.url}}/img/{{ page.img }}" alt="{{ page.img }}">
-        </figure>
+         <div class="intro-picture nop">
+             {% for i in page.img  %}
+                 <img src="{{i.name}}.jpg" alt="ไปเที่ยวฟรานส์  {{i.alt}}" title="ไปเที่ยวฟรานส์  {{ i.alt}}">
+             {% endfor %}
+         </div>
     {% endif %}
    
     {% if  page.intro %}
