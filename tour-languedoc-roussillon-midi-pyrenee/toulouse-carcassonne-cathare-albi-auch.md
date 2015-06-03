@@ -26,34 +26,28 @@ intro: ร่วมเดินทางไปกับเรายังแค�
 Arrive in CDG Airport.  Take tgv to Toulouse
 Check-in , dinner and night at Toulouse.
 
-### Day 2 : Toulouse ( Basilique Saint-Sernin UNESCO )
-After breakfast, we will start the visit of Toulouse by walk inside the old town, the historical center and it's narrow streets. Then proceed to Basilique Saint-Sernin one of the most glorious churches on the medieval pilgrimage road to Santiago de Compostela in Spain. Built between the 11th and 13th century, it is  the largest preserved Roman church in Europe and listed as UNESCO World Heritage Site since 1998.  
+### Day 2 : Toulouse- Basilique Saint-Sernin ( UNESCO )
+Situated in the heart of south-west France,Toulouse, former Roman town,  is very aptly known as the “Pink City”. The pinkish colour of the bricks of its buildings and houses gives the city a unique charm.
 
-The church is dedicated to Saint Saturninus (Sernin) of Patras, Greece, who was martyred by being tied to a bull.
-Stroll around the building and admire the elegant bedside,  admire the Basilica's facade with is magnificent doorway adorned with intricate sculptures.
-Enter the ancient sanctuary to experience the serenity of the place
+After breakfast, take a walk around the narrow streets of the historical center and discover the most popular monuments to visit, lined of Renaissance mansions from the 16th century. 
+The, proceed the Basilique Saint-Sernin,  one of the most glorious churches on the medieval pilgrimage road to Santiago de Compostela in Spain. Built between the 11th and 13th century, it is  the largest preserved Roman church in Europe and listed as UNESCO World Heritage Site since 1998.  The church is dedicated to Saint Saturninus (Sernin) of Patras, Greece, who was martyred by being tied to a bull.
 
-Next, we will visit the Couvent des Jacobins ( Jacobins convent),  a fine example of Languedoc Gothic art. Admire the light o
+Stroll around the building and admire the elegant bedside, the Basilica's facade with is magnificent doorway adorned with intricate sculptures.
+Enter the ancient sanctuary to experience the serenity of the place. Inside, wander the 16th-century to 17th-century choir encircled by nine chapels and explore the superb ambulatory witch has 7 remarkable marbled reliefs from the 11th century.
 
-We will go to the Place du Capitol, the actual city hall of Toulouse. Notice the brick walls and their 29 arches
+Next, we will visit the Couvent des Jacobins ( Jacobins convent),  a masterpiece of  Languedoc Gothic art from the 13th century and admire its beautiful brick-built church and its main cloister building.
 
-Discover the chapel dedicated to Saint Antonin,  which is decorated with a series of 14th-century mural paintings
+After a lunch at the famous Brasserie Moustache, go to the Place du Capitol, the actual city hall of Toulouse. Take time to enjoy an expresso on terrace , wander the Capitole Building and notice the brick walls and their 29 arches, the remarkable facade with 8 immense columns of pink marble from the 16th century. Behind, you will also notice the former Archives tower which house today the tourism office. 
 
-After a lunch at the famous Brasserie Moustache ( the famous and delicious Toulouse Sausage !), continue to the Fine Arts Museum
-
-Next, we will go admire the Chapelle des Carmélites
-
-Crossing the Garonne River, we will go visit the Hotel Dieu, an imposing building has served as a hospice for eight centuries.
-
-We will end up our day trip of  Toulouse by taking a leisurely stroll along the shaded canal-side path and enjoy the relaxing ambience.
-We will drive to Carcassonne late after located at around an hour of drive from Toulouse.
-Dinner and night at Carcassonne.
+The, we will take a guided visit of the  Fine Arts Museum. Learn about the extensive art collections and paintings while discovering the historic building, with its graceful architectural features such as the monumental stairway and the spacious, sunlit rooms.
+We will end up our day trip of  Toulouse by taking a leisurely stroll along the shaded canal-side path and enjoy the relaxing ambience. A great time for taking memorable pictures of the city, the bridge  and the dome of the Saint-Joseph chapel. 
+Dinner and night at Toulouse.
 
 ### Day 3: Carcassonne ( UNESCO ) - Lagrasse and Sainte-Marie d'Orbieu Abbey
 After breakfast,  head to the medieval city of Carcassonne, UNESCO World Heritage Site  and one of the top destinations in France. With 54 towers and ramparts 3 kilometers long, it is the largest fortified city in Europe. The hilltop city stands at a height of 148 meters, a location that was an advantage during the Middle Age. 
-All the buildings, squares, and alleyways have retained their medieval character. This will give us today lots of fine picture opportunities along the day. 
+All the buildings, squares, and alleyways have retained their medieval character. You will have of fine picture opportunities along the day. 
 
-Start by taking a walk around the ramparts and admire the medieval and Gallo-Roman towers, the double  thick protective fortifications that surrounded the city. 
+Start by taking a walk around the ramparts and admire the medieval and Gallo-Roman towers, the double-thick protective fortifications that surrounded the city. 
 Then, enter the medieval city at the Narbonne door, consisting of two huge spur towers . Along the way, stroll inside the narrow cobbled streets and let the atmosphere of the city transport you back to Middle Age.
 Lunch at "La Maison du Cassoulet". Wander the 12th century Counts' castle,  hosting today the lapidary Museum, and the impressive Cathedral of Saint-Nazaire, built between the 11th and 14th century and admire it's Gothic statues and splendid stained glass. 
 
@@ -61,7 +55,7 @@ After taking some amazing pictures, we will drive to southeast to go visit the p
 
  Around the town, admire the remain of the ramparts, the beautifull old humpback bridge crossing the Orbieu river, a nice spot for take some memorable pictures of the village. Then, cross the Orbieu river and visit the 8th century Sainte-Marie d'Orbieu Abbey, classified as Historical Monument since 1923, is one of the largest benedictine Abbey in southern France.
  
-Stroll around the abbey, feel the peace and serenity of the place. Wander the Gothic style church built over the foundations of a Carolingian Basilic and enjoy it's outstanding acoustics. Discover the clock tower, a 42 meters high tower from 1537 built with with an octagonal crown
+Stroll around the abbey, feel the peace and serenity of the place. Wander the Gothic style church built over the foundations of a Carolingian Basilic and enjoy it's outstanding acoustics. Discover the clock tower, a 42 meters high tower from 1537 built with with an octagonal crown.
 
 Next, we will drive back to Carcassonne for our second night.
 Dinner and night at Carcassonne.
@@ -83,21 +77,19 @@ Dinner and night in Carcassonne.
 ### Day 5: Albi  ( UNESCO)  
 Albi, an important medieval Episcopal city, graced by an impressive fortress-like cathedral.
 After breakfast, we will drive to about an hour to visit Albi, listed UNESCO World Heritage City, surnamed "The Red City", easily recognizable by it's impressive fortress-like cathedral. 
-Discover the historical quarter by strolling inside the  fascinating  old town and the narrow streets lined with red bricks old medieval houses, witness of the rich heritage of the city. Wander the Collegiate Saint Salvi, ......
+Discover the historical quarter by strolling inside the fascinating old town, stroll in the narrow streets lined with old brick-built timber-framed houses, as well as Renaissance mansions,  witness of the rich heritage of the city. Wander the Collegiate Saint Salvi, one of the most ancient building in Albi and wander it's cloister,
+admire the slender columns, the capitals, mix of Roman and Gothic art. Inside, Feel the light impression of momentum of grace and lighteness and admire the beautifull alignment of the columns. 
 
-Options: 
-For Foie Gras lovers, we will stop at Albi Foie Gras, a reputed small shop behind the Collegiate Saint Salvi..
+Next, go to visit the cathedrale Sainte-Cécile. one of the most beautifull cathedral in southern part of France. As wide as 133 meters long and 33 meters wide, it is the largest cathedral built on brick in the world. Built in the 8th century after the Albigeois crusade, it's a superb example of southern Gothic architecture with fully preserved Renaissance paintings and Last Judgment. Inside, admire the magnificient frescoes,  wander it's flamboyant Gothic rood screen, the beautifull statuary and the largest classical organs of France(). Next to the cathedral, the Palais de la Berbie ( Berbie Palace ), a former episcopal palace now home of the Toulouse-Lautrec museum witch exhibits now a large number
+of paintings of this famous artist born in Albi.
 
-Next, go to visit the cathedrale Sainte-Cécile. one of the most beautifull cathedral in southern part of France. As wide as 133 meters long and 33 meters wide, it is the largest cathedral built on brick in the world. Built in the 8th century after the Albigeois crusade, it's a superb example of southern Gothic architecture with fully preserved Renaissance paintings and Last Judgment. Next to the cathedral, the Palais de la Berbie,.....
-
-Then, enjoy a short break along the Tarn River before lunch.  
-
+Before lunch, we can enjoy a relaxing moment in the romantic gardens of the Berbie Palace, offreing a beautfifull view of the Tarn river and Pont-Vieu.x
 After lunch in a delicious restaurant, we will visit the Cross the Tarn River on Pont-Vieux, which from the 11th century allowed the economic development of the city. We will enjoy a boat ride on the Tarn river and discover the city by boat. Then, free tim to stroll along the bank of the river.
 
 Dinner and night in Albi.
 
 Options: 
-After lunch, we can take a short walk inside the town, to the Pont-Vieux and enjoy the city enlighted by night.
+After lunch, we can take a short walk inside the town, to the Pont-Vieux and enjoy the beautifull scenary over the old city fully illuminated.
 
 ### Day 6: Sauveterre-de-Rouergue - Najac - Cordes-sur-Ciel
 After breakfast, we will proceed to the fortified towns of Albi. We will start with the village Sauveterre-de-Rouergue, fortified city built in the 8th century and classified as one of the most beautifull village in France. From the beautifull arcade place in downtown,  stroll inside the town enjoy the beautifull facades of the the old half-timbered houses, the Saint Christopher and Saint-Vital fortified gates and the Gothic collegiate.
