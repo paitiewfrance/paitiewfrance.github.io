@@ -25,11 +25,11 @@ sitemap:
            <ul class="contact">
               <li>
                     <label for="name">Name</label>
-                    <input type="name" iid="name" name ="name" required>
+                    <input type="name" id="name" name ="name" required>
                </li>
                  <li>
                     <label for="name">Surname</label>
-                    <input type="surname" iid="surname" name ="surname">
+                    <input type="surname" id="surname" name ="surname">
                </li>
                <li>
                    <label for="email">Email</label>

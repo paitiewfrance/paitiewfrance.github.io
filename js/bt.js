@@ -37,11 +37,13 @@ jQuery(document).ready(function($){
                       $input.focus(function(event) {
                       	var $list = $(this).parent(),
                       	       $label = $list.find('label:first');
-                      	       $label.toggleClass('move-up');
-                      }).blur(function(event) {
+                      	       $label.addClass('move-up');
+                      });blur(function(event) {
                       	var $list = $(this).parent(),
+                      	       $that = $(this);
                       	       $label = $list.find('label:first');
-                      	       $label.removeClass('move-up');
+                      	       $that.val() == ' '  ?  ' '  :  $label.removeClass('move-up');
+                      	      
                       });
 
 

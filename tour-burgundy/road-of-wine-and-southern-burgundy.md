@@ -1,6 +1,7 @@
 ---
 layout: tour
 title: Burgundy in eight days
+deposit: 30.000
 tourName: 
 sitemap:
      priority: 1

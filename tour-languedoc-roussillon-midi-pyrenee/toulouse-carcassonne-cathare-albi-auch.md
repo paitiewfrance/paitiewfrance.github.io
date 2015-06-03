@@ -1,6 +1,8 @@
 ---
 layout: tour
 ogContent: page
+deposit: 35000
+remark: ทัวร์นี้เหมาะกับผู้ที่ชื่นชอบการถ่ายภาพแลนด์สเคปและชอบเที่ยวประวัติศาสตร์ยุคกลาง ปราสาทเก่าและหมู่บ้านโบราณ
 title:  ทัวร์เมืองตูลูสและคาร์คาซอน เที่ยวป้อมปราสาทคาร์ตาร์ มรดกโลกอัลบีและโอชเมืองโบราณสมัยโรมัน
 meta: ร่วมค้นพบเมืองยุคกลางประวัติศาสตร์แห่งฝรั่งเศสใต้ เมืองตูลูส คาร์คาซอน ป้อมปราการเก่าแก่สมัยยุคการ์ตาร์แห่งฝรั่งเศส เมืองป้อมปราสาทสีแดงแห่งอัลบี และโอชเมืองโบราณ
 tourName: ตูลูส-คาร์คาซอน-กาตาร์-ออช
@@ -53,13 +55,9 @@ All the buildings, squares, and alleyways have retained their medieval character
 
 Start by taking a walk around the ramparts and admire the medieval and Gallo-Roman towers, the double  thick protective fortifications that surrounded the city. 
 Then, enter the medieval city at the Narbonne door, consisting of two huge spur towers . Along the way, stroll inside the narrow cobbled streets and let the atmosphere of the city transport you back to Middle Age.
-Lunch at "La Maison du Cassoulet". 
-Wander the 12th century Counts' castle,  hosting today the lapidary Museum
+Lunch at "La Maison du Cassoulet". Wander the 12th century Counts' castle,  hosting today the lapidary Museum, and the impressive Cathedral of Saint-Nazaire, built between the 11th and 14th century and admire it's Gothic statues and splendid stained glass. 
 
-Discover also the impressive Cathedral of Saint-Nazaire, built between the 11th and 14th century and admire it's Gothic statues and splendid stained glass.
-Inside, ......
-
-Next.we will drive to southeast to go visit the picturesque village of Lagrasse, at the heart of the Corbières,  listed as one of the most beautifull in France. Be sure to have packed your camera again as vhe village and it's abbey are a great location for taling some fine pictures!. Start by taking a stroll inside the narrow streets of the medieval village, discover the 14th century covered market with stone pillars where artists and craftmen are pleased to show their work, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques along the streets.
+After taking some amazing pictures, we will drive to southeast to go visit the picturesque village of Lagrasse, in the heart of the Corbières,  listed as one of the most beautifull in France. Be sure to have packed your camera again as vhe village and it's abbey are a great location for taling some fine pictures!. Start by taking a stroll inside the narrow streets of the medieval village, discover the 14th century covered market with stone pillars where artists and craftmen are pleased to show their work, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques along the streets.
 
  Around the town, admire the remain of the ramparts, the beautifull old humpback bridge crossing the Orbieu river, a nice spot for take some memorable pictures of the village. Then, cross the Orbieu river and visit the 8th century Sainte-Marie d'Orbieu Abbey, classified as Historical Monument since 1923, is one of the largest benedictine Abbey in southern France.
  
@@ -68,7 +66,7 @@ Stroll around the abbey, feel the peace and serenity of the place. Wander the Go
 Next, we will drive back to Carcassonne for our second night.
 Dinner and night at Carcassonne.
 
-### Day 4: Le Château de Peyrepertuse - Le Château de  Puilaurens - le Chateau de Queribus
+### Day 4: Le Château de Peyrepertuse - Le Château de Puilaurens - le Chateau de Queribus
 An early morning call for appreciate the sunrize on "Pays du Cathare" in south of Aude and discover 3 of  "The five Sons of Carcassonne", a total of 5 fortress that served as defensive line against the Kingdom of Aragon and Spain. For that special day, we strongly suggest you to fully load your camera, it's a unique opportunity to take fine pictures of medieval fortress in a unreal and mind blowing landscape. 
 
 We will start with Château de Puilaurens, a hilltop giant fortress located at 700 meters high. It is accessible by cavils zigzag path. Admire this rich example of military architecture of the Middle Ages, stroll inside the ruins and enjoy also the beautifull landscape offers over Cucugnan valley.
@@ -82,24 +80,38 @@ Located a fiew kilometers away, we will visit the Chateau de Queribus. Located a
 We will conclude our day admiring a beautifull sunset from the top of the castle and drive back to Carcassonne.
 Dinner and night in Carcassonne.
 
-### Day 5: Albi ( UNESCO)
-After breakfast, we will drive to about an hour to visit Albi, Albi , a UNESCO World Heritage City, surnamed "The Red City", easily recognizable by it's impressive fortress-like cathedral. We will start visiting Sainte-Cécile. one of the most beautifull cathedral in southern part of France. As wide as 133 meters long and 33 meters wide, it is the largest cathedral built on brick in the world. 
+### Day 5: Albi  ( UNESCO)  
+Albi, an important medieval Episcopal city, graced by an impressive fortress-like cathedral.
+After breakfast, we will drive to about an hour to visit Albi, listed UNESCO World Heritage City, surnamed "The Red City", easily recognizable by it's impressive fortress-like cathedral. 
+Discover the historical quarter by strolling inside the  fascinating  old town and the narrow streets lined with red bricks old medieval houses, witness of the rich heritage of the city. Wander the Collegiate Saint Salvi, ......
 
-Browse the city by walk, wander the ancient streets , ....
+Options: 
+For Foie Gras lovers, we will stop at Albi Foie Gras, a reputed small shop behind the Collegiate Saint Salvi..
+
+Next, go to visit the cathedrale Sainte-Cécile. one of the most beautifull cathedral in southern part of France. As wide as 133 meters long and 33 meters wide, it is the largest cathedral built on brick in the world. Built in the 8th century after the Albigeois crusade, it's a superb example of southern Gothic architecture with fully preserved Renaissance paintings and Last Judgment. Next to the cathedral, the Palais de la Berbie,.....
+
+Then, enjoy a short break along the Tarn River before lunch.  
+
+After lunch in a delicious restaurant, we will visit the Cross the Tarn River on Pont-Vieux, which from the 11th century allowed the economic development of the city. We will enjoy a boat ride on the Tarn river and discover the city by boat. Then, free tim to stroll along the bank of the river.
+
 Dinner and night in Albi.
 
+Options: 
+After lunch, we can take a short walk inside the town, to the Pont-Vieux and enjoy the city enlighted by night.
+
 ### Day 6: Sauveterre-de-Rouergue - Najac - Cordes-sur-Ciel
-After breakfast, we will proceed to the fortified towns of Albi. We will start with the village Sauveterre-de-Rouergue, 
+After breakfast, we will proceed to the fortified towns of Albi. We will start with the village Sauveterre-de-Rouergue, fortified city built in the 8th century and classified as one of the most beautifull village in France. From the beautifull arcade place in downtown,  stroll inside the town enjoy the beautifull facades of the the old half-timbered houses, the Saint Christopher and Saint-Vital fortified gates and the Gothic collegiate.
 
-After lunch, we will proceed to the medieval town of Najac, listed as one of the most beautifull village in France and wander the 13th century royal fortress, perched atop a rocky outcrop, stroll in the narrow cobbled streets lined with the picturesque old stones houses with slate roofs, discover it's Gothic church and it's beautifull fontains,  and relax a moment enjoying it's views on the peacefull valley of Aveyron. Lots of fine picture opportunities for old stones villages lovers! 
+After a lunch, we will proceed to the medieval town of Najac, listed as one of the most beautifull village in France and wander the 13th century royal fortress, perched atop a rocky outcrop, stroll in the narrow cobbled streets lined with the picturesque old stones houses with slate roofs, discover it's Gothic church and it's beautifull fontains,  and relax a moment enjoying it's views on the peacefull valley of Aveyron. Lots of fine picture opportunities for old stones villages lovers! 
 
-Then, proceed to picturesque medieval village of Cordes-sur-Ciel ( Cordes on sky, due to it's elevated position) , built in 1222 by the Count of Toulouse. Browse the village 
-Wander around the narrow laned and take a trip back to Middle Age. Admire the gothic mansion, visit the art galleries and artisan craft workshop to find locally made work art, ceramic and jewerly. We will eventually stop at some bakery and taste the local delicacy "Croquant aux Amandes",  famous crunchy cookie made with grilled almonds.
+Then, proceed to picturesque medieval village of Cordes-sur-Ciel ( Cordes on sky, due to it's elevated position) , built in 1222 by the Count of Toulouse. Browse the village. Voted "Favorite French Village in 2014", great writer Albert Camus said: "Browse Cordes-sur-Ciel  is to discover a fabulous art history book and embedded in the stone".
+
+Stroll around the fascinating medieval city, Wander  the narrow laned and take a trip back to Middle Age. Admire the gothic mansion, visit the art galleries and artisan craft workshop to find locally made work art, ceramic and jewerly. We will eventually stop at some bakery and taste the local delicacy "Croquant aux Amandes",  famous crunchy cookie made with grilled almonds. From the top of the village, take some nice pictures and admire a nice overview over the valley.
 
 Late afternoon, we will drive back to Albi for our last night in the red city.
 Dinner and night in Albi.
 
-### Day 7: Castelnau-de-Montmiral - Penne - Bruniquel - Moissac ( Abbey UNESCO-listed Cloister)
+### Day 7: Castelnau-de-Montmiral - Penne - Bruniquel - Moissac ( Abbey UNESCO-listed )
 After breakfast, we will have another day around the fortified towns of Albi. We will start with Castelnau-de-Montmiral. Admire the well preserved arcade square, stroll inside the cobbled flowery streets and enjoy the beautiful brick-built timber-framed houses.
 
 We will next continue to Penne, a picturesque small medieval town dominated by the remains of it's castle. Enjoy the peacefull atmosphere of the village and take a wlak along the cobbled narrow streets lined with beautifull flowery old stone houses. 
@@ -107,7 +119,7 @@ We will next continue to Penne, a picturesque small medieval town dominated by t
 After lunch, visit the architectural gem of Bruniquel, listed as one of the most beautifull village in France and dominated by the silhouette of its two imposing castles. Go back in Middle age time and stroll in its charming paved side streets,  wander the old residences from the 14th, 15th and 16th century.
 Continue to the summit of the village where Bruniquel's two castles stand. Admire the knights' room, the Queen Brunehaut's tower and the Rennaissance style  gallery. A splendid panoramic view of the Aveyron Valley will complete the tour of this site.
 
-Next, we will proceed to Moissac, an important site on the medieval Saint James way pilgrimage trail to Santiago de la Composta. 
+Next, we will proceed to Moissac, an important site on the medieval Saint James way pilgrimage trail to Santiago de la Composta. We will visit the Abbey
 We will then take direction to Auch, located at about 90 kilometers away from Moissac. 
 Checkin - dinner and night at Auch.
 
