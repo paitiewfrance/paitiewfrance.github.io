@@ -60,7 +60,7 @@ Passing through vineyards and mountainside,  climb up to to admire the vestiges 
 Next we will drive to Riquewihr, a charming fortified village encircled with vineyards. Take a walk around the ramparts and dive into the Middle Age by wandering the colored narrow streets, the half-timbered houses decorated with old shop signs and the omnipresent flowers and creepers, adding a extra charm to the village. Discover the Tour des Voleurs ( thieves tower), a former defensive tower and a prison from the 14th century.  Reconverted as museum, visit the ancient Torture Chamber, the guard room to attend interrogations. You will also notice a collection of ancient torture instruments.
 
 In evening, we will stroll and admire the fairy tales scene of the christmas market of Ribeauville and  Riquewihr. 
-We will then drive back to Colmar. Dinner and night in Colmar.
+And then we will then drive back to Colmar. Dinner and night in Colmar.
 
 ### วันที่ 5:  Kientzheim - Kaysersberg - Le Château du Hohlandsbourg
 
