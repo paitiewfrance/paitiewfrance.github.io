@@ -16,6 +16,9 @@ Riquewihr and Kaysersberg but also the two most famous ones: Colmar and Strasbou
 
 #ทัวร์อยู่ระหว่างการดำเนินงาน
 
+<!-- {% assign tour-content = "christmas-in-alsace" %}
+{% include tour-list.html %} -->
+
 ### วันที่ 1: Strasbourg ( UNESCO)
 After breakfast, we will start the visit of the town with the "Big Island". This jewel,  UNESCO World Heritage Site, deserves our particular attention.
 tour de la ville

@@ -60,11 +60,11 @@ nav {
         border-bottom: 1px solid lighten($nav, 4);
         text-transform: capitalize;
         padding: .25em 0;
-        font-size: 1.15em !important;
+        font-size: 1em !important;
         font-family: $serif;
         line-height: 3em;
         @media (min-width: 940px) {
-            font-size: 1em !important;
+            font-size: .875em !important;
             line-height: 3.25em;
         }
         strong {
@@ -391,12 +391,12 @@ a.test {
         }
     }
     img:nth-child(1) {
-        width: 74%;
+        width: 54%;
         position: relative;
         transform: rotate(-2deg);
     }
     img:nth-child(2) {
-        width: 64%;
+        width: 52%;
         top: 0;
         position: absolute;
         right: 0;
@@ -494,14 +494,6 @@ form {
 }
 
 @media (min-width: 940px) {
-    .intro-picture {
-        img:nth-child(1) {
-            left: -12%;
-        }
-        img:nth-child(2) {
-            right: -15%;
-        }
-    }
     form {
         ul:after {
             clear: both;
@@ -570,6 +562,7 @@ $footer-color: darken( $footer, 32);
 
 footer {
     background: $footer;
+    font-size: .875em !important;
     color: #7AADBB;
     .container {
         display: block;

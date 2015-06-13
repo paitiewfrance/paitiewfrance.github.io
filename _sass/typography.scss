@@ -8,9 +8,15 @@ body {
 
 
 .home h2 {
-    padding: 0;
-    line-height: 1.5;
+    // padding: 0;
+    line-height: 1.5
 }
+
+header h3 {
+    margin-top: 0 !important;
+}
+
+
 
 .home #container p {
     text-transform: capitalize;
@@ -23,7 +29,7 @@ ul li  {
     font-size:1em;
     font-family: $sans;
     color: lighten($header, 50);
-    font-weight: normal;
+    font-weight: 300;
     line-height: 1.7em;
     margin-bottom: 1.5em;
 
@@ -107,10 +113,10 @@ h6 {
    
    p,
 ul li  {
-    font-size: .875em;
+    font-size: 1em;
     font-family: $sans;
     color: lighten($header, 30);
-    font-weight: normal;
+    font-weight: 300;
     line-height: 1.7em;
     margin-bottom: 1.5em;
 }

@@ -3,8 +3,9 @@ layout: post
 title: Bonjour บล็อกเที่ยวฝรั่งเศส
 meta: Bonjour บล็อกเที่ยวฝรั่งเศส
 ogType: article
+class: blog
 sitemap:
-     priority: .5
+     priority: .7
      changefreq: 'weekly'    
 ---
 

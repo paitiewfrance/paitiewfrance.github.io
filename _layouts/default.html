@@ -24,7 +24,13 @@
         {% include header.html %}
         <!-- Main content -->
         <div  class="container">
+          {% if page.class == "blog" %}
+              <div class="inner">
+                    {{ content }}
+              </div>
+          {% else %}
             {{ content }}
+          {% endif %}
         </div>
         <a href="#header" title="Go back up" class="cd-top">
             <span class="fa fa-long-arrow-up"></span>
