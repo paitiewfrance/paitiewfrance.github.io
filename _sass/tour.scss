@@ -17,8 +17,10 @@
 // }
 
 .tour-intro {
-      text-align: center;
-       padding: 1em 2.75em ;
+      @include media(em(940)){
+          text-align: center;
+          padding: 1em 2.75em ;
+      }
 }
 
 .span-3,
