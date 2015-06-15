@@ -1,0 +1,77 @@
+.content,
+.container {
+    @include outer-container;
+}
+
+.inner {
+       width: 100%;
+       margin: 0 auto;
+
+       @include media(em(940)){
+              width: 75%;
+       }
+}
+
+// .content {
+//        margin-top: -4em;
+// }
+
+.tour-intro {
+      text-align: center;
+       padding: 1em 2.75em ;
+}
+
+.span-3,
+.span-9,
+.span-4 {
+    width: 100%;
+}
+
+@include media(em(940)) {
+    .span-3 {
+        @include span-columns(3, 12);
+    }
+    .span-9 {
+        @include span-columns(8, 12);
+        @include shift(2);
+        @include omega(2n);
+    }
+
+    .span-4 {
+        @include span-columns(4,12);
+        @include omega(3n);
+    }
+}
+/*===================== SIDEBAR=============================*/
+
+.tour-sidenav {
+    margin-top: 3em;
+    // background: rgba(black, .065);
+    ul {
+       margin: 1em 0;
+       padding: .75em .75em;
+        li {
+              line-height: 1.25em;
+              font-size: .75em;
+            a {
+                display: block;
+                color: rgba(black, .35);
+                font-weight: bold;
+            }
+        }
+    }
+}
+
+.row {
+  @include row;
+}
+
+
+.dn {
+    display: none;
+}
+
+
+.sep-block {
+    padding: 3em 0;
+}

@@ -1,0 +1,24 @@
+<!-- {% for days in site.data.[tour-content] %}
+<aside class="tour-sidenav span-3">
+    <ul class="tour-nav">
+        {% for d in days.day %}
+        <li class="block">
+            <a href="#{{d.title}}" title="{{d.title}}"> วันที่ {{ forloop.index }}  <span class ="tour-dn">{{d.title}}</span></a>
+        </li>
+        {% endfor %}
+    </ul>
+</aside> -->
+
+{% endfor %} {% for days in site.data.[tour-content] %}
+<div class="day-container span-9">
+    {% for d in days.day %}
+    <div class="day-{{ d.title }} day">
+        <h3 class="{{d.title }}">วันที่ {{ forloop.index }}: {{ d.title }} </h3> 
+        {% for p in d.description %}
+             <p>{{ p.paragraph }}</p>
+        {% endfor %}
+        <img src="{{ day.img}}" alt="{{ day.alt}}" class="middle">
+    </div>
+    {% endfor %}
+</div>
+{% endfor %}
