@@ -18,9 +18,9 @@ sitemap:
 intro: 
 ---
 
-<!-- #ทัวร์อยู่ระหว่างการดำเนินงาน
+#ทัวร์อยู่ระหว่างการดำเนินงาน
 
-{% assign tour-content = "hidden-treasure-of-pyrenee" %}
+<!-- {% assign tour-content = "hidden-treasure-of-pyrenee" %}
 {% include tour-list.html %} -->
 
 ### Day 1: Paris CDG or Nice Cote d'Azur - Toulouse
@@ -52,12 +52,12 @@ We will exit the village through another gateway through the fortifications (Por
 
 From the chevet, admire the beautifull view over Saint-Bertrand-de-Comminges and it's cathedral.  
 
-Next, we will drive to Saint-Lizier, a samll medieval village listed as one of the most beautifull village in France. A former episcopal city, Saint-Lizier has preserved an important religious heritage from it's rich past. First wander the Saint-Lizier cathedral, built in the 15th century and dominated by a Toulouse Gothic-style octogonal belfry. Admire the sublime collection of Romanesque frescoe in the apse and north absidiole.
-Next, admire the beautifull Romanesque cloisters with carved capital and  take a pleasant wander along the narrow cobbled streets lined with old houses and visit the 17th century former bishop's palace ( Palais des Évêques), which today houses a museum of popular arts and traditions.
+Next, we will drive to Saint-Lizier, medieval village, important stopover on the way to Saint Jacques de Compostela and also listed as one of the most beautifull village in France. A former episcopal city, Saint-Lizier has preserved an important religious heritage from it's rich past. First wander it's cathedral, built in the 15th century and dominated by a Toulouse Gothic-style octogonal belfry. Admire the sublime collection of Romanesque frescoe in the apse and north absidiole.
+Wander the sublime   Romanesque cloisters with carved capital and  take a pleasant wander along the narrow cobbled streets lined with old houses and visit the 17th century former bishop's palace ( Palais des Évêques), which today houses a museum of popular arts and traditions.
 
 We will then drive to Foix for checkin.Dinner and night at Foix.
 
-### Day 4:  Labouiche underground river- Foix - 
+### Day 4: Saint-Lizier - Labouiche underground river- Foix - 
 
 After breakfast, head on to Labouiche, famous for it's undergroud navigable river, the longest navigable one in Europe.Enjoy a pleasant guided cruise in boat for some 1.5 kilometers upstream at 60 meters below ground and dmire the magnificient rock formations and some superb waterfall.
 
@@ -115,9 +115,15 @@ Next, we will drive to Caunes-Minervois, a picturesque medieval town set in the 
 
 Dinner and night in Carcassonne.
 
-### Day 8: Carcassonne - Toulouse
-After breakfast,  head to the medieval city of Carcassonne, UNESCO World Heritage Site  and one of the top destinations in France. With 54 towers and ramparts 3 kilometers long, it is the largest fortified city in Europe. The hilltop city stands at a height of 148 meters, a location that was an advantage during the Middle Age. 
-All the buildings, squares, and alleyways have retained their medieval character. You will have of fine picture opportunities along the day. 
+### Day 8: Lagrasse - Carcassonne - Toulouse
+After breakfast, head on to the picturesque village of Lagrasse,  listed as one of the most beautifull in France. Be sure to have packed your camera again as the village and it's abbey are a great location for taling some fine pictures!. Take a pleasant stroll inside the narrow streets of the medieval village, discover the 14th century covered market with stone pillars where artists and craftmen are pleased to show their work, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques along the streets.
+
+ Around the town, admire the remain of the ramparts, the beautifull old humpback bridge crossing the Orbieu river, a nice spot for take some memorable pictures of the village. Then, cross the Orbieu river and visit the 8th century Sainte-Marie d'Orbieu Abbey, classified as Historical Monument since 1923, is one of the largest benedictine Abbey in southern France.
+ 
+Stroll around the abbey, feel the peace and serenity of the place. Wander the Gothic style church built over the foundations of a Carolingian Basilic and enjoy it's outstanding acoustics. Discover the clock tower, a 42 meters high tower from 1537 built with with an octagonal crown.
+
+Then, we will go visit the medieval city of Carcassonne, UNESCO World Heritage Site and one of the top destinations in France. With 54 towers and ramparts 3 kilometers long, it is the largest fortified city in Europe. The hilltop city stands at a height of 148 meters, a location that was an advantage during the Middle Age. 
+All the buildings, squares, and alleyways have retained their medieval character. You will have of fine picture opportunities along the afternoon. 
 
 Start by taking a walk around the ramparts and admire the medieval and Gallo-Roman towers, the double-thick protective fortifications that surrounded the city. 
 Then, enter the medieval city at the Narbonne door, consisting of two huge spur towers . Along the way, stroll inside the narrow cobbled streets and let the atmosphere of the city transport you back to Middle Age.
