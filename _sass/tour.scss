@@ -77,3 +77,9 @@
 .sep-block {
     padding: 3em 0;
 }
+
+.column-container {
+   @include clearfix();
+   padding: 0 1em;
+   background:rgba(#DCDBD9, .45);
+}

@@ -27,7 +27,7 @@ intro:
 Arrival in CDG Airport or Nice Cote d'Azur.
 Then, take TGV for Toulouse. Dinner and night at Toulouse.
 
-### Day 2: Lourdes - ( Luz-Saint-Sauveur ?? ) // Based upon time of stay in Lourdes
+### Day 2: Lourdes 
 After breakfast, we will head on to Lourdes, the second most important worlwide pilgrimage site in the world after Rome. In 1858 in a cave near the town - the Grotte de Massabielle - the Virgin Mary appeared several times to a local girl, Bernadette. Since then each year, 6 million visitors come to Lourdes. Some visit in hopes for a miracle cure., others come for pray or to volunteer to help sick and disabled pilgrims. 
 
 We will visit the key site of the Religious town, the Rosary Esplanade (Esplanade du Rosaire) , dominated by the neo-Byzantine Notre-Dame Basilica,  the crypt and the Immaculate  Conception Basilica, the famous miraculous Grotto where the Virgin appeared 18 times !, the underground St Pius X Basilica (Basilique Saint-Pie X) , a awe inspitating place able to accommodate over 25000 people which make it the largest churh of the site.
@@ -92,26 +92,33 @@ After breakfast, Arles-sur-Tech
 
 Lunch in  Arles-sur-Tech.
 
-Then, we will drive to Boule d'Amont to visit it's magnificient 11th century Romanesque priory.
+Then, we will drive to Boule d'Amont to visit the magnificient 11th century Romanesque priory. Once inside the church, admire the splendid pink marble rostrum and the sculpted capitals.
+its remarkable artistic heritage
+On the south side of the church, wander the 
 Wander the south gallery of the cloister with archway and admire the  beautiful aera of greenery.
 Then, take a pleasant wander around the priory and admire a charming botanic gardens full of Mediterraneans plants.
 
-Next, we will drive to Castelnou, charming medieval village listed as one of the most beautiful village in France. Before arriving, you will notice from distance
+Next, we will drive to Castelnou, charming medieval village listed as one of the most beautiful village in France. Notice from distance
 the Spanish-like church that sit on top of the village. 
 Enter the village throught the 14th century large stone arch gates, part of the fortification that were at that time erected around the village.
-Start to explore the picturesque little streets bedecked with flowers and lined with stone houses
+Start to explore the picturesque little streets bedecked with flowers and lined with stone houses, 
 Then, on the hillside near the castle, wander the "Tour de Castelnou", a medieval tower that served both as a lookout and as part of the town defense.
 Then, take a pleasant wander throught the numerous art and craft shop in the village.
 
-We will next drive to Salses to admire it's amazing fortress.   a Spanish military architecture enhanced by Vauban in 
+We will next drive to Salses to admire it's amazing fortress, a impressive Catalan stronghold dating from the 15th century.
+Enhanced by Vauban, it is now an unusual combination of medieval fortress and more recent defensive structure. 
 
 Dinner and night in Narbonne.
  
-### Day 7:  Narbonne - Caunes-Minervois
+### Day 7:  Lagrasse - Caunes-Minervois
 
 After breakfast, 
 
-Next, we will drive to Caunes-Minervois, a picturesque medieval town set in the middle of vineyards and garrigue and famous for it's red crimson marble used at Versailles, atTrianon in Opera Paris. Start the visit with a pleasant stroll inside the picturesque cobbled narrows streets. Notice the  beautifull Renaissance mansion along the way.
+Next, we will drive to Caunes-Minervois, a picturesque medieval town set in the middle of vineyards and garrigue and famous for it's red crimson marble used at Versailles, at Trianon in Opera Paris and the Capitole in Toulouse. Start the visit with a pleasant wander around the remains of some of the ramparts and the four ancient gateways. Then, stroll inside the picturesque cobbled narrows streets lined with medieval and Renaissance houses along the way. Take time to admire the facades of beautiful ancient dwellings.
+
+We will then visit the Benedictine abbey, found in 780 richly decorated with crimson Caunes marble.
+
+Then, explore the abbey 
 
 Dinner and night in Carcassonne.
 
@@ -133,6 +140,6 @@ We will then head on to Toulouse, for a final stroll inside the old town. And a 
 Time to say goodbye to our driver as we will go by ourself to the train station the next morning.
 Dinner and night in Toulouse
 
-### Day 9: Toulouse TGV- Paris CDG
+### Day 9: Carcassonne ( Toulouse) TGV- Paris CDG
 Early morning, we will say 'Au Revoir' to Midi-Pyrenee, take the TGV to Paris CDG airport.
 End of the trip.
