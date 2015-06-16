@@ -32,9 +32,6 @@ navigation:
        - label: วันเดอร์เบอร์กันดีตอนเหนือ
          title:  วันเดอร์เบอร์กันดีตอนเหนือ
          url: /tour-burgundy/wonder-northern-burgundy
-       - label: เส้นทางไวน์แห่งเบอร์กันดีและเบอร์กันดีตอนใต้
-         title:  เส้นทางไวน์แห่งเบอร์กันดีและเบอร์กันดีตอนใต้
-         url: /tour-burgundy/road-of-wine-and-southern-burgundy
        - label: แกรนด์เบอร์กันดี 
          title: แกรนด์เบอร์กันดี
          url: /tour-burgundy/grand-burgundy
