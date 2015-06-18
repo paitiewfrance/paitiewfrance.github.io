@@ -57,7 +57,7 @@ Wander the sublime   Romanesque cloisters with carved capital and  take a pleasa
 
 We will then drive to Foix for checkin.Dinner and night at Foix.
 
-### Day 4: Labouiche underground river- Foix -  ( Château de Montsegur ) 
+### Day 4: Labouiche underground river -  Château de Puilaurens
 
 After breakfast, head on to Labouiche, famous for it's undergroud navigable river, the longest navigable one in Europe.Enjoy a pleasant guided cruise in boat for some 1.5 kilometers upstream at 60 meters below ground and dmire the magnificient rock formations and some superb waterfall.
 
@@ -67,7 +67,10 @@ Next, we will drive head to the "Pays de Cathare" and visit the  semi-ruins Châ
 Built between 13th and 14th century, the Château is positioned nicely on top of a sloping cliff and towers majestically above the village of Puivert and it's lake.
 Stroll inside the castle, enter the square gate tower, admire the curtain walls, the superb courtyard of honor and the 35 meters-high keep who houses 4 splendid rooms, all beautiful examples of medieval architecture. 
 Then, take some stunning pictures from the inside the castle and outside, where the site offers a majestic view over the countryside and valleys.
-We will drive to Villefranche-de-Conflent or around for checkin. Dinner and night in Villefranche-de-Conflent or Arles-sur-Tech
+
+We will next drive to Puilaurens to admire the Château de Puilaurens, former defensive fortress and part of the famous "five sons" of Carcassonne, located at 700 meters and dominating the village of Lapradelle> Dated for the first time in 958, it had a leading role  in the defense  of the former French-Aragonese border. After having borrowed a baffles path, you will admire the middle-age military architecture  of the defensive fortress. Stroll around the castle and take the Chemin de Ronde and inside the fortress wander the remains of the squared dunjeon and the tower of the white lady. Take time also to take some amazing pictures as the castle offers a mind-blowing landscape vision. 
+
+We will then drive to Villefranche-de-Conflent or around for checkin. Dinner and night in Villefranche-de-Conflent or Arles-sur-Tech
 
 ### Day 5:  - Villefranche-de-Conflent - ( St.Martin du Canigou Abbey) - The Abbey of Saint-Michel de Cuxa
 Option: Only if people can't go to St.Martin du Canigou Abbey 
@@ -94,7 +97,7 @@ Option: Only if people cant go walk up to 40 minutes and 40 minutes down. ( 300 
 Next, we will then move on to Casteil and climb up to the sublime abbey of St.Martin du Canigou, a jewel of Romanesque art in the heart of Canigou massif. Built in 1001 by a Count of Cerdanya, this majestic abbey stands at an altitude of 1094 meters on a rocky spur overlooking the Cady Valley.
 We will take a guided tour to admire the church Notre-Dame-sous-Terre ( Our lady from under the earth ) which is the highest 11th century church, it's cloister and it's amazing marble capitals. Approching the abbey, a stairway will will lead up to a viewpoint for some fine picture opportunities with the breath-taking view over the whole monastery.     
 
-Them, drive to Arles-sur-Tech. Dinner and night at Arles-sur-Tech
+Them, drive to Parles. Dinner and night at Parles.
 End Option
 
 ### Day 6:  Eus - Prieuré de Serrabone - Castelnou - Salses-le-Château
@@ -124,19 +127,13 @@ Enhanced by Vauban, it is now an unusual combination of medieval fortress and mo
 
 Dinner and night in Lagrasse.
  
-### Day 7:  Lagrasse - Caunes-Minervois
+### Day 7:  Lagrasse - 
 
 After breakfast, 
 
-Next, we will drive to Caunes-Minervois, a picturesque medieval town set in the middle of vineyards and garrigue and famous for it's red crimson marble used at Versailles, at Trianon in Opera Paris and the Capitole in Toulouse. Start the visit with a pleasant wander around the remains of some of the ramparts and the four ancient gateways. Then, stroll inside the picturesque cobbled narrows streets lined with medieval and Renaissance houses along the way. Take time to admire the facades of beautiful ancient dwellings.
+Dinner and night in Lagrasse.
 
-We will then visit the Benedictine abbey, found in 780 richly decorated with crimson Caunes marble.
-
-Then, explore the abbey 
-
-Dinner and night in Carcassonne.
-
-### Day 8: Lagrasse - Carcassonne - Toulouse
+### Day 8: Lagrasse - Carcassonne
 After breakfast, head on to the picturesque village of Lagrasse,  listed as one of the most beautifull in France. Be sure to have packed your camera again as the village and it's abbey are a great location for taling some fine pictures!. Take a pleasant stroll inside the narrow streets of the medieval village, discover the 14th century covered market with stone pillars where artists and craftmen are pleased to show their work, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques along the streets.
 
  Around the town, admire the remain of the ramparts, the beautifull old humpback bridge crossing the Orbieu river, a nice spot for take some memorable pictures of the village. Then, cross the Orbieu river and visit the 8th century Sainte-Marie d'Orbieu Abbey, classified as Historical Monument since 1923, is one of the largest benedictine Abbey in southern France.
@@ -150,9 +147,7 @@ Start by taking a walk around the ramparts and admire the medieval and Gallo-Rom
 Then, enter the medieval city at the Narbonne door, consisting of two huge spur towers . Along the way, stroll inside the narrow cobbled streets and let the atmosphere of the city transport you back to Middle Age.
 Lunch at "La Maison du Cassoulet". Wander the 12th century Counts' castle,  hosting today the lapidary Museum, and the impressive Cathedral of Saint-Nazaire, built between the 11th and 14th century and admire it's Gothic statues and splendid stained glass. 
 
-We will then head on to Toulouse, for a final stroll inside the old town. And a delicious dinner with local food for our final evening together.
-Time to say goodbye to our driver as we will go by ourself to the train station the next morning.
-Dinner and night in Toulouse
+We will then have a delicious dinner with local food for our final evening together. Time to say goodbye to our driver as we will go by ourself to the train station the next morning. Dinner and night in Carcassonne
 
 ### Day 9: Carcassonne ( Toulouse) TGV- Paris CDG
 Early morning, we will say 'Au Revoir' to Midi-Pyrenee, take the TGV to Paris CDG airport.
