@@ -10,7 +10,7 @@ duration: 10วัน / 9คืน
 img: 
   - name: /img/languedoc/peyrepertuse
     alt: Perepertuse Castle
-  - name: /img/languedoc/puilaurens
+  - name: /img/languedoc/albi
     alt: Puilaurens Castle
 sitemap:
      priority: 1
