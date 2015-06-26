@@ -28,7 +28,7 @@ After breakfast,
 ### Day 4: Auch (UNESCO)- Toulouse (UNESCO)
 After breakfast, 
 ### Day 5: Moissac (UNESCO) - Albi (UNESCO)
-After breakfast, 
+After breakfast,  
 ### Day 6: Cordes-sur-Ciel - Najac - Villefranche-sur-Rouergue 
 After breakfast, 
 ### Day 7: Cahors (UNESCO)-  Saint-Cirq-Lapopie - Figeac
@@ -59,25 +59,16 @@ Then, we will have a pleasant wander back in time in the fairy-tales medieval al
 
 After lunch, head on to another magical village in France, Rocamadour, a UNESCO-listed site as part of St. James Way. Built on a the edge of a cliff  in a incredible landscape in a gorge above the Alzou river, it's renowned for its historical monuments and its sanctuary of the Blessed Virgin Mary, which for centuries has brought pilgrims from every country, among them kings, bishops, and nobles. With more than 1 millions visitors each year, it is the second most visited place in France after Mont St. Michel in Britain.  
 
-Enter the village by the gate , and get a stroll 
+Enter the village through the Porte du Figier and take pleasant wander in the paved street linead with magnicifient old stone houses. You will pass though several gates along the way ( Porte de Salmon, Porte of Hugon and Porte Basse) built for prevented attacks of the village. Admire the beautiful medieval houses along the way as well as the small local boutiques, which we will wander at the end of the visit.
 
-Climb up the 256 stairs of the me main staircase to reach the church square, and just like pilgrims did once, explore the seven sanctuaries of Rocamadour, among which the Notre-Dame Chapel or miracles chapel that contains a statue of the Black Virgin in the 11th century. Above the door on the outside, notice the sword of Durandal embedded in the stone. 
+Then, climb up the 256 stairs of the staircase leading to the church square. In an unreal architecture site,  start your exploration of the seven sanctuaries, among which the Notre-Dame Chapel or miracles chapel that contains a statue of the Black Virgin in the 11th century. Take time to wander each individual place, 
 
-Then, wander the St. Michel chapel, the highest chapel of the sanctuary and admire a magnificient mural of Christ in Majesty with the four evangelists. Also visible a fresco of Saint Michael weighing souls.
-
-The Basilique St Sauveur is the largest of the seven churches and inside one of the walls is the cliff face. It has a wooden gallery at the back which is very similar to those in the Basque region.
-
-Explore the 
-
-Wander the St. Amadour
-
-  From the top of the medieval village, or to be precise off the ramparts of the ancient fort, the view of all of Rocamadour, the Alzou canyon and the unspoiled landscapes surroundings the Regional Nature Park of the Quercy Limestone Plateaus is amazing
+The Basilique St Sauveur is the largest of the seven churches and inside one of the walls is the cliff face.Next, head to St. Michel chapel, the highest chapel of the sanctuary and admire a magnificient mural of Christ in Majesty with the four evangelists. Also visible a fresco of Saint Michael weighing souls.
 
 
-We will then explore the picturesque village with it's cobbled streets lined with old stone houses, quaint and lovely local shops along the way. 
+On top of the village,  wander the majestic fortress of Rocamandour. Dated from the 13th and the 14th century, the fortress prevented to enter the city by the top of the cliff and was part of the defensive system of the town and it's sanctuaries. From the belvedere,  the view of all of Rocamadour, the Alzou canyon and the unspoiled landscapes surroundings the Regional Nature Park of the Quercy Limestone Plateaus is amazing and will offers us some fine landscape pictures opportunities. 
 
-Last be not least, we will take a pleasant wander to the Cave of Marvels ( Grotte des Merveilles) and admire beautiful mineral concretions as well as 20.000 years-old cave drawing. 
-
+Then, free time to explore the quaint village and it's local boutiques before heading on to our next destination.
 
 ### Day 10: Rocamandour - Brive la Gaillarde - Paris CDG 
 
