@@ -46,6 +46,9 @@ navigation:
     title: ลองด็อค-รูซิยง-มิดิเพเรเน่ (Midi-Pyrénées)
     url: /tour-languedoc-roussillon-midi-pyrenee
     sub-menu: 
+       - label: กรองด์ไซต์พีเรเน่
+         title: กรองด์ไซต์พีเรเน่
+         url: /tour-languedoc-roussillon-midi-pyrenee/grand-site-pyrenee
        - label: ตูลูส-คาร์คาซอน-กาตาร์-ออช
          title: ตูลูส-คาร์คาซอน-กาตาร์-ออช
          url: /tour-languedoc-roussillon-midi-pyrenee/toulouse-carcassonne-cathare-albi-auch
