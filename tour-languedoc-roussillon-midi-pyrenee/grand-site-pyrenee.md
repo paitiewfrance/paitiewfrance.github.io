@@ -18,6 +18,9 @@ sitemap:
 intro: 
 ---
 
+{% assign tour-content = "grand-site-pyrenee" %}
+{% include tour-list.html %}
+
 ### Day 1: Paris CDG or Zurich - Toulouse Blagnac Airport
 Take shuttle to Toulouse town for checkin.
 Dinner and night Toulouse.
@@ -69,7 +72,7 @@ Then, we will come back to the city and take the tourist train, covering around 
 
 We will then checkin to our hotel. Dinner and night in Lourdes.
 
-### Day 5: Auch (UNESCO)- Moissac (UNESCO)
+### Day 5: Auch (UNESCO) - Moissac (UNESCO)
 After breakfast, 
 
 ### Day 6:  Cahors (UNESCO) - Saint-Cirq-Lapopie - Figeac
