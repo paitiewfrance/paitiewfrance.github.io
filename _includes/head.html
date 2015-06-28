@@ -10,7 +10,8 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="apple-touch-fullscreen" content="yes" />
-
+   {% if page.class =="blog" %}
+       
     <!-- Facebook opengraph stuff  -->
     <meta property="fb:page_id" content="822564541126863">
     <meta property="og:site" content="{{ site.url }}" />
@@ -22,6 +23,8 @@
     <meta property="og:image" content="{{site.ogImage}}" /> {% if page.meta %}
     <meta name="description" content="{{ page.meta }}"> {% else %}
     <meta name="description" content="{{ site.meta }}"> {% endif %}
+
+   {% endif %}
    
    <!-- -Twitter stuff -->
    <meta property="twitter:account_id" content="3224023189">

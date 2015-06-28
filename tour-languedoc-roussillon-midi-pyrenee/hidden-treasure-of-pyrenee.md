@@ -131,7 +131,7 @@ Here, we will enjoy mind-blowing landscape view of the wild and unspoiled countr
 
 We will then drive to Lagrasse for checkin in the late afternoon. Dinner and night in Lagrasse.
 
-### Day 8:   Lagrasse - Carcassonne
+### Day 8:   Lagrasse - Carcassonne - Toulouse
 After breakfast, head on to the picturesque village of Lagrasse,  listed as one of the most beautifull in France. Be sure to have packed your camera again as the village and it's abbey are a great location for taling some fine pictures!. Take a pleasant stroll inside the narrow streets of the medieval village, discover the 14th century covered market with stone pillars where artists and craftmen are pleased to show their work, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques along the streets.
 
  Around the town, admire the remain of the ramparts, the beautifull old humpback bridge crossing the Orbieu river, a nice spot for take some memorable pictures of the village. Then, cross the Orbieu river and visit the 8th century Sainte-Marie d'Orbieu Abbey, classified as Historical Monument since 1923, is one of the largest benedictine Abbey in southern France.
@@ -145,8 +145,8 @@ Start by taking a walk around the ramparts and admire the medieval and Gallo-Rom
 Then, enter the medieval city at the Narbonne door, consisting of two huge spur towers . Along the way, stroll inside the narrow cobbled streets and let the atmosphere of the city transport you back to Middle Age.
 Lunch at "La Maison du Cassoulet". Wander the 12th century Counts' castle,  hosting today the lapidary Museum, and the impressive Cathedral of Saint-Nazaire, built between the 11th and 14th century and admire it's Gothic statues and splendid stained glass. 
 
-We will then have a delicious dinner with local food for our final evening together. Time to say goodbye to our driver as we will go by ourself to the train station the next morning. Dinner and night in Carcassonne
+We will then have a delicious dinner with local food for our final evening together. Time to say goodbye to our driver as we will go by ourself to the train station the next morning. Dinner and night in Toulouse.
 
-### Day 9: Carcassonne ( Toulouse) TGV- Paris CDG
-Early morning, we will say 'Au Revoir' to Midi-Pyrenee, take the TGV to Paris CDG airport.
+### Day 9: Toulouse Blagnac - Paris CDG
+Early morning, we will say 'Au Revoir' to Midi-Pyrenee and take flight to Paris then BKK
 End of the trip.
