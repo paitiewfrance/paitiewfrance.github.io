@@ -8,9 +8,9 @@ meta:  ขุมทรัพย์ที่ซ่อนอยู่ในแค�
 tourName: ตูลูส-คาร์คาซอน-กาตาร์-ออช
 duration: 9วัน / 8คืน
 img: 
-  - name: /img/languedoc/peyrepertuse
+  - name: /img/pyrenee/conques
     alt: Perepertuse Castle
-  - name: /img/languedoc/puilaurens
+  - name: /img/pyrenee/rocamadour
     alt: Puilaurens Castle
 sitemap:
      priority: 1
