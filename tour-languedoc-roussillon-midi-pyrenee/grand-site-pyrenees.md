@@ -8,9 +8,9 @@ meta:  ร่วมเดินทางกับเราไปเที่ย�
 tourName: ตูลูส-คาร์คาซอน-กาตาร์-ออช
 duration: 9วัน / 8คืน
 img: 
-  - name: /img/pyrenee/conques
+  - name: /img/pyrenees/najac
     alt: Conques
-  - name: /img/pyrenee/rocamadour
+  - name: /img/pyrenees/rocamadour
     alt: Rocamadour
 sitemap:
      priority: 1

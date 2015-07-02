@@ -17,7 +17,9 @@
         {% for p in d.description %}
              <p>{{ p.paragraph }}</p>
         {% endfor %}
-        <img src="{{ day.img}}" alt="{{ day.alt}}" class="middle">
+        {% if d.img %}
+              <img src="/img/{{ d.img}}.jpg" alt="{{ d.alt}}" title="{{d.alt}}" class="middle postcard">
+        {% endif %}
     </div>
     {% endfor %}
 </div>

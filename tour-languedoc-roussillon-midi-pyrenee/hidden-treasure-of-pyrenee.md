@@ -52,7 +52,7 @@ We will exit the village through another gateway through the fortifications (Por
 
 From the chevet, admire the beautifull view over Saint-Bertrand-de-Comminges and it's cathedral.  
 
-Next, we will drive to the medieval village of Saint-Lizier, important stopover on the way to Saint Jacques de Compostela and also listed as one of the most beautifull village in France. A former episcopal city, Saint-Lizier has preserved an important religious heritage from it's rich past. We will  wander it's cathedral, built in the 15th century and dominated by a Toulouse Gothic-style octogonal belfry and admire the sublime collection of Romanesque frescoe in the apse and north absidiole.
+Next, we will drive to the medieval village of Saint-Lizier, an important stopover on the way to Saint Jacques de Compostela and also listed as one of the most beautifull village in France. A former episcopal city, Saint-Lizier has preserved an important religious heritage from it's rich past. We will  wander it's cathedral, built in the 15th century and dominated by a Toulouse Gothic-style octogonal belfry and admire the sublime collection of Romanesque frescoe in the apse and north absidiole. 
 Explore also the Romanesque cloisters with carved capital and take a pleasant wander along the narrow cobbled streets lined with old houses and visit the 17th century former bishop's palace ( Palais des Évêques), which today houses a museum of popular arts and traditions.
 
 Next, we will  drive to Foix, former capital of the historic County of Foix,  and admire it's stunning castle perched on a impressive crag.  We will admire the 3 remaining towers, take a pleasant stroll around the castle and admire the splendid view offers over the town and the valley. 
@@ -72,22 +72,17 @@ We will next drive to Puilaurens to admire the Château de Puilaurens, former de
 We will then drive to Villefranche-de-Conflent or around for checkin. Dinner and night in Prades.
 
 ### Day 5:  Villefranche-de-Conflent - ( St.Martin du Canigou Abbey) - ( The Abbey of Saint-Michel de Cuxa) 
-Option: Only if people can't go to St.Martin du Canigou Abbey 
+After breakfast, we will  visit the medieval fortified village of Villefranche-de-Conflent. Listed as a World Heritage Site  by the UNESCO for it's fortification by Vauban, the town was found in the 11th by a Count of  Cerdanya in order to protect the valleys from invasion and it's listed as one of the most beautifull village in France. It was fortified by Vauban, France's famous military engineer in the 17th century to ensure it's safety.
 
-Lunch along the road.
-Then, we will  visit the medieval fortified village of Villefranche-de-Conflent. Listed as a World Heritage Site  by the UNESCO because of it's fortification by Vauban. The town was found in the 11th by a Count of  Cerdanya in order to protect the valleys from invasion. It was fortified by Vauban, France's famous military engineer in the 17th century to ensure it's safety. The town is also listed as one of the most beautifull village in France.  
-On arrival, you will be fascinate and amazed by the massive fully-preserved ramparts of the town. A very picturesque town is ahead with fine pictures opportunities !
-
-Let's travel back in time and start the visit of this ancient heritage by a pleasant walk along the ramparts and admire this massive thick wall surrounding the entire village with just fiew fortified doorways through the ramparts. A guided visit will allow us to visit the ramparts from the upper path, build by Vauban and a tunnel  vault built in the Middle-Age.
+Enter the village through the large stones arches gates and start the visit of this ancient heritage by a pleasant walk along the ramparts and admire this massive thick wall surrounding the entire village with just fiew fortified doorways through the ramparts. A guided visit will allow us to visit the ramparts from the upper path, build by Vauban and a tunnel  vault built in the Middle-Age.
 Continue our journey by taking a pleasant stroll along the picturesque narrow streets and notice the pink marble that gives the village a lovely pink glow, get lost in the narrow side alleys and admire the beautiful old stones houses where doorways are often round or arched. We will also admire the Tour de la Viguerie ( Viguerie Tower ), the only towers left as part of fortifications.
 
 On the heights above the village, we will climp up an underground staiway ( tunnel vault ) called "The thousand steps" to reach the fantastic Fort Iberia that overlook the medieval village and the confluence of the 3 valleys. Take the chemin de ronde, and admire the fortress also built by Vauban in 1681.
 Then, head down back to the village and enjoy some free free time for some more pictures, wandering the local boutiques and souvenirs shops. 
 
-After taking the obligatory pictures from bottom to the hill, we will drive to Prades for our second night.
-
+After taking obligatory pictures from bottom to the hill, we will, --->
 Option: Only if people can go walk up to 40 minutes and 40 minutes down. ( 300 meters )
-Next, we will then move on to Casteil and climb up to the sublime abbey of St.Martin du Canigou, a jewel of Romanesque art in the heart of Canigou massif. Built in 1001 by a Count of Cerdanya, this majestic abbey stands at an altitude of 1094 meters on a rocky spur overlooking the Cady Valley.
+we will then move on to Casteil and climb up to the sublime abbey of St.Martin du Canigou, a jewel of Romanesque art in the heart of Canigou massif. Built in 1001 by a Count of Cerdanya, this majestic abbey stands at an altitude of 1094 meters on a rocky spur overlooking the Cady Valley.
 We will take a guided tour to admire the church Notre-Dame-sous-Terre ( Our lady from under the earth ), which is the highest 11th century church, it's cloister and it's amazing marble capitals. Approching the abbey, a stairway will will lead up to a viewpoint for some fine picture opportunities with the breath-taking view over the whole monastery.     
 
 Option: If people can't go to St. Martin de Canigou.
@@ -99,7 +94,7 @@ End Option
 ### Day 6:  Eus - Prieuré de Serrabone - Castelnou
 
 After an early morning breakfast, we will visit the charming medieval village of Eus, listed one of the most beautifull in France it is also amongst the sunniest village of France.  Lovely perched on a hill of granite, it's location and it's extreme picturesque architecture will offer you some fine pictures opportunities. 
-Start the visit on the top of the hill at the church of St. Vincent...Inside, admire the altarpiece and some primitive statues.....
+Start the visit on the top of the hill at the church of St. Vincent...Inside, admire the altarpiece and some primitive statues.
 Behind the church, clamb around the ruins of the medieval castle and admire the magnificent views in all directions from the top of the hill. Then, head down the narrow cobbled streets which are really picturesque and admire along the way the ancient vault passageways. In the center of the village, you will see some massses of agaves, cacti and other mediterranean plants which make the village even more attractive. Then, on the lower of the village, wander the church from the 10th century dedicate to St. Vincent and St. Jean.
 
 We will have a lunch along the way and drive to Boule d'Amont to visit the magnificient 11th century Romanesque building, the Serraborne Priory. Located in a green, preverved wild landscape, it is considered today as a Roman Art masterpiece for it's remarkable artistic heritage. Be sure to get your camera ready as this mind-blowing landscape will offer you some fine pictures opportunities along the way to the prirory but also inside the building hitself. 
@@ -120,16 +115,16 @@ Dinner and night in Perpignan.
  
 ### Day 7:  Forca Real  - Salses-le-Château- Le Château de Peyrepertuse 
 
-After breakfast on early morning this time, we will drive to Forca Real hermitage whick consitute a fantastic formidable belvedere over the Roussillon 
-Located at 507 meters high, we will enjoy a mind-blowing 360 degres landscape panorama whick takes in the Roussillon plain, the Vermilion Coast, the Canigou massif and the Corbrieres. Take time for some fine landscape pictures on top of the hermitage.
+After an early wake up, we will drive to Forca Real hermitage which consitute a fantastic belvedere over the Roussillon countryside.
+Located at 507 meters high, we will admire a mind-blowing 360 degres landscape panorama whick takes in the Roussillon plain, the Vermilion Coast, the Canigou massif and the Corbrieres. We will  take time for some fine landscape pictures on top of the hermitage.
 
-Next, we will drive to Corbrieres to admire the fortress of Salses, a spanish military architecture fortification built at the end of the 15th century built to protect the frontier between Spain and the Kingdom of France. Wander around and inside it's majestic "red bricks" fortress as it will reveal to you it's former function through features typical of defensive architecture: ditches, escarpments, drawbridges, a keep, artillery towers, curtain walls and demi-lunes. 
+Next, we will drive to Corbrieres to admire the fortress of Salses, a spanish military architecture fortification built at the end of the 15th century to protect the frontier between Spain and the Kingdom of France. Wander around and inside it's majestic "red bricks" fortress as it will reveal to you it's former function through features typical of defensive architecture: ditches, escarpments, drawbridges, a keep, artillery towers, curtain walls and demi-lunes. 
 
-Then, head on to "Pays de Cathare" impressive Château de Peyrepertuse, called the citadel of vertigo. As large as the city of Carcassonne,  the impressive cathare castle stand majesticaly at 800 meters high and overlooks the wild and unspoilded country from it's rocky promotory. Part of "five sons" of Carcassonne, it was built to reinforced the fortress of Carcassonne in order to protect the southern border of the Kingdom of France.
-After a short walk ( around 20 minutes ), we will discover some remarkable evidenve and remains from the middle-age military architecture.  Wander inside the 3 different par that compose the citadel; the old castle, the middle enclosure and at the highest point, the San Jordi castle, which is accessible by St. Louis stairway. 
+Next, head on to "Pays de Cathare" to admire the impressive Château de Peyrepertuse, called the citadel of vertigo. As large as the city of Carcassonne,  the massive cathare castle stand majesticaly at 800 meters high and overlooks the wild and unspoilded country from it's rocky promotory. Part of "five sons" of Carcassonne, it was built to reinforced the fortress of Carcassonne in order to protect the southern border of the Kingdom of France.
+After a short walk ( around 15 minutes ), we will discover some remarkable evidenve and remains from the middle-age military architecture.  Wander inside the 3 different par that compose the citadel; the old castle, the middle enclosure and at the highest point, the San Jordi castle, which is accessible by St. Louis stairway. 
 Here, we will enjoy mind-blowing landscape view of the wild and unspoiled country and take free time for some amazing pictures.
 
-We will then drive to Lagrasse for checkin in the late afternoon. Dinner and night in Lagrasse.
+We will then drive to Lagrasse for checkin Dinner and night in Lagrasse.
 
 ### Day 8:   Lagrasse - Carcassonne - Toulouse
 After breakfast, head on to the picturesque village of Lagrasse,  listed as one of the most beautifull in France. Be sure to have packed your camera again as the village and it's abbey are a great location for taling some fine pictures!. Take a pleasant stroll inside the narrow streets of the medieval village, discover the 14th century covered market with stone pillars where artists and craftmen are pleased to show their work, the old stone medieval houses, it's Gothic church listed as a Historic Monument and wander the craft shop and boutiques along the streets.

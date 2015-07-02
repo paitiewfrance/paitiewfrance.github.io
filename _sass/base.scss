@@ -37,22 +37,22 @@ figure {
 }
 
 
-img {
-    -webkit-filter: sepia(80%) ;
-    -moz-filter: sepia(80%) ;
-    transition: all .15s linear;
-    width: 100%;
-    -ms-filter: sepia(80%) ; 
-    -o-filter: sepia(80%) ;
-    filter: sepia(80%) ;
-    &:hover {
-    -webkit-filter: sepia(0%);
-    -moz-filter: sepia(0%);
-    -ms-filter: sepia(0%); 
-    -o-filter: sepia(0%);
-    filter: sepia(0%);
-    }
-}
+// img {
+//     -webkit-filter: sepia(80%) ;
+//     -moz-filter: sepia(80%) ;
+//     transition: all .15s linear;
+//     width: 100%;
+//     -ms-filter: sepia(80%) ; 
+//     -o-filter: sepia(80%) ;
+//     filter: sepia(80%) ;
+//     &:hover {
+//     -webkit-filter: sepia(0%);
+//     -moz-filter: sepia(0%);
+//     -ms-filter: sepia(0%); 
+//     -o-filter: sepia(0%);
+//     filter: sepia(0%);
+//     }
+// }
 
 
 ul,
