@@ -9,9 +9,9 @@ tourName: ตูลูส-คาร์คาซอน-กาตาร์-ออ�
 duration: 10วัน / 9คืน
 img: 
   - name: /img/languedoc/peyrepertuse
-    alt: Perepertuse Castle
-  - name: /img/languedoc/albi
-    alt: Puilaurens Castle
+    alt: Peyrepertuse Castle
+  - name: /img/languedoc/carcassonne
+    alt: Carcassonne
 sitemap:
      priority: 1
      changefreq: 'daily'    
