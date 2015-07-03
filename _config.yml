@@ -52,9 +52,9 @@ navigation:
        - label: ตูลูส-คาร์คาซอน-กาตาร์-ออช
          title: ตูลูส-คาร์คาซอน-กาตาร์-ออช
          url: /tour-languedoc-roussillon-midi-pyrenee/toulouse-carcassonne-cathare-albi-auch
-       # - label: ขุมทรัพย์ที่ซ่อนอยู่ในแคว้นมิดิ-พีเรเน่
-       #   title: ขุมทรัพย์ที่ซ่อนอยู่ในแคว้นมิดิ-พีเรเน่
-       #   url: /tour-languedoc-roussillon-midi-pyrenee/hidden-treasure-of-pyrenee
+       - label: ขุมทรัพย์ที่ซ่อนอยู่ในแคว้นมิดิ-พีเรเน่
+         title: ขุมทรัพย์ที่ซ่อนอยู่ในแคว้นมิดิ-พีเรเน่
+         url: /tour-languedoc-roussillon-midi-pyrenee/hidden-treasure-midi-pyrenees
   - label:  ทัวร์ แคว้นอาลซัส Alsace
     title:  ทัวร์ แคว้นอาลซัส Alsace
     url: /tour-alsace
@@ -62,9 +62,6 @@ navigation:
        - label:  ทัวร์คริสต์มาสแคว้นอาลซัส
          title:  ทัวร์คริสต์มาสแคว้นอาลซัส
          url: /tour-alsace/christmas-in-alsace
-       # - label: เส้นทางแห่งไวน์
-       #   title: เส้นทางแห่งไวน์
-       #   url: /tour-alsace/road-of-wine
   - label: ทัวร์ เปยี เดอ ลา ลัวร์
     title: ทัวร์ เปยี เดอ ลา ลัวร์
     url: /tour-pays-de-la-loire
