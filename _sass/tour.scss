@@ -90,7 +90,11 @@
 // }
 
 img.postcard {
-    width: 82%;
+    width: 100;
     border-radius: 0 !important;
     margin: 0 auto;
+
+    @include media(em(940)) {
+         width: 82%;
+    }
 }

@@ -73,6 +73,7 @@ nav {
         }
         &:hover {
             color: $nav-link;
+            border-color: darken($nav, 22);
             background: darken($nav, 25);
         }
         &:focus,
@@ -545,8 +546,10 @@ form {
         display: block;
     }
     ul li a {
-        color: rgba(white, .55);
+        background:darken($nav, 7);
+        border-color: lighten($nav,2);
         &:hover {
+            background: darken($nav, 35);
             color: white;
         }
     }
