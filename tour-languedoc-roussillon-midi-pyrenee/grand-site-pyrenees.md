@@ -8,7 +8,7 @@ meta:  ร่วมเดินทางกับเราไปเที่ย�
 tourName: ทัวร์เอ็กซ์คลูซีฟสู่ดินแดนศักดิ์สิทธิ์ กรองด์ ไซต์ มิดิ-พีเรเน่ Grands Sites Midi Pyrénées
 duration: 9วัน / 8คืน
 img: 
-  - name: /img/pyrenees/najac
+  - name: /img/pyrenees/conques
     alt: Conques
   - name: /img/pyrenees/rocamadour
     alt: Rocamadour
