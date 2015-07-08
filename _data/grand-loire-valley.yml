@@ -1,17 +1,38 @@
  days:
   day: 
-    - title: "เ"
-      img: ""
-      alt: ""
+    - title: "Bourges"
+      img: "loire/cathedral-bourges"
+      alt: "Bourges Cathedral"
       description:
           - paragraph: ""
           - paragraph: ""
           - paragraph: ""
-    - title: ""
-      img: ""
-      alt: ""
+    - title: "Orleans"
+      img: "loire/orleans/orleans"
+      alt: "Orleans"
       description: 
           - paragraph: ""
           - paragraph: ""
           - paragraph: ""
+    - title: "Chartres"
+      img: "loire/chartres/chartres-cathedral"
+      alt: "Cathedral Chartres"
+      description: 
+          - paragraph: ""
+          - paragraph: ""
+          - paragraph: ""
+    - title: "Orleans"
+      img: "loire/orleans/orleans"
+      alt: "Orleans"
+      description: 
+          - paragraph: ""
+          - paragraph: ""
+          - paragraph: ""
+    - title: "Orleans"
+      img: "loire/orleans/orleans"
+      alt: "Orleans"
+      description: 
+           - paragraph: ""
+           - paragraph: ""
+           - paragraph: ""
          
