@@ -4,7 +4,7 @@ author: paitiewfrance
 permalink: pretty
 
 url: "http://paitiewfrance.com"
-# url: "http://localhost:4000"
+url: "http://localhost:4000"
 
 
 
@@ -66,9 +66,9 @@ navigation:
     title: ทัวร์ เปยี เดอ ลา ลัวร์
     url: /tour-pays-de-la-loire
     sub-menu:
-       - label: ปราสาทแห่งลุ่มแม่น้ำลัวร์
-         title: ปราสาทแห่งลุ่มแม่น้ำลัวร์
-         url: /tour-pays-de-la-loire/castles-of-the-loire-valley
+       - label: กรองด์ ลัวร์ วัลเล่ย์
+         title: กรองด์ ลัวร์ วัลเล่ย์
+         url: /tour-pays-de-la-loire/grand-loire-valley
   - label: เกี่ยวกับไปเที่ยวฟรานซ์
     title: เกี่ยวกับไปเที่ยวฟรานซ์
     url: /about
