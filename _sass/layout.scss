@@ -35,6 +35,7 @@
 /* Navigation */
 
 $nav: #ADAAA7;
+// $nav: #03588C;
 $nav-link: white;
 nav {
     width: 14rem;
@@ -73,8 +74,8 @@ nav {
         }
         &:hover {
             color: $nav-link;
-            border-color: darken($nav, 22);
-            background: darken($nav, 25);
+            border-color: darken($nav, 5);
+            background: darken($nav, 7);
         }
         &:focus,
         &:visited {
@@ -184,6 +185,7 @@ footer h1 {
 $header-bg:#197E9A;
 $header-bg:#95CCE0;
 $header-bg:#383838;
+// $header-bg:#03588C;
 #header {
     background: $header-bg;
     height: auto;
