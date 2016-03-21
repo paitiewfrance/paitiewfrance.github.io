@@ -112,6 +112,9 @@ nav.menu-open {
     nav.menu-open {
       overflow-y: scroll;
       width: 26em; } }
+  @media (min-width: 1100px) {
+    nav.menu-open {
+      overflow-y: auto; } }
 
 #nav-menu {
   display: block;

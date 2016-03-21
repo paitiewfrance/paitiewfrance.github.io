@@ -140,6 +140,10 @@ nav.menu-open {
         overflow-y: scroll;
         width: 26em;
     }
+
+    @media (min-width: 1100px) {
+        overflow-y: auto;
+    }
 }
 
 #nav-menu {
