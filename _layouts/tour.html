@@ -21,14 +21,14 @@ layout: default
              {% endfor %}
          </div>
     {% endif %}
-   
+
     {% if  page.intro %}
       <div class="tour-intro">
           <h4>{{ page.intro }}</h4>
-     </div>    
+     </div>
     {% endif %}
-    
-    
+
+
     <div class="content">
         {{ content }}
     </div>
@@ -36,14 +36,8 @@ layout: default
     <div class="center">
         <ul>
            <li><a href="{{site.url}}/assets/Booking_Form.doc" class="print" title="Book the trip">Download our Booking form</a></li>
-          <li><a href="#" onclick="window.print(); return false;" class="print">Print the program</a></li>
+           <li><a href="#" onclick="window.print(); return false;" class="print">Print the program</a></li>
         </ul>
-        
     </div>
 
     {% include info.html %}
-
-    
-
-
-

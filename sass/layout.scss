@@ -1,8 +1,50 @@
 /*- General Layout -*/
 /* Logo */
 
+$orange: #E07A31;
+$footer: #DCDBD9;
+
+$main-color: #565656;
+$header:#282828;
+$background-color: #F7F7F7;
+$text-color:  #26241F;
+
+$sans: 'Roboto Slab', serif;
+$serif:  'Ovo', serif;
+$serif-bis: 'Handlee', cursive;
+
 .nop {
     margin-top: 0 !important;
+}
+
+.bank-list {
+
+  display: block;
+  li {
+    text-align: center;
+    margin: 4em 0;
+    width: 100%;
+    text-align: center;
+  }
+
+  figure img {
+    display: inline;
+    max-width: 75% !important;
+  }
+
+
+  @include media(em(940)) {
+    display: table;
+
+    li {
+      display: table-cell;
+      width: 33.333333%;
+      margin: 0;
+      padding-right: 5%;
+    }
+  }
+
+
 }
 
 /*===================================================================TOUR PREVIEW===============================================================================*/
@@ -13,6 +55,9 @@
     background:red;
     height: 250px;
 }
+
+$footer: #DCDBD9;
+$background-color: #F7F7F7;
 
 .logo {
     display: block;
@@ -47,6 +92,7 @@ nav {
     transition: all 0.3s ease-in;
     background: lighten(black, 92);
     background: $nav;
+    overflow-y: auto;
     z-index: 1;
     padding: 82px 0;
     text-align: center;
@@ -91,7 +137,7 @@ nav.menu-open {
     -webkit-transform: translateX(-14rem);
     width: 100%;
     @media (min-width: 940px) {
-        overflow-y: hidden;
+        overflow-y: scroll;
         width: 26em;
     }
 }
@@ -579,7 +625,7 @@ footer {
     p a {
         text-decoration: underline;
     }
-    
+
     h1 {
         margin: .25em 0;
     }
@@ -637,7 +683,7 @@ ul.social {
                 padding: .75em .0;
                 background:$social;
                 display: block;
-                
+
             }
         }
     }

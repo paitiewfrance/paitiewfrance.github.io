@@ -1,25 +1,23 @@
 <nav id="nav">
 	<ul id="nav-list">
-	{% for link in site.navigation %}
-	    {% if  link.sub-menu != null %}
-                        <li class ="has-submenu">
-                         <a href="#"  class ="[ primary-link {% if link.title contains page.class %} current  {% endif %} ] "  title ="{{link.title | capitalize }}"><strong>{{ link.label | capitalize }}</strong></a>
-                         <div class="submenu-container">
-                         	 <ul>
-                                  {% for  sub in link.sub-menu %}
-                                       <li>
-                                         <strong><a href="{{site.url}}{{sub.url}}"  title=" ทัวร์ {{ sub.title | capitalize }}"><span class ="tour-dn">ทัวร์</span> {{ sub.label | capitalize }}</a></strong>
-                                       </li>
-                                  {% endfor %}
-                              </ul>
-                         </div>
-                         </li>
-	    {% else  %}
-	         <li>
-	            <a href="{{site.url}}{{ link.url }}" class ="primary-link" title ="{{link.title | capitalize }}">{{link.label | capitalize }} <span class ="tour-dn">ไปเที่ยวฟรานซ์ </span> </a>
-	         </li>
-	      {% endif %}
-	{% endfor %}
+		{% for link in site.navigation %} {% if link.sub-menu != null %}
+		<li class="has-submenu">
+			<a href="#" class="[ primary-link {% if link.title contains page.class %} current  {% endif %} ] " title="{{link.title | capitalize }}"><strong>{{ link.label | capitalize }}</strong></a>
+			<div class="submenu-container">
+				<ul>
+					{% for sub in link.sub-menu %}
+					<li>
+						<strong><a href="{{site.url}}{{sub.url}}"  title=" ทัวร์ {{ sub.title | capitalize }}"><span class ="tour-dn">ทัวร์</span> {{ sub.label | capitalize }}</a></strong>
+					</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</li>
+		{% else %}
+		<li>
+			<a href="{{site.url}}{{ link.url }}" class="primary-link" title="{{link.title | capitalize }}">{{link.label | capitalize }} <span class ="tour-dn">ไปเที่ยวฟรานซ์ </span> </a>
+		</li>
+		{% endif %} {% endfor %}
 	</ul>
-	<a href="https://www.facebook.com/paitiewfrance" title ="Join us of facebook" target ="_blank"><span class ="fa fa-facebook"></span></a>
+	<a href="https://www.facebook.com/paitiewfrance" title="Join us of facebook" target="_blank"><span class ="fa fa-facebook"></span></a>
 </nav>

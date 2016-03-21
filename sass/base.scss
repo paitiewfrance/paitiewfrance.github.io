@@ -1,14 +1,19 @@
 @import "bourbon/bourbon";
 @import "neat/neat";
 
+@import "layout";
+@import "tour";
+@import "typography";
+
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700);
 @import url(http://fonts.googleapis.com/css?family=Ovo);
 @import url(http://fonts.googleapis.com/css?family=Muli:300,400);
 @import url(http://fonts.googleapis.com/css?family=Handlee);
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    box-sizing: border-box;
+     box-sizing: border-box;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
@@ -42,13 +47,13 @@ figure {
 //     -moz-filter: sepia(80%) ;
 //     transition: all .15s linear;
 //     width: 100%;
-//     -ms-filter: sepia(80%) ; 
+//     -ms-filter: sepia(80%) ;
 //     -o-filter: sepia(80%) ;
 //     filter: sepia(80%) ;
 //     &:hover {
 //     -webkit-filter: sepia(0%);
 //     -moz-filter: sepia(0%);
-//     -ms-filter: sepia(0%); 
+//     -ms-filter: sepia(0%);
 //     -o-filter: sepia(0%);
 //     filter: sepia(0%);
 //     }
@@ -70,7 +75,7 @@ $background-color: #F7F7F7;
 $text-color:  #26241F;
 
 $sans: 'Roboto Slab', serif;
-$serif:  'Ovo', serif; 
+$serif:  'Ovo', serif;
 $serif-bis: 'Handlee', cursive;
 
 
@@ -126,4 +131,3 @@ img[title="Pookie"] {
 
 
 /*=========================GIANT PIC===============================*/
-

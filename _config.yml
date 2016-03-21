@@ -3,8 +3,8 @@ author: paitiewfrance
 
 permalink: pretty
 
-url: "http://paitiewfrance.com"
-# url: "http://localhost:4000"
+# url: "http://paitiewfrance.com"
+url: "http://localhost:4000"
 
 
 
@@ -12,7 +12,7 @@ navigation:
   - label: ไปเที่ยวฟรานซ์
     title: ไปเที่ยวฟรานซ์
     url: /
-  - label: ทัวร์โพรวองซ์ 
+  - label: ทัวร์โพรวองซ์
     title:  ทัวร์โพรวองซ์
     url: /tour-provence
     sub-menu:
@@ -32,12 +32,12 @@ navigation:
        - label: วันเดอร์เบอร์กันดีตอนเหนือ
          title:  วันเดอร์เบอร์กันดีตอนเหนือ
          url: /tour-burgundy/wonder-northern-burgundy
-       - label: แกรนด์เบอร์กันดี 
+       - label: แกรนด์เบอร์กันดี
          title: แกรนด์เบอร์กันดี
          url: /tour-burgundy/grand-burgundy
   - label:  ทัวร์เทือกเขาแอลป์
     title:  ทัวร์เทือกเขาแอลป์
-    url: /tour-alps
+    url: /tour-alpssome meta
     sub-menu:
        - label: เส้นทางเทือกเขาแอลป์
          title: เส้นทางเทือกเขาแอลป์
@@ -45,7 +45,7 @@ navigation:
   - label:  ลองด็อค-รูซิยง-มิดิเพเรเน่ (Midi-Pyrénées)
     title: ลองด็อค-รูซิยง-มิดิเพเรเน่ (Midi-Pyrénées)
     url: /tour-languedoc-roussillon-midi-pyrenee
-    sub-menu: 
+    sub-menu:
        - label: กรองด์ไซต์พีเรเน่
          title: กรองด์ไซต์พีเรเน่
          url: /tour-languedoc-roussillon-midi-pyrenee/grand-site-pyrenees
@@ -58,7 +58,7 @@ navigation:
   - label:  ทัวร์ แคว้นอาลซัส Alsace
     title:  ทัวร์ แคว้นอาลซัส Alsace
     url: /tour-alsace
-    sub-menu: 
+    sub-menu:
        - label:  ทัวร์คริสต์มาสแคว้นอาลซัส
          title:  ทัวร์คริสต์มาสแคว้นอาลซัส
          url: /tour-alsace/christmas-in-alsace
@@ -78,5 +78,6 @@ navigation:
   - label:  บล็อกเที่ยวฝรั่งเศส
     title: บล็อกเที่ยวฝรั่งเศส
     url: /blog
-
-
+  - label: วิธีการชำระเงิน
+    title: วิธีการชำระเงิน
+    url: /payment-method
