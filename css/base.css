@@ -559,7 +559,7 @@ ul.social {
     display: table; }
     footer .container .column {
       display: table-cell;
-      width: 50%;
+      width: 33%;
       padding-right: 5%; }
     footer .container .right {
       text-align: right !important; } }
