@@ -8,13 +8,10 @@ layout: default
 	 {{ page.tourName }}
        </h1>
         <h2>{{ page.duration }}</h2>
-        {% if page.remark %}
-               <h5 class ="notice">
-                  {{page.remark}}
-              </h5>
-          {% endif %}
+
         {% if page.price %}
-           <h3>{{page.price}}</h3>
+         <h3>ราคาเริ่มต้น {{page.price}} บาท/ท่าน (ราคาอาจมีการเปลี่ยนแปลงตามจำนวนผู้เดินทาง) ติดต่อสอบถาม คลิกที่ Book the trip เพื่อe-mail สอบถามข้อมูลเพิ่มเติม</h3>
+
         {% endif %}
     </header>
     {% if page.img %}
